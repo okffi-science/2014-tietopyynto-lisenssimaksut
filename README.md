@@ -8,7 +8,7 @@ Tein kevään/kesän 2014 aikana julkisuuslain mukaisen [tietopyynnön](https://
  1. Aallon ja Elsevierin välillä solmitun lisenssisopimuksen kokonaishinnasta
  1. Muista hankintapäätökseen vaikuttaneista tekijöistä (esim. vaihtoehtoiset tarjolla olleet tilauskokonaisuudet).
 
-Jos yliopistot voivat salata tiedejulkaisijoiden kanssa tehtyjen sopimusten kokonaishinnat, tällä on ennakkotapauksena laajempaa merkitystä. Aallolle tehty tietopyyntö liittyy laajempaan kansainväliseen keskusteluun sekä kokonaisuuteen tietopyyntöjä, joita lähetimme kaikille suomalaisille yliopistoille, Kansalliskirjastolle ja Finelib-konsortiolle. Suurin osa tietopyyntöihin liittyvästä materiaalista on [Google-docs-alustalla](https://drive.google.com/?authuser=0#folders/0BzpjC35str8vUkpaTnFvZUNZV0k) sekä tässä hakemistossa PDF-muodossa eri korkeakouluilta saadut [vastaukset](vastaukset). Teen koko prosessista tarkempaa yhteenvetoa hieman tuonnempana.
+Jos yliopistot voivat salata tiedejulkaisijoiden kanssa tehtyjen sopimusten kokonaishinnat, tällä on ennakkotapauksena laajempaa merkitystä. Aallolle tehty tietopyyntö liittyy [laajempaan kansainväliseen keskusteluun](http://gowers.wordpress.com/2014/04/24/elsevier-journals-some-facts/) sekä kokonaisuuteen tietopyyntöjä, joita lähetimme kaikille suomalaisille yliopistoille, Kansalliskirjastolle ja Finelib-konsortiolle. Suurin osa tietopyyntöihin liittyvästä materiaalista on [Google-docs-alustalla](https://drive.google.com/?authuser=0#folders/0BzpjC35str8vUkpaTnFvZUNZV0k) sekä tässä hakemistossa PDF-muodossa eri korkeakouluilta saadut [vastaukset](vastaukset). Teen koko prosessista tarkempaa yhteenvetoa hieman tuonnempana.
 
 
 **Prosessin eteneminen**
