@@ -1,18 +1,39 @@
 2014-tietopyynto-lisenssimaksut
 ===============================
 
-Materiaalia tietopyynnöstä suomalaisille korkeakouluille koskien kv. kustantajien lisenssimaksuja
-
- * Tämä hakemisto sisältää PDF-muodossa saadut
-   [vastaukset](vastaukset) ja mahdollisesti yhteisöllisesti
-   työstettävää muuta materiaalia
-
- * Lisää tietopyyntömateriaaleja löytyy [Google Docs-kansiosta](https://drive.google.com/?hl=fi&urp=https://www.google.nl/url?sa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26sou&pli=1#folders/0BzpjC35str8vUkpaTnFvZUNZV0k)
-
- * Keskustelua [Open Science Finland Facebook-ryhmässä](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/)
+## Tietopyyntö kv. kustantajien lisenssimaksuista Aalto-yliopistolle
 
 
+**Taustaa**  
 
-### Alkuperäinen tietopyyntö 2.5.2014
+Tein kesällä 2014 julkisuuslain mukaisen tietopyynnön Aallolle:
 
-Hei, pyydän erittelyä niistä maksusuorituksista, jotka Helsingin yliopisto on osoittanut  FinELib-konsortiolle kansainvälisten kustantajien lisenssisopimusten kattamiseksi  vuodesta 2010 alkaen. Pyydän tietoja laskutuskausittain ja  kustantajittain eriteltyinä, mikäli tieto on olemassa. Lisäksi pyydän  tietoa maksuista ladattua artikkelia kohden laskettuna niiden  kustantajien osalta  joille tämä tieto on saatavilla. 
+ 1. Aallon ja Elsevierin välillä solmitun lisenssisopimuksen kokonaishinnasta
+ 1. Muista hankintapäätökseen vaikuttaneista tekijöistä (esim. vaihtoehtoiset tarjolla olleet tilauskokonaisuudet).
+
+Jos yliopistot voivat salata tiedejulkaisijoiden kanssa tehtyjen sopimusten kokonaishinnat, tällä on ennakkotapauksena laajempaa merkitystä. Aallolle tehty tietopyyntö liittyy laajempaan kansainväliseen keskusteluun sekä kokonaisuuteen tietopyyntöjä, joita lähetimme kaikille suomalaisille yliopistoille, Kansalliskirjastolle ja Finelib-konsortiolle. Suurin osa tietopyyntöihin liittyvästä materiaalista on [Google-docs-alustalla](https://drive.google.com/?authuser=0#folders/0BzpjC35str8vUkpaTnFvZUNZV0k) sekä tässä hakemistossa PDF-muodossa eri korkeakouluilta saadut [vastaukset](vastaukset). Teen koko prosessista tarkempaa yhteenvetoa hieman tuonnempana.
+
+
+**Prosessin eteneminen**
+
+ 1. Aalto [kieltäytyi luovuttamasta tietoa](HallintoOikeus/20140820-Aalto-Vastine.pdf) lisenssisopimusten kokonaishinnoista
+ 1. Jätin ohjeiden mukaisen [valituksen](HallintoOikeus/20140919-Valitus-HO-Lahti.pdf) perusteluineen Helsingin hallinto-oikeuteen 
+ 1. HO välitti minulle [Aallon vastineen](HallintoOikeus/20140919-Valitus-HO-Lahti.pdf) ja mahdollisuuden vastaselityksen antamiseen marraskuun aikana 
+
+
+**Seuraavat toimenpiteet**  
+
+Olen muiden avoimen tieteen aktiivien tuella laatimassa Helsingin Hallinto-oikeudelle vastaselitystä Aallon antamaan vastineeseen. Vastaselitys pitää jättää marraskuun 2014 loppuun mennessä. Tuki asiaan liittyen on tervetullutta, esimerkiksi kontribuoimalla seuraaviin (kommentit, parannukset jne):
+
+ 1. [Yhteisöllisesti työstämämme vastine](https://docs.google.com/document/d/1-WmhAGwSAfi34ZivVMRJ-TQlhbBg2QVOgkxnW9eUjAE/edit)
+ 1. Keskustelua tietopyynnöstä [Open Science Finland Facebook-ryhmässä](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/)
+
+
+
+
+
+
+
+
+
+
