@@ -13,9 +13,9 @@ Jos yliopistot voivat salata tiedejulkaisijoiden kanssa tehtyjen sopimusten koko
 
 **Prosessin eteneminen**
 
- 1. 20.8.2014 Aalto [kieltäytyi luovuttamasta tietoa](HallintoOikeus/20140820-Aalto-Vastine.pdf) lisenssisopimusten kokonaishinnoista
- 1. 19.9.2014 Jätin ohjeiden mukaisen [valituksen](HallintoOikeus/20140919-Valitus-HO-Lahti.pdf) perusteluineen Helsingin hallinto-oikeuteen 
- 1. 3.11.2014 HO välitti minulle [Aallon vastineen](HallintoOikeus/20140919-Valitus-HO-Lahti.pdf) ja mahdollisuuden vastaselityksen antamiseen marraskuun 2014 aikana 
+ * 20.8.2014 Aalto [kieltäytyi luovuttamasta tietoa](HallintoOikeus/20140820-Aalto-Vastine.pdf) lisenssisopimusten kokonaishinnoista
+ * 19.9.2014 Jätin ohjeiden mukaisen [valituksen](HallintoOikeus/20140919-Valitus-HO-Lahti.pdf) perusteluineen Helsingin hallinto-oikeuteen 
+ * 3.11.2014 HO välitti minulle [Aallon vastineen](HallintoOikeus/20140919-Valitus-HO-Lahti.pdf) ja mahdollisuuden vastaselityksen antamiseen marraskuun 2014 aikana 
 
 
 **Seuraavat toimenpiteet**  
