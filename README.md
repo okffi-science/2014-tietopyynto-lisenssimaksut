@@ -1,12 +1,9 @@
-2014-tietopyynto-lisenssimaksut
-===============================
-
-## Tietopyyntö kv. kustantajien lisenssimaksuista Aalto-yliopistolle
+### Tietopyyntö kv. kustantajien lisenssimaksuista Aalto-yliopistolle
 
 
 **Taustaa**  
 
-Tein kesällä 2014 julkisuuslain mukaisen tietopyynnön Aallolle:
+Tein kevään/kesän 2014 aikana julkisuuslain mukaisen [tietopyynnön](https://docs.google.com/document/d/1iMI9UVHlDXBrw-D0_LmhoFdMM6d_o8WrjiuNXCdFufk/edit) Aallolle sähköpostitse:
 
  1. Aallon ja Elsevierin välillä solmitun lisenssisopimuksen kokonaishinnasta
  1. Muista hankintapäätökseen vaikuttaneista tekijöistä (esim. vaihtoehtoiset tarjolla olleet tilauskokonaisuudet).
@@ -16,9 +13,9 @@ Jos yliopistot voivat salata tiedejulkaisijoiden kanssa tehtyjen sopimusten koko
 
 **Prosessin eteneminen**
 
- 1. Aalto [kieltäytyi luovuttamasta tietoa](HallintoOikeus/20140820-Aalto-Vastine.pdf) lisenssisopimusten kokonaishinnoista
- 1. Jätin ohjeiden mukaisen [valituksen](HallintoOikeus/20140919-Valitus-HO-Lahti.pdf) perusteluineen Helsingin hallinto-oikeuteen 
- 1. HO välitti minulle [Aallon vastineen](HallintoOikeus/20140919-Valitus-HO-Lahti.pdf) ja mahdollisuuden vastaselityksen antamiseen marraskuun aikana 
+ 1. 20.8.2014 Aalto [kieltäytyi luovuttamasta tietoa](HallintoOikeus/20140820-Aalto-Vastine.pdf) lisenssisopimusten kokonaishinnoista
+ 1. 19.9.2014 Jätin ohjeiden mukaisen [valituksen](HallintoOikeus/20140919-Valitus-HO-Lahti.pdf) perusteluineen Helsingin hallinto-oikeuteen 
+ 1. 3.11.2014 HO välitti minulle [Aallon vastineen](HallintoOikeus/20140919-Valitus-HO-Lahti.pdf) ja mahdollisuuden vastaselityksen antamiseen marraskuun 2014 aikana 
 
 
 **Seuraavat toimenpiteet**  
