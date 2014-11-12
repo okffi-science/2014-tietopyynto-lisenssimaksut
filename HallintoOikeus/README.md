@@ -1,20 +1,16 @@
 Tietopyyntö kv. kustantajien lisenssimaksuista Aalto-yliopistolle
 =================================================================
 
-Taustaa:
-
-Olen tehnyt julkisuuslain mukaisen tietopyynnön Aallolle:
+Tein kesällä 2014 julkisuuslain mukaisen tietopyynnön Aallolle:
  1. Aallon ja Elsevierin välillä solmitun lisenssisopimuksen kokonaishinnasta
- 1.  Muista hankintapäätökseen vaikuttaneista tekijöistä (esim. vaihtoehtoiset tarjolla olleet tilauskokonaisuudet).
+ 1. Muista hankintapäätökseen vaikuttaneista tekijöistä (esim. vaihtoehtoiset tarjolla olleet tilauskokonaisuudet).
 
-Tulos:
- 1.  Aalto kieltäytyi luovuttamasta tietoa lisenssisopimusten kokonaishinnoista (liite: 20140820-Aalto-Vastine.pdf).
-1. Jätin ohjeiden mukaisen valituksen perusteluineen Helsingin hallinto-oikeuteen (liite 20140919-Valitus-HO-Lahti.pdf)
-1. HO välitti minulle Aallon vastineen ja mahdollisuuden vastaselityksen antamiseen marraskuun aikana (liite 20140919-Valitus-HO-Lahti.pdf)
+Jos yliopistot voivat salata jopa sopimusten kokonaishinnat, tällä on ennakkotapauksena laajempaakin yleistä mielenkiintoa. Ladin HO:lle vastaselityksen marraskuun loppuun mennessä. Tuki asiaan liittyen on tervetullutta.
 
-Tässä hakemistossa 3.11.2014 saamani Aallon vastine kv. lisenssisopimusten kokonaishinnoista tekemääni tietopyyntöön jonka eväämisestä tein valituksen Helsingin hallinto-oikeuteen. 
+Prosessin viimeisimmät vaiheet:
+ 1.  Aalto kieltäytyi luovuttamasta tietoa lisenssisopimusten kokonaishinnoista [liite 1](20140820-Aalto-Vastine.pdf)
+1. Jätin ohjeiden mukaisen valituksen perusteluineen Helsingin hallinto-oikeuteen [liite 2](20140919-Valitus-HO-Lahti.pdf)
+1. HO välitti minulle Aallon vastineen ja mahdollisuuden vastaselityksen antamiseen marraskuun aikana [liite 3](20140919-Valitus-HO-Lahti.pdf)
 
-Jos yliopistot voivat salata jopa sopimusten kokonaishinnat, tällä on
-ennakkotapauksena laajempaakin yleistä mielenkiintoa. Jonkinlaisen
-vastineen pyrin laatimaan HO:lle marraskuun loppuun mennessä.
+
 
