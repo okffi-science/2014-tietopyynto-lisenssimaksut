@@ -18,14 +18,14 @@ Jos yliopistot voivat salata tiedejulkaisijoiden kanssa tehtyjen sopimusten koko
  * 20.8.2014 Aalto [kieltäytyi luovuttamasta tietoa](HallintoOikeus/20140820-Aalto-Vastine.pdf) lisenssisopimusten kokonaishinnoista
  * 19.9.2014 Jätin ohjeiden mukaisen [valituksen](HallintoOikeus/20140919-Valitus-HO-Lahti.pdf) perusteluineen Helsingin hallinto-oikeuteen 
  * 3.11.2014 HO välitti minulle [Aallon vastineen](HallintoOikeus/20141103-AaltoVastineHO1.pdf) ja mahdollisuuden vastaselityksen antamiseen marraskuun 2014 aikana 
+ * 19.11.2014 Toimitin HO:n pyytämän [vastineen Aallon lausuntoon](https://github.com/okffi-science/2014-tietopyynto-lisenssimaksut/blob/master/HallintoOikeus/20141118/20141119-Vastaselitys-LeoLahti-HHO.pdf?raw=true)
 
 
 **Seuraavat toimenpiteet**  
 
-Olen muiden avoimen tieteen aktiivien tuella laatimassa Helsingin Hallinto-oikeudelle vastaselitystä Aallon antamaan vastineeseen. Vastaselitys pitää jättää marraskuun 2014 loppuun mennessä. Tuki asiaan liittyen on tervetullutta, esimerkiksi kontribuoimalla seuraaviin (kommentit, parannukset jne):
+Odotamme Helsingin hallinto-oikeuden ratkaisua. Keskustelua tietopyynnöstä [Open Science Finland Facebook-ryhmässä](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/).
 
- 1. [Yhteisöllisesti työstämämme vastine](https://docs.google.com/document/d/1-WmhAGwSAfi34ZivVMRJ-TQlhbBg2QVOgkxnW9eUjAE/edit)
- 1. Keskustelua tietopyynnöstä [Open Science Finland Facebook-ryhmässä](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/)
+
 
 
 
