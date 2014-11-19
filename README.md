@@ -13,7 +13,7 @@ Jos yliopistot voivat salata tiedejulkaisijoiden kanssa tehtyjen sopimusten koko
 
 **Prosessin eteneminen**
 
- * Kevään ja alkukesän 2014 aikana lähetin tietopyynnöt kaikkiin suomalaisiin korkeakouluihin. Pyysin tietoa kansainvälisten tiedekustantajien kanssa tehtyjen sopimusten kokonaishinnasta. Tähän liittyvät dokumentit pistän saataville tuonnempana. Tietopyyntöjen taustalla oli [Open Science Finland Facebook-ryhmässä](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/) virinnyt keskustelu lisenssimaksuista ja kansainvälisestä liikehdinnästä asian tiimoilla.
+ * Kevään ja alkukesän 2014 aikana lähetin tietopyynnöt kaikkiin suomalaisiin korkeakouluihin. Pyysin tietoa kansainvälisten tiedekustantajien kanssa tehtyjen sopimusten kokonaishinnasta. Tietopyyntöjen taustalla oli [Open Science Finland Facebook-ryhmässä](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/) virinnyt keskustelu lisenssimaksuista ja kansainvälisestä liikehdinnästä asian tiimoilla.
  * 6.8.2014 Esitin Aallolle [julkisuuslain mukaisen tietopyynnön](https://github.com/okffi-science/2014-tietopyynto-lisenssimaksut/blob/master/tietopyynnot/20140806-Tietopyynto-taydennetty.pdf)
  * 20.8.2014 Aalto [kieltäytyi luovuttamasta tietoa](HallintoOikeus/20140820-Aalto-Vastine.pdf) lisenssisopimusten kokonaishinnoista
  * 19.9.2014 Jätin ohjeiden mukaisen [valituksen](HallintoOikeus/20140919-Valitus-HO-Lahti.pdf) perusteluineen Helsingin hallinto-oikeuteen 
@@ -23,7 +23,7 @@ Jos yliopistot voivat salata tiedejulkaisijoiden kanssa tehtyjen sopimusten koko
 
 **Seuraavat toimenpiteet**  
 
-Odotamme Helsingin hallinto-oikeuden ratkaisua. Keskustelua tietopyynnöstä [Open Science Finland Facebook-ryhmässä](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/).
+Odotamme Helsingin hallinto-oikeuden ratkaisua kevään 2015 aikana. Keskustelua tietopyynnöstä [Open Science Finland Facebook-ryhmässä](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/).
 
 
 
