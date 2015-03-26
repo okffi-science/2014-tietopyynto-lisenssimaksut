@@ -19,11 +19,11 @@ Jos yliopistot voivat salata tiedejulkaisijoiden kanssa tehtyjen sopimusten koko
  * 19.9.2014 Jätin ohjeiden mukaisen [valituksen](HallintoOikeus/20140919-Valitus-HO-Lahti.pdf) perusteluineen Helsingin hallinto-oikeuteen 
  * 3.11.2014 HO välitti minulle [Aallon vastineen](HallintoOikeus/20141103-AaltoVastineHO1.pdf) ja mahdollisuuden vastaselityksen antamiseen marraskuun 2014 aikana 
  * 19.11.2014 Toimitin HO:n pyytämän [vastineen Aallon lausuntoon](https://github.com/okffi-science/2014-tietopyynto-lisenssimaksut/blob/master/HallintoOikeus/20141118/20141119-Vastaselitys-LeoLahti-HHO.pdf?raw=true)
-
+ * 26.3.2015 Hallinto-oikeus pyytää täydennystä: "Pyydän Teitä ilmoittamaan, katsotteko, ja jos niin millä perusteella, olevanne viranomaisten toiminnan julkisuudesta annetun lain 11 §:ssä tarkoitettu asianosainen puheena oleviin hankintasopimuksiin nähden." Epäilemme, että viranomaisen tekemän sopimuksen kokonaishinta on kokonaan julkinen tieto, eikä asianomaisasemalla pitäisi olla merkitystä. Emme ole saaneet tätä vielä vahvistetuksi. Laadimme [vastausta](https://docs.google.com/document/d/1MOaI2wnV3Dom_spnVFPC1z2EiZTYEdUti8_jRXNRB98/edit).
 
 **Seuraavat toimenpiteet**  
 
-Odotamme Helsingin hallinto-oikeuden ratkaisua kevään 2015 aikana. Keskustelua tietopyynnöstä [Open Science Finland Facebook-ryhmässä](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/).
+Odotamme Helsingin hallinto-oikeuden ratkaisua kevään 2015 aikana. Keskustelua tietopyynnöstä Facebook-ryhmissä [Open Science Finland](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/) ja [Tietopyyntö](https://www.facebook.com/groups/tietopyynto/permalink/432307966946322/)
 
 
 
