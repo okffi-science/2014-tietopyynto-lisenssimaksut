@@ -21,10 +21,25 @@ Jos yliopistot voivat salata tiedejulkaisijoiden kanssa tehtyjen sopimusten koko
  * 19.11.2014 Toimitin HO:n pyytämän [vastineen Aallon lausuntoon](https://github.com/okffi-science/2014-tietopyynto-lisenssimaksut/blob/master/HallintoOikeus/20141118/20141119-Vastaselitys-LeoLahti-HHO.pdf?raw=true)
  * 26.3.2015 Hallinto-oikeus pyytää täydennystä: "Pyydän Teitä ilmoittamaan, katsotteko, ja jos niin millä perusteella, olevanne viranomaisten toiminnan julkisuudesta annetun lain 11 §:ssä tarkoitettu asianosainen puheena oleviin hankintasopimuksiin nähden." Epäilemme, että viranomaisen tekemän sopimuksen kokonaishinta on kokonaan julkinen tieto, eikä asianomaisasemalla pitäisi olla merkitystä. Emme ole saaneet tätä vielä vahvistetuksi. Laadimme [vastausta](https://docs.google.com/document/d/1MOaI2wnV3Dom_spnVFPC1z2EiZTYEdUti8_jRXNRB98/edit).
 
+Julkisuuslain 13§ mukaan tietopyyntöä ei tarvitsisi perustella.
+
+
 **Seuraavat toimenpiteet**  
 
 Odotamme Helsingin hallinto-oikeuden ratkaisua kevään 2015 aikana. Keskustelua tietopyynnöstä Facebook-ryhmissä [Open Science Finland](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/) ja [Tietopyyntö](https://www.facebook.com/groups/tietopyynto/permalink/432307966946322/)
 
-Julkisuuslain 13§ mukaan tietopyyntöä ei tarvitse perustella.
+Mikäli saamme tiedot, on suunnitelmissa:
+
+ * Raportoidaan prosessi suomen- ja englanninkielisissä blogeissa
+ * Pyydetään tiedot kaikkien lisenssisopimusten kokonaishinnoista
+   vähintään viimeisen 20 vuoden ajalta. Julkaistaan avoimena datana.
+   Näistä voi piirtää kuvaajia, vertailla julkaisijoita ja
+   hintakehitystä, internetin tuloa, open access-liikkeen nousua ja
+   muita trendejä.
+ * Harkitaan vastaavaa tietopyyntöä ohjelmistolisenssien osalta
+ * Tiedotetaan päätöksestä tahoja, jotka ajavat vastaavaa prosessia
+   parhaillaan muissa maissa (ainakin Britannia, Sveitsi, Ranska, Singapore)
+
+
 
 
