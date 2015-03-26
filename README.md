@@ -24,3 +24,7 @@ Jos yliopistot voivat salata tiedejulkaisijoiden kanssa tehtyjen sopimusten koko
 **Seuraavat toimenpiteet**  
 
 Odotamme Helsingin hallinto-oikeuden ratkaisua kevään 2015 aikana. Keskustelua tietopyynnöstä Facebook-ryhmissä [Open Science Finland](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/) ja [Tietopyyntö](https://www.facebook.com/groups/tietopyynto/permalink/432307966946322/)
+
+Julkisuuslain 13§ mukaan tietopyyntöä ei tarvitse perustella.
+
+
