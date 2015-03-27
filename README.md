@@ -19,7 +19,7 @@ Jos yliopistot voivat salata tiedejulkaisijoiden kanssa tehtyjen sopimusten koko
  * 19.9.2014 Jätin ohjeiden mukaisen [valituksen](HallintoOikeus/20140919-Valitus-HO-Lahti.pdf) perusteluineen Helsingin hallinto-oikeuteen 
  * 3.11.2014 HO välitti minulle [Aallon vastineen](HallintoOikeus/20141103-AaltoVastineHO1.pdf) ja mahdollisuuden vastaselityksen antamiseen marraskuun 2014 aikana 
  * 19.11.2014 Toimitin HO:n pyytämän [vastineen Aallon lausuntoon](https://github.com/okffi-science/2014-tietopyynto-lisenssimaksut/blob/master/HallintoOikeus/20141118/20141119-Vastaselitys-LeoLahti-HHO.pdf?raw=true)
- * 26.3.2015 Hallinto-oikeus pyytää täydennystä: "Pyydän Teitä ilmoittamaan, katsotteko, ja jos niin millä perusteella, olevanne viranomaisten toiminnan julkisuudesta annetun lain 11 §:ssä tarkoitettu asianosainen puheena oleviin hankintasopimuksiin nähden." Kiistämme, että asianomaisasemalla oli merkitystä asian ratkaisussa, koska pyydetyt tiedot ovat yleisöjulkisia. [Vastaus](HallintoOikeus/20150326-Taydennyspyynto.pdf)
+ * 26.3.2015 Hallinto-oikeus pyytää täydennystä: "Pyydän Teitä ilmoittamaan, katsotteko, ja jos niin millä perusteella, olevanne viranomaisten toiminnan julkisuudesta annetun lain 11 §:ssä tarkoitettu asianosainen puheena oleviin hankintasopimuksiin nähden." [Kiistämme](HallintoOikeus/20150326-Taydennyspyynto.pdf), että asianomaisasemalla olisi merkitystä asian ratkaisussa, koska pyydetyt tiedot ovat yleisöjulkisia. 
 
 Julkisuuslain 13§ mukaan tietopyyntöä ei tarvitsisi perustella.
 
