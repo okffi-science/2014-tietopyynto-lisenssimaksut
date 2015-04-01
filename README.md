@@ -26,20 +26,29 @@ Julkisuuslain 13§ mukaan tietopyyntöä ei tarvitsisi perustella.
 
 **Seuraavat toimenpiteet**  
 
-Odotamme Helsingin hallinto-oikeuden ratkaisua kevään 2015 aikana. Keskustelua tietopyynnöstä Facebook-ryhmissä [Open Science Finland](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/) ja [Tietopyyntö](https://www.facebook.com/groups/tietopyynto/permalink/432307966946322/)
+Odotamme Helsingin hallinto-oikeuden ratkaisua kevään 2015 aikana. Keskustelua tietopyynnöstä Facebook-ryhmissä [Open Science Finland](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/) ja [Tietopyyntö](https://www.facebook.com/groups/tietopyynto/permalink/432307966946322/). Päätöksen jälkeen voitaisiin:
 
-Mikäli saamme tiedot, on suunnitelmissa:
+ * Yhteenveto prosessista suomen- ja englanninkielisissä blogeissa
+ * Tietopyyntö kaikkien kustantajien kanssa solmittujen
+   lisenssisopimusten kokonaishinnoista vähintään viimeisen 20 vuoden
+   ajalta. 
+ * Vastaava tietopyyntö ohjelmistolisenssien osalta
+ * Tietojen siistiminen ja julkaisu. Mukaan vertailu
+   julkaisijoista ja hintakehityksestä, internetin tulon, open
+   access-liikkeen nousun ja muiden trendien vaikutuksesta.
+ * Tiedotetaan päätöksestä muiden maiden vastaavia hankkeita (ainakin
+   Britannia, Sveitsi, Ranska, Singapore)
 
- * Raportoidaan prosessi suomen- ja englanninkielisissä blogeissa
- * Pyydetään tiedot kaikkien lisenssisopimusten kokonaishinnoista
-   vähintään viimeisen 20 vuoden ajalta. Julkaistaan avoimena datana.
-   Näistä voi piirtää kuvaajia, vertailla julkaisijoita ja
-   hintakehitystä, internetin tuloa, open access-liikkeen nousua ja
-   muita trendejä.
- * Harkitaan vastaavaa tietopyyntöä ohjelmistolisenssien osalta
- * Tiedotetaan päätöksestä tahoja, jotka ajavat vastaavaa prosessia
-   parhaillaan muissa maissa (ainakin Britannia, Sveitsi, Ranska, Singapore)
 
+**Tilanne muissa maissa **
+
+Listaa maista, joissa vastaavia tietopyyntöhankkeita on ilmeisesti käynnissä. Linkkejä lisätty niiltä osin kuin saatavissa.
+
+ * Iso-Britannia [(Tim Goversin alkuperäinen blogikirjoitus)](https://gowers.wordpress.com/2014/04/24/elsevier-journals-some-facts/); [(Tietopyyntöjen tiedot koottuna)](http://blogs.lse.ac.uk/impactofsocialsciences/2014/10/15/foi-requests-uncover-lack-of-transparency/)
+ * [Australia]()
+ * [Ranska]()
+ * [Singapore]()
+ * [Sveitsi]()
 
 
 
