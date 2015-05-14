@@ -45,10 +45,14 @@ Odotamme Helsingin hallinto-oikeuden ratkaisua kevään 2015 aikana. Keskustelua
 Listaa maista, joissa vastaavia tietopyyntöhankkeita on ilmeisesti käynnissä. Linkkejä lisätty niiltä osin kuin saatavissa.
 
  * Iso-Britannia [(Tim Goversin alkuperäinen blogikirjoitus)](https://gowers.wordpress.com/2014/04/24/elsevier-journals-some-facts/); [(Tietopyyntöjen tiedot koottuna)](http://blogs.lse.ac.uk/impactofsocialsciences/2014/10/15/foi-requests-uncover-lack-of-transparency/)
+ * [USA](http://blogs.lse.ac.uk/impactofsocialsciences/2014/08/12/secrets-of-the-big-deal-journal-pricing/)
  * [Australia]()
  * [Ranska]()
  * [Singapore]()
  * [Sveitsi]()
 
-
-
+**Aiheeseen liittyviä sivustoja**
+ * [Ted Bergstrom's blog](http://www.econ.ucsb.edu/~tedb/Journals/jpricing.html)
+ * [journalprices.com](http://www.journalprices.com/) search engine to rank journals by price per article or citation
+ * [Evaluating big deal journal bundles. PNAS 2014](http://www.econ.ucsb.edu/~tedb/Journals/PNAS-2014-Bergstrom-1403006111.pdf)
+ * [Big Deal Contract Project](http://www.econ.ucsb.edu/~tedb/Journals/BundleContracts.html)
