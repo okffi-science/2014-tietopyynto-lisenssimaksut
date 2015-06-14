@@ -56,3 +56,4 @@ Listaa maista, joissa vastaavia tietopyyntöhankkeita on ilmeisesti käynnissä.
  * [journalprices.com](http://www.journalprices.com/) search engine to rank journals by price per article or citation
  * [Evaluating big deal journal bundles. PNAS 2014](http://www.econ.ucsb.edu/~tedb/Journals/PNAS-2014-Bergstrom-1403006111.pdf)
  * [Big Deal Contract Project](http://www.econ.ucsb.edu/~tedb/Journals/BundleContracts.html)
+ * [Open-APC](https://github.com/openapc/openapc-de) German initiative to collect information on open access publishing fees paid by various universities
