@@ -26,25 +26,24 @@ Julkisuuslain 13§ mukaan tietopyyntöä ei tarvitsisi perustella.
 
 **Seuraavat toimenpiteet**  
 
-Odotamme Helsingin hallinto-oikeuden ratkaisua kevään 2015 aikana. Keskustelua tietopyynnöstä Facebook-ryhmissä [Open Science Finland](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/) ja [Tietopyyntö](https://www.facebook.com/groups/tietopyynto/permalink/432307966946322/). Päätöksen jälkeen voitaisiin:
+Odotamme Helsingin hallinto-oikeuden ratkaisua elokuun alussa 2015. Keskustelua tietopyynnöstä Facebook-ryhmissä [Open Science Finland](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/) ja [Tietopyyntö](https://www.facebook.com/groups/tietopyynto/permalink/432307966946322/). Päätöksen jälkeen voitaisiin:
 
  * Yhteenveto prosessista suomen- ja englanninkielisissä blogeissa
  * Tietopyyntö kaikkien kustantajien kanssa solmittujen
-   lisenssisopimusten kokonaishinnoista vähintään viimeisen 20 vuoden
+   lisenssisopimusten kokonaishinnoista viimeisen 20 vuoden
    ajalta. 
  * Vastaava tietopyyntö ohjelmistolisenssien osalta
  * Tietojen siistiminen ja julkaisu. Mukaan vertailu
    julkaisijoista ja hintakehityksestä, internetin tulon, open
    access-liikkeen nousun ja muiden trendien vaikutuksesta.
- * Tiedotetaan päätöksestä muiden maiden vastaavia hankkeita (ainakin
-   Britannia, Sveitsi, Ranska, Singapore)
+ * Tiedotetaan päätöksestä muiden maiden hankkeita (ks. alla)
 
 
 **Tilanne muissa maissa **
 
-Listaa maista, joissa vastaavia tietopyyntöhankkeita on ilmeisesti käynnissä. Linkkejä lisätty niiltä osin kuin saatavissa.
+Listaa maista, joissa vastaavia tietopyyntöhankkeita on käynnissä. 
 
- * Iso-Britannia [(Tim Goversin alkuperäinen blogikirjoitus)](https://gowers.wordpress.com/2014/04/24/elsevier-journals-some-facts/); [(Tietopyyntöjen tiedot koottuna)](http://blogs.lse.ac.uk/impactofsocialsciences/2014/10/15/foi-requests-uncover-lack-of-transparency/)
+ * Iso-Britannia [(Tim Goversin alkuperäinen blogikirjoitus)](https://gowers.wordpress.com/2014/04/24/elsevier-journals-some-facts/); [(Tietopyyntöjen tiedot koottuna)](http://blogs.lse.ac.uk/impactofsocialsciences/2014/10/15/foi-requests-uncover-lack-of-transparency/); [Maksudatasetti figsharessa](http://figshare.com/articles/Journal_subscription_costs_FOIs_to_UK_universities/1186832)
  * [USA](http://blogs.lse.ac.uk/impactofsocialsciences/2014/08/12/secrets-of-the-big-deal-journal-pricing/)
  * [Australia]()
  * [Ranska]()
@@ -57,3 +56,4 @@ Listaa maista, joissa vastaavia tietopyyntöhankkeita on ilmeisesti käynnissä.
  * [Evaluating big deal journal bundles. PNAS 2014](http://www.econ.ucsb.edu/~tedb/Journals/PNAS-2014-Bergstrom-1403006111.pdf)
  * [Big Deal Contract Project](http://www.econ.ucsb.edu/~tedb/Journals/BundleContracts.html)
  * [Open-APC](https://github.com/openapc/openapc-de) German initiative to collect information on open access publishing fees paid by various universities
+
