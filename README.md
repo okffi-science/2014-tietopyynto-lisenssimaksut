@@ -50,7 +50,9 @@ Listaa maista, joissa vastaavia tietopyyntöhankkeita on käynnissä.
  * [Singapore]()
  * [Sveitsi]()
 
-**Aiheeseen liittyviä sivustoja**
+**Aiheeseen liittyviä linkkejä**
+
+ * [Lawson S and Meghreblian B. Journal subscription expenditure of UK higher education institutions [v3] F1000Research 2015, 3:274](http://f1000research.com/articles/3-274/v3) time series analysis of subsciption fees in the UK
  * [Ted Bergstrom's blog](http://www.econ.ucsb.edu/~tedb/Journals/jpricing.html)
  * [journalprices.com](http://www.journalprices.com/) search engine to rank journals by price per article or citation
  * [Evaluating big deal journal bundles. PNAS 2014](http://www.econ.ucsb.edu/~tedb/Journals/PNAS-2014-Bergstrom-1403006111.pdf)
