@@ -17,12 +17,11 @@ Jos yliopistot voivat salata tiedejulkaisijoiden kanssa tehtyjen sopimusten koko
  * 6.8.2014 Esitin Aallolle [julkisuuslain mukaisen tietopyynnön](https://github.com/okffi-science/2014-tietopyynto-lisenssimaksut/blob/master/tietopyynnot/20140806-Tietopyynto-taydennetty.pdf)
  * 20.8.2014 Aalto [kieltäytyi luovuttamasta tietoa](HallintoOikeus/20140820-Aalto-Vastine.pdf) lisenssisopimusten kokonaishinnoista
  * 19.9.2014 Jätin ohjeiden mukaisen [valituksen](HallintoOikeus/20140919-Valitus-HO-Lahti.pdf) perusteluineen Helsingin hallinto-oikeuteen 
- * 3.11.2014 HO välitti minulle [Aallon vastineen](HallintoOikeus/20141103-AaltoVastineHO1.pdf) ja mahdollisuuden vastaselityksen antamiseen marraskuun 2014 aikana 
+ * 3.11.2014 HO välitti minulle [Aallon vastineen](HallintoOikeus/20141103-AaltoVastineHO1.pdf) ja mahdollisuuden vastaselityksen antamiseen marraskuun 2014 aikana. Julkisuuslain 13§ mukaan tietopyyntöä ei tarvitsisi perustella, mutta hankalalta näyttää.
  * 19.11.2014 Toimitin HO:n pyytämän [vastineen Aallon lausuntoon](https://github.com/okffi-science/2014-tietopyynto-lisenssimaksut/blob/master/HallintoOikeus/20141118/20141119-Vastaselitys-LeoLahti-HHO.pdf?raw=true)
- * 26.3.2015 Hallinto-oikeus pyytää täydennystä: "Pyydän Teitä ilmoittamaan, katsotteko, ja jos niin millä perusteella, olevanne viranomaisten toiminnan julkisuudesta annetun lain 11 §:ssä tarkoitettu asianosainen puheena oleviin hankintasopimuksiin nähden." [Kiistämme](HallintoOikeus/20150326-Taydennyspyynto.pdf), että asianomaisasemalla olisi merkitystä asian ratkaisussa, koska pyydetyt tiedot ovat yleisöjulkisia. 
-
-Julkisuuslain 13§ mukaan tietopyyntöä ei tarvitsisi perustella.
-
+ * 26.3.2015 Hallinto-oikeus pyytää täydennystä: "Katsotteko olevanne asianosainen puheena oleviin hankintasopimuksiin nähden." [Kiistämme](HallintoOikeus/20150326-Taydennyspyynto.pdf), että asianomaisasemalla olisi merkitystä asian ratkaisussa, koska pyydetyt tiedot ovat yleisöjulkisia. 
+ * 7.8.2015 Hallinto-oikeus katsoo, että pyydettyjä kokonaishintatietoja ei voida pitää Elsevierin liike- ja ammattisalaisuuksina, ja velvoittaa Aalto-yliopiston luovuttamaan tiedot kun päätös on saanut lainvoiman. Tätä odotellessa [pohdimme jatkotoimia](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/).
+ 
 
 **Seuraavat toimenpiteet**  
 
@@ -58,4 +57,4 @@ Listaa maista, joissa vastaavia tietopyyntöhankkeita on käynnissä.
  * [Evaluating big deal journal bundles. PNAS 2014](http://www.econ.ucsb.edu/~tedb/Journals/PNAS-2014-Bergstrom-1403006111.pdf)
  * [Big Deal Contract Project](http://www.econ.ucsb.edu/~tedb/Journals/BundleContracts.html)
  * [Open-APC](https://github.com/openapc/openapc-de) German initiative to collect information on open access publishing fees paid by various universities
-
+ * [Hintatietojen vertailua eri maissa](http://lj.libraryjournal.com/2015/04/publishing/whole-lotta-shakin-goin-on-periodicals-price-survey-2015/)
