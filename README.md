@@ -25,7 +25,7 @@ Jos yliopistot voivat salata tiedejulkaisijoiden kanssa tehtyjen sopimusten koko
 
 **Seuraavat toimenpiteet**  
 
-Odotamme Helsingin hallinto-oikeuden ratkaisua elokuun alussa 2015. Keskustelua tietopyynnöstä Facebook-ryhmissä [Open Science Finland](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/) ja [Tietopyyntö](https://www.facebook.com/groups/tietopyynto/permalink/432307966946322/). Päätöksen jälkeen voitaisiin:
+Keskustelua tietopyynnöstä Facebook-ryhmissä [Open Science Finland](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/) ja [Tietopyyntö](https://www.facebook.com/groups/tietopyynto/permalink/432307966946322/). Päätöksen saatua lainvoiman jälkeen voitaisiin tehdä:
 
  * Yhteenveto prosessista suomen- ja englanninkielisissä blogeissa
  * Tietopyyntö kaikkien kustantajien kanssa solmittujen
@@ -38,7 +38,7 @@ Odotamme Helsingin hallinto-oikeuden ratkaisua elokuun alussa 2015. Keskustelua 
  * Tiedotetaan päätöksestä muiden maiden hankkeita (ks. alla)
 
 
-**Tilanne muissa maissa **
+**Tilanne muissa maissa**  
 
 Listaa maista, joissa vastaavia tietopyyntöhankkeita on käynnissä. 
 
