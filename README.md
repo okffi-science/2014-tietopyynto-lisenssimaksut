@@ -20,7 +20,7 @@ Jos yliopistot voivat salata tiedejulkaisijoiden kanssa tehtyjen sopimusten koko
  * 3.11.2014 HO välitti minulle [Aallon vastineen](HallintoOikeus/20141103-AaltoVastineHO1.pdf) ja mahdollisuuden vastaselityksen antamiseen marraskuun 2014 aikana. Julkisuuslain 13§ mukaan tietopyyntöä ei tarvitsisi perustella, mutta hankalalta näyttää.
  * 19.11.2014 Toimitin HO:n pyytämän [vastineen Aallon lausuntoon](https://github.com/okffi-science/2014-tietopyynto-lisenssimaksut/blob/master/HallintoOikeus/20141118/20141119-Vastaselitys-LeoLahti-HHO.pdf?raw=true)
  * 26.3.2015 Hallinto-oikeus pyytää täydennystä: "Katsotteko olevanne asianosainen puheena oleviin hankintasopimuksiin nähden." [Kiistämme](HallintoOikeus/20150326-Taydennyspyynto.pdf), että asianomaisasemalla olisi merkitystä asian ratkaisussa, koska pyydetyt tiedot ovat yleisöjulkisia. 
- * 7.8.2015 Hallinto-oikeus katsoo, että pyydettyjä kokonaishintatietoja ei voida pitää Elsevierin liike- ja ammattisalaisuuksina, ja velvoittaa Aalto-yliopiston luovuttamaan tiedot kun päätös on saanut lainvoiman. Tätä odotellessa [pohdimme jatkotoimia](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/).
+ * 7.8.2015 Hallinto-oikeuden [päätöksen](https://github.com/okffi-science/2014-tietopyynto-lisenssimaksut/blob/master/HallintoOikeus/20150807-HAO-ratkaisu.pdf) mukaan pyydettyjä kokonaishintatietoja ei voida pitää Elsevierin liike- ja ammattisalaisuuksina, ja velvoittaa Aalto-yliopiston luovuttamaan tiedot kun päätös on saanut lainvoiman. Tätä odotellessa [pohdimme jatkotoimia](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/).
  
 
 **Seuraavat toimenpiteet**  
