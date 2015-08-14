@@ -28,10 +28,11 @@ Jos yliopistot voivat salata tiedejulkaisijoiden kanssa tehtyjen sopimusten koko
 Keskustelua tietopyynnöstä Facebook-ryhmissä [Open Science Finland](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/) ja [Tietopyyntö](https://www.facebook.com/groups/tietopyynto/permalink/432307966946322/). Päätöksen saatua lainvoiman jälkeen voitaisiin tehdä:
 
  * Yhteenveto prosessista suomen- ja englanninkielisissä blogeissa
+ * Yhteydenotto aiheesta kiinnostuksensa ilmaisseisiin toimittajiin
  * Tietopyyntö kaikkien kustantajien kanssa solmittujen
    lisenssisopimusten kokonaishinnoista viimeisen 20 vuoden
    ajalta. 
- * Vastaava tietopyyntö ohjelmistolisenssien osalta
+ * Vastaava tietopyyntö ohjelmistolisenssien osalta. [Oulussa lähetetty nyt alustava tietopyyntö 14.8.2015](https://docs.google.com/document/d/163iKjl82fAYR53QjhChHNmJ2yuVtjWJNRXWOn4ToXe8/edit) 
  * Tietojen siistiminen ja julkaisu. Mukaan vertailu
    julkaisijoista ja hintakehityksestä, internetin tulon, open
    access-liikkeen nousun ja muiden trendien vaikutuksesta.
