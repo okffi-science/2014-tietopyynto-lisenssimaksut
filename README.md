@@ -52,6 +52,7 @@ Listaa maista, joissa vastaavia tietopyyntöhankkeita on käynnissä.
 
 **Aiheeseen liittyviä linkkejä**
 
+ * [Aiempaa kritiikkiä Aalto-yliopiston avoimuuslinjauksista](http://www.mostlyphysics.net/blog/2013/04/03/update-on-open-access-in-finland/)
  * [Lawson S and Meghreblian B. Journal subscription expenditure of UK higher education institutions [v3] F1000Research 2015, 3:274](http://f1000research.com/articles/3-274/v3) time series analysis of subsciption fees in the UK
  * [Ted Bergstrom's blog](http://www.econ.ucsb.edu/~tedb/Journals/jpricing.html)
  * [journalprices.com](http://www.journalprices.com/) search engine to rank journals by price per article or citation
