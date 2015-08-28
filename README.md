@@ -60,3 +60,4 @@ Listaa maista, joissa vastaavia tietopyyntöhankkeita on käynnissä.
  * [Big Deal Contract Project](http://www.econ.ucsb.edu/~tedb/Journals/BundleContracts.html)
  * [Open-APC](https://github.com/openapc/openapc-de) German initiative to collect information on open access publishing fees paid by various universities
  * [Hintatietojen vertailua eri maissa](http://lj.libraryjournal.com/2015/04/publishing/whole-lotta-shakin-goin-on-periodicals-price-survey-2015/)
+ * [The Oligopoly of Academic Publishers in the Digital Era. PLoS ONE 10(6):e0127502](http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0127502)
