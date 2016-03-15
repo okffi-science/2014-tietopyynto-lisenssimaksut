@@ -21,17 +21,17 @@ Jos yliopistot voivat salata tiedejulkaisijoiden kanssa tehtyjen sopimusten koko
  * 19.11.2014 Toimitin HO:n pyytämän [vastineen Aallon lausuntoon](https://github.com/okffi-science/2014-tietopyynto-lisenssimaksut/blob/master/HallintoOikeus/20141118/20141119-Vastaselitys-LeoLahti-HHO.pdf?raw=true)
  * 26.3.2015 Hallinto-oikeus pyytää täydennystä: "Katsotteko olevanne asianosainen puheena oleviin hankintasopimuksiin nähden." [Kiistämme](HallintoOikeus/20150326-Taydennyspyynto.pdf), että asianomaisasemalla olisi merkitystä asian ratkaisussa, koska pyydetyt tiedot ovat yleisöjulkisia. 
  * 7.8.2015 Hallinto-oikeuden [päätöksen](https://github.com/okffi-science/2014-tietopyynto-lisenssimaksut/blob/master/HallintoOikeus/20150807-HAO-ratkaisu.pdf) mukaan pyydettyjä kokonaishintatietoja ei voida pitää Elsevierin liike- ja ammattisalaisuuksina, ja velvoittaa Aalto-yliopiston luovuttamaan tiedot kun päätös on saanut lainvoiman. Tätä odotellessa [pohdimme jatkotoimia](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/).
- 
+ * 11.9.2015 Tapaamiset Aalto-yliopiston ja OKM:n ATT-hankkeen edustajien kanssa asian tiimoilta. Suhtautuminen tietojen avaamiseen hyvin positiivista. Tietojen keruu ja avaamisprosessi käynnistyy.
 
 **Seuraavat toimenpiteet**  
+
+3/2016 Kustantajien hintatietojen avaamiprosessi etenee myötätuulessa eikä asian valmistelu toivottavasti enää kestä kauan. 
 
 Keskustelua tietopyynnöstä Facebook-ryhmissä [Open Science Finland](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/) ja [Tietopyyntö](https://www.facebook.com/groups/tietopyynto/permalink/432307966946322/). Päätöksen saatua lainvoiman jälkeen voitaisiin tehdä:
 
  * Yhteenveto prosessista suomen- ja englanninkielisissä blogeissa
- * Yhteydenotto aiheesta kiinnostuksensa ilmaisseisiin toimittajiin
- * Tietopyyntö kaikkien kustantajien kanssa solmittujen
-   lisenssisopimusten kokonaishinnoista viimeisen 20 vuoden
-   ajalta. 
+ * Yhteydenotto kiinnostuksensa ilmaisseisiin toimittajiin
+ * Täydentävä tietopyyntö hintatiedoista aikasarjana pitemmältä ajalta kuin avatut tiedot. 
  * Vastaava tietopyyntö ohjelmistolisenssien osalta. [Oulussa lähetetty nyt alustava tietopyyntö 14.8.2015](https://docs.google.com/document/d/163iKjl82fAYR53QjhChHNmJ2yuVtjWJNRXWOn4ToXe8/edit) 
  * Tietojen siistiminen ja julkaisu. Mukaan vertailu
    julkaisijoista ja hintakehityksestä, internetin tulon, open
@@ -48,7 +48,7 @@ Listaa maista, joissa vastaavia tietopyyntöhankkeita on käynnissä.
  * [Australia]()
  * [Ranska]()
  * [Singapore]()
- * [Sveitsi]()
+ * [Sveitsi]() Rumours tell that they recently (2/2016) won a similar court process than we had in Finland.
 
 **Aiheeseen liittyviä linkkejä**
 
