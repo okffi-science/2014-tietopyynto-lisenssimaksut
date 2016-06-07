@@ -3,40 +3,41 @@
 
 **Taustaa**  
 
-Tein kevään/kesän 2014 aikana julkisuuslain mukaisen [tietopyynnön](https://docs.google.com/document/d/1iMI9UVHlDXBrw-D0_LmhoFdMM6d_o8WrjiuNXCdFufk/edit) Aallolle sähköpostitse:
+Tiedejulkaisijoiden nopeasti kohoavia hintoja on viime vuosina kritisoitu toistuvasti. [Tim Gowersin Britannian yliopistoille tekemä tietopyyntö (FOI request) tieteellisten julkaisujen tilaushinnoista](http://gowers.wordpress.com/2014/04/24/elsevier-journals-some-facts/) herätti runsaasti kansainvälistä keskustelua.
 
- 1. Aallon ja Elsevierin välillä solmitun lisenssisopimuksen kokonaishinnasta
- 1. Muista hankintapäätökseen vaikuttaneista tekijöistä (esim. vaihtoehtoiset tarjolla olleet tilauskokonaisuudet).
-
-Jos yliopistot voivat salata tiedejulkaisijoiden kanssa tehtyjen sopimusten kokonaishinnat, tällä on ennakkotapauksena laajempaa merkitystä. Aallolle tehty tietopyyntö liittyy [laajempaan kansainväliseen keskusteluun](http://gowers.wordpress.com/2014/04/24/elsevier-journals-some-facts/) sekä kokonaisuuteen tietopyyntöjä, joita lähetimme kaikille suomalaisille yliopistoille, Kansalliskirjastolle ja Finelib-konsortiolle. Suurin osa tietopyyntöihin liittyvästä materiaalista on [Google-docs-alustalla](https://drive.google.com/?authuser=0#folders/0BzpjC35str8vUkpaTnFvZUNZV0k) sekä tässä hakemistossa PDF-muodossa eri korkeakouluilta saadut [vastaukset](vastaukset). Teen koko prosessista tarkempaa yhteenvetoa hieman tuonnempana.
-
+Suomessa keskustelua käytiin muun muassa Open Knowledge Finland ry:n [Open Science Finland Facebook-ryhmässä](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/). Ilmeni, että sopimusten kokonaishinta on julkinen tieto, ja yliopistojen tulisi viranomaisina luovuttaa hintatiedot. Tämä oli erityisen kiinnostavaa, koska tiedejulkaisijoiden hintatietoja ei ollut vielä saatavilla muualta kuin Britanniasta Gowersin tietopyynnön seurauksen. Suomi voisi olla ensimmäisten maiden joukossa avaamassa tiedot.
 
 **Prosessin eteneminen**
 
- * Kevään ja alkukesän 2014 aikana lähetin tietopyynnöt kaikkiin suomalaisiin korkeakouluihin. Pyysin tietoa kansainvälisten tiedekustantajien kanssa tehtyjen sopimusten kokonaishinnasta. Tietopyyntöjen taustalla oli [Open Science Finland Facebook-ryhmässä](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/) virinnyt keskustelu lisenssimaksuista ja kansainvälisestä liikehdinnästä asian tiimoilla.
- * 6.8.2014 Esitin Aallolle [julkisuuslain mukaisen tietopyynnön](https://github.com/okffi-science/2014-tietopyynto-lisenssimaksut/blob/master/tietopyynnot/20140806-Tietopyynto-taydennetty.pdf)
- * 20.8.2014 Aalto [kieltäytyi luovuttamasta tietoa](HallintoOikeus/20140820-Aalto-Vastine.pdf) lisenssisopimusten kokonaishinnoista
- * 19.9.2014 Jätin ohjeiden mukaisen [valituksen](HallintoOikeus/20140919-Valitus-HO-Lahti.pdf) perusteluineen Helsingin hallinto-oikeuteen 
- * 3.11.2014 HO välitti minulle [Aallon vastineen](HallintoOikeus/20141103-AaltoVastineHO1.pdf) ja mahdollisuuden vastaselityksen antamiseen marraskuun 2014 aikana. Julkisuuslain 13§ mukaan tietopyyntöä ei tarvitsisi perustella, mutta hankalalta näyttää.
- * 19.11.2014 Toimitin HO:n pyytämän [vastineen Aallon lausuntoon](https://github.com/okffi-science/2014-tietopyynto-lisenssimaksut/blob/master/HallintoOikeus/20141118/20141119-Vastaselitys-LeoLahti-HHO.pdf?raw=true)
- * 26.3.2015 Hallinto-oikeus pyytää täydennystä: "Katsotteko olevanne asianosainen puheena oleviin hankintasopimuksiin nähden." [Kiistämme](HallintoOikeus/20150326-Taydennyspyynto.pdf), että asianomaisasemalla olisi merkitystä asian ratkaisussa, koska pyydetyt tiedot ovat yleisöjulkisia. 
- * 7.8.2015 Hallinto-oikeuden [päätöksen](https://github.com/okffi-science/2014-tietopyynto-lisenssimaksut/blob/master/HallintoOikeus/20150807-HAO-ratkaisu.pdf) mukaan pyydettyjä kokonaishintatietoja ei voida pitää Elsevierin liike- ja ammattisalaisuuksina, ja velvoittaa Aalto-yliopiston luovuttamaan tiedot kun päätös on saanut lainvoiman. Tätä odotellessa [pohdimme jatkotoimia](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/).
- * 11.9.2015 Tapaamiset Aalto-yliopiston ja OKM:n ATT-hankkeen edustajien kanssa asian tiimoilta. Suhtautuminen tietojen avaamiseen hyvin positiivista. Tietojen keruu ja avaamisprosessi käynnistyy.
+  * Havainnon innoittamana tein kevään/kesän 2014 aikana julkisuuslain mukaisen tietopyynnön kaikille suomalaisille yliopistoille, Kansalliskirjastolle ja Finelib-konsortiolle. Pyysin tietoa kansainvälisten tiedekustantajien kanssa tehtyjen sopimusten kokonaishinnasta. Suurin osa materiaalista on [Google-docs-alustalla](https://drive.google.com/?authuser=0#folders/0BzpjC35str8vUkpaTnFvZUNZV0k) sekä PDF-muodossa eri korkeakouluilta saadut [vastaukset](vastaukset). Kun pyyntöihin alkoi tippua kielteisiä vastauksia totesin että on helpompaa keskittyä yhteen ennakkotapaukseen.
+  * 6.8.2014 Esitin Aallolle [julkisuuslain mukaisen tietopyynnön](https://github.com/okffi-science/2014-tietopyynto-lisenssimaksut/blob/master/tietopyynnot/20140806-Tietopyynto-taydennetty.pdf) Tein [tietopyynnön Aallolle sähköpostitse](https://docs.google.com/document/d/1iMI9UVHlDXBrw-D0_LmhoFdMM6d_o8WrjiuNXCdFufk/edit). Pyysin tietoa:
+   1. Aallon ja Elsevierin välillä solmitun lisenssisopimuksen kokonaishinnasta
+   1. Muista hankintapäätökseen vaikuttaneista tekijöistä (esim. vaihtoehtoiset tarjolla olleet tilauskokonaisuudet).
+ * 20.8.2014 Aalto [kieltäytyi luovuttamasta tietoa](HallintoOikeus/20140820-Aalto-Vastine.pdf) lisenssisopimusten kokonaishinnoista. Tämä oli yllättävää, sillä juristeilta saamieni neuvojen mukaan oli selvää että Aallon tulisi luovuttaa pyydetyt tiedot. Aallon lakimiehille tämä ei näyttänyt olevan selvää. Facebook-ryhmässä pohdittiin, että Aalto ehkä tahtoo turvata selustansa Elsevierin suuntaan ja tahtoo oikeuden päätöksen ennen tietojen luovuttamista. Kuka tietää vaikka tilaussopimuksiin olisi julkisuuslain vastaisesti kirjattu että hintatiedot ovat salassa pidettäviä. No, tämä on spekulointia koska sopimuskokonaisuudet ovat salassa pidettäviä emmekä voi asiaa tarkistaa.
+ * 19.9.2014 Jätin [valituksen](HallintoOikeus/20140919-Valitus-HO-Lahti.pdf) Helsingin hallinto-oikeuteen.
+ * 3.11.2014 HAO välitti minulle [Aallon vastineen](HallintoOikeus/20141103-AaltoVastineHO1.pdf) ja mahdollisuuden vastaselitykseen. Julkisuuslain 13§ mukaan tietopyyntöä ei tarvitsisi perustella, mutta hankalalta näyttää kun tällaisia vastaselityksiä pitää maallikkona ryhtyä laatimaan. Onneksi tilannetta seurasi useampi hallintoammattilainen ja sain tarvitun taustatuen. Aallolla näytti olevan argumentit vähissä, sillä vastauksessa valiteltiin mm. asian käsittelyä [Facebook-ryhmässä](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/). 
+ * 19.11.2014 Toimitin HAO:lle [vastineen Aallon lausuntoon](https://github.com/okffi-science/2014-tietopyynto-lisenssimaksut/blob/master/HallintoOikeus/20141118/20141119-Vastaselitys-LeoLahti-HHO.pdf?raw=true). 
+ * 26.3.2015 Hallinto-oikeus pyytää täydennystä: "Katsotteko olevanne asianosainen puheena oleviin hankintasopimuksiin nähden." [Kiistimme](HallintoOikeus/20150326-Taydennyspyynto.pdf), että asianomaisasemalla olisi merkitystä asian ratkaisussa, koska *pyydetyt tiedot ovat yleisöjulkisia*. 
+ * 7.8.2015 Hallinto-oikeuden [päätöksen](https://github.com/okffi-science/2014-tietopyynto-lisenssimaksut/blob/master/HallintoOikeus/20150807-HAO-ratkaisu.pdf) mukaan pyydettyjä kokonaishintatietoja ei voida pitää Elsevierin liike- ja ammattisalaisuuksina. HAO velvoittaa Aalto-yliopiston luovuttamaan tiedot kun päätös on saanut lainvoiman.
+ * Aalto ei enää lähtenyt valittamaan päätöksestä ja lainvoima sitten tuli syyskuun 2015 alussa, reilu vuosi alkuperäisen tietopyynnön jälkeen.
+ * Yllätykseni oli suuri, kun Aallon lakimies toimitti sähköpostiini koko Elsevier-sopimuksen. Sehän oli suurimmaksi osaksi salassa pidettävä. Varmuuden vuoksi jätin dokumentin jakamatta. Tämä oli oikea ratkaisu, sillä myöhemmin Aallosta pyydettiin etten jakaisi salaista dokumenttia jota minun ei olisi koskaan pitänyt saada. Aallon toiminta ennen ja jälkeen tietopyynnön ei nyt täysin vakuuta. Jostain avoimuusstrategiasta oli puhetta, käytännön toteutus tuntuu ontuvan kun ensin julkisia tietoja ei anneta ja lopulta annetaan salassa pidettävätkin tiedot. No, ehkä se vielä tästä.  
+ * 11.9.2015 Tapaamiset Aalto-yliopiston ja OKM:n ATT-hankkeen edustajien kanssa asian tiimoilta. Suhtautuminen tietojen avaamiseen hyvin positiivista. Tietojen keruu ja avaamisprosessi käynnistyy. Nyt kaikki näyttävät puhaltavan yhteen hiileen ja ymmärretään että tietojen avaaminen on niin Aallon kuin koko tiedeyhteisönkin etu.
 
 **Seuraavat toimenpiteet**  
 
-3/2016 Kustantajien hintatietojen avaamiprosessi etenee myötätuulessa eikä asian valmistelu toivottavasti enää kestä kauan. 
-
-Keskustelua tietopyynnöstä Facebook-ryhmissä [Open Science Finland](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/) ja [Tietopyyntö](https://www.facebook.com/groups/tietopyynto/permalink/432307966946322/). Päätöksen saatua lainvoiman jälkeen voitaisiin tehdä:
+Keskustelua tietopyynnöstä Facebook-ryhmissä [Open Science Finland](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/) ja [Tietopyyntö](https://www.facebook.com/groups/tietopyynto/permalink/432307966946322/). 
 
  * Yhteenveto prosessista suomen- ja englanninkielisissä blogeissa
- * Yhteydenotto kiinnostuksensa ilmaisseisiin toimittajiin
- * Täydentävä tietopyyntö hintatiedoista aikasarjana pitemmältä ajalta kuin avatut tiedot. 
- * Vastaava tietopyyntö ohjelmistolisenssien osalta. [Oulussa lähetetty nyt alustava tietopyyntö 14.8.2015](https://docs.google.com/document/d/163iKjl82fAYR53QjhChHNmJ2yuVtjWJNRXWOn4ToXe8/edit) 
+ * Yhteydenotto toimittajiin
  * Tietojen siistiminen ja julkaisu. Mukaan vertailu
    julkaisijoista ja hintakehityksestä, internetin tulon, open
    access-liikkeen nousun ja muiden trendien vaikutuksesta.
  * Tiedotetaan päätöksestä muiden maiden hankkeita (ks. alla)
+
+**Mahdollisia jatkosuunnitelmia**
+
+ * Täydentävä tietopyyntö hintatiedoista aikasarjana pitemmältä ajalta kuin avatut tiedot. 
+ * Vastaava tietopyyntö ohjelmistolisenssien osalta. [Oulussa lähetetty nyt alustava tietopyyntö 14.8.2015](https://docs.google.com/document/d/163iKjl82fAYR53QjhChHNmJ2yuVtjWJNRXWOn4ToXe8/edit) 
 
 
 **Tilanne muissa maissa**  
