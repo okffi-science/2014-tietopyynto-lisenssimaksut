@@ -47,6 +47,7 @@ Listaa maista, joissa vastaavia tietopyyntöhankkeita on käynnissä.
  * [USA](http://blogs.lse.ac.uk/impactofsocialsciences/2014/08/12/secrets-of-the-big-deal-journal-pricing/)
  * [Australia]()
  * [Ranska]()
+ * [Saksa](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:1551900/component/escidoc:1551901/2016-06-01_Appeal_Open_APC.pdf) The  Alliance  of  Science  Organizations recommends  scientific institutions to disclose payments of Open Access publication fees to make the cost structure of the Open Access publication market clearly recognizable
  * [Singapore]()
  * [Sveitsi]() Rumours tell that they recently (2/2016) won a similar court process than we had in Finland.
 
