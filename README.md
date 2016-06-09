@@ -42,6 +42,7 @@ Keskustelua tietopyynnöstä Facebook-ryhmissä [Open Science Finland](https://w
 
 Listaa maista, joissa vastaavia tietopyyntöhankkeita on käynnissä. 
 
+ * [Stuart Lawsonin yhteenveto eri maiden tilanteesta](http://stuartlawson.org/2016/06/publicly-available-data-on-international-journal-subscription-costs/)
  * Iso-Britannia [(Tim Goversin alkuperäinen blogikirjoitus)](https://gowers.wordpress.com/2014/04/24/elsevier-journals-some-facts/); [(Tietopyyntöjen tiedot koottuna)](http://blogs.lse.ac.uk/impactofsocialsciences/2014/10/15/foi-requests-uncover-lack-of-transparency/); [Maksudatasetti figsharessa](http://figshare.com/articles/Journal_subscription_costs_FOIs_to_UK_universities/1186832)
  * [USA](http://blogs.lse.ac.uk/impactofsocialsciences/2014/08/12/secrets-of-the-big-deal-journal-pricing/)
  * [Australia]()
