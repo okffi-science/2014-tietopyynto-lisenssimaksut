@@ -87,8 +87,6 @@ dfs2 <- dfs2[rev(order(dfs2[, "2015"])),]
 top <- as.character(unlist(dfs2$Kustantaja, use.names = F)[1:10])
 dfs3 <- dfs[unlist(dfs$Kustantaja) %in% top,]
 dfs3$Kustantaja <- as.character(unlist(dfs3$Kustantaja, use.names = F))
-dfs3 <- melt(dfs3)
-names(dfs3) <- c("Kustantaja", "Vuosi", "Hinta")
 dfs3$Kustantaja <- factor(dfs3$Kustantaja, levels = top)
 dfs3$Vuosi <- as.numeric(as.character(dfs3$Vuosi))
 dfs3$Hinta <- as.numeric(as.character(dfs3$Hinta))
@@ -99,4 +97,6 @@ p <- ggplot(dfs3,
        ggtitle("Kokonaishintojen suhteellinen kehitys kustantajittain") +
        ylab("Hinta (EUR)") 
 print(p)
+
+
 
