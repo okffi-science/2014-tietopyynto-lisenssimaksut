@@ -1,4 +1,6 @@
-### Tietopyyntö kv. kustantajien lisenssimaksuista Aalto-yliopistolle
+### Erään tietopyynnön tarina
+
+Tietopyyntö tiedelehtien lisenssimaksuista suomalaisille korkeakouluille
 
 
 **Taustaa**  
