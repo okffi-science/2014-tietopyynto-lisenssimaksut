@@ -1,13 +1,41 @@
 ### Erään tietopyynnön tarina
 
-Tietopyyntö tiedelehtien lisenssimaksuista suomalaisille korkeakouluille
+Tietopyyntö tiedelehtien lisenssimaksuista suomalaisille korkeakouluille.
 
 
 **Taustaa**  
 
-Tiedejulkaisijoiden nopeasti kohoavia hintoja on viime vuosina kritisoitu toistuvasti. [Tim Gowersin Britannian yliopistoille tekemä tietopyyntö (FOI request) tieteellisten julkaisujen tilaushinnoista](http://gowers.wordpress.com/2014/04/24/elsevier-journals-some-facts/) herätti runsaasti kansainvälistä keskustelua.
+Opetus- ja kulttuuriministeriö ja sen rahoittama Avoin tiede ja
+tutkimus 2014–2017-hanke
+[julkaisi](https://avointiede.fi/-/lapinakyvyytta-ja-avoimuutta-tieteelliseen-julkaisemiseen-tutkimusorganisaatioilta-vuosittain-miljoonia-euroja-suurille-kustantajille)
+kesäkuussa 2016 kattavat tiedot kansainvälisille tiedekustantajille
+Suomessa 2010–2015 maksetuista korvauksista. Suomesta tuli näin
+ensimmäinen maa, jossa yksityiskohtaiset tiedot on avattu
+julkaisijatasolla usean vuoden ajalta ja kaikkien merkittävien
+julkisten laitosten osalta.
 
-Suomessa keskustelua käytiin muun muassa Open Knowledge Finland ry:n [Open Science Finland Facebook-ryhmässä](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/). Ilmeni, että sopimusten kokonaishinta on julkinen tieto, ja yliopistojen tulisi viranomaisina luovuttaa hintatiedot. Tämä oli erityisen kiinnostavaa, koska tiedejulkaisijoiden hintatietoja ei ollut vielä saatavilla muualta kuin Britanniasta Gowersin tietopyynnön seurauksen. Suomi voisi olla ensimmäisten maiden joukossa avaamassa tiedot.
+Miten tässä näin pääsi käymään ?
+
+Tiedejulkaisijoiden nopeasti kohoavia hintoja on viime vuosina
+kritisoitu toistuvasti. [Tim Gowersin Britannian yliopistoille tekemä
+tietopyyntö (FOI request) tieteellisten julkaisujen
+tilaushinnoista](http://gowers.wordpress.com/2014/04/24/elsevier-journals-some-facts/)
+herätti runsaasti kansainvälistä keskustelua. Gowersin julkaiseman
+kirjeenvaihdon nojalla on ilmeistä, että yliopistojen
+avoimuuspolitiikassa on parantamisen varaa ainakin Britanniassa.
+
+Suomessa Open Knowledge Finland ry:n [Open Science Finland
+Facebook-ryhmässä](https://www.facebook.com/groups/241398182642057/permalink/411482855633588/)
+huomattiin, että korkeakoulujen solmimien tilaussopimusten hinnat ovat
+julkisia myös Suomessa. Tämä oli kiinnostavaa, koska kattavia
+hintatietoja ei ollut vielä julkaistu juuri missään maassa. Suomi
+voisi olla [ensimmäisten joukossa avaamassa
+tiedot](http://fi.okfn.org/2016/06/13/suomi-maailman-karkeen-tiedejulkaisujen-hintatietojen-avoimuudessa/). Käytännössä
+asia ei tietenkään ollut näin suoraviivainen. Suomalaisten
+korkeakoulujen avoimuusstrategiat ja käytännön toimet eivät
+kohdanneet. Prosessi on opettavainen tarina julkisuuslain ja
+tietopyyntöjen mahdollisuuksista.
+
 
 **Prosessin eteneminen**
 
