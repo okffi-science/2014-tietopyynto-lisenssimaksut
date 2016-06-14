@@ -1,6 +1,6 @@
 ### Erään tietopyynnön tarina
 
-Tietopyyntö tiedelehtien lisenssimaksuista suomalaisille korkeakouluille.
+Miten suomalaisten korkeakoulujen kelkka saatiin kääntyi avoimuuden suuntaan.
 
 
 **Taustaa**  
