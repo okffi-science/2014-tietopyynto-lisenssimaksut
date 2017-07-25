@@ -1,6 +1,8 @@
 library(readxl)
 library(readODS)
 library(reshape)
+library(dplyr)
+library(bibliographica)
 
 datasets <- list()
 

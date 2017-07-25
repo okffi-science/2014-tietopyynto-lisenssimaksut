@@ -1,0 +1,119 @@
+---
+title: "Supplementary Material"
+author: ""
+date: "`r Sys.Date()`"
+output:
+  pdf_document:
+    fig_caption: yes
+  html_document:
+    fig_caption: yes        
+---
+
+
+```{r setup, echo=FALSE, message=FALSE, warning=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(devtools)
+library(gridExtra)
+library(phyloseq)
+library(dplyr)
+library(reshape2)
+library(knitr)
+library(plotROC)
+library(pROC)
+library(ggROC)
+library(tidyr)
+library(microbiome)
+library(ggplot2)
+#opts_chunk$set(fig.width=4, fig.height=3, par=TRUE, out.width='2in', fig.pos='H')
+knitr::opts_chunk$set(fig.path = "figure_manuscript/", dev="CairoPNG")
+
+# http://derekogle.com/fishR/2015-09-17-Figure-Table-Captions-in-Markdown
+library(captioner)
+tbls <- captioner(prefix="Table")
+figs <- captioner(prefix="Figure")
+# Check `r figs("ctrlsplit", display="num")`.
+
+theme_set(theme_bw(20))
+library(xtable)
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+theme_set(theme_bw(20))
+```
+
+
+```{r countries.with.data, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=10, fig.show = "hold", out.width = "400px"}
+par(mar=c(3, 16, 3, 2));
+n <- rev(sort(colSums(table(d$Country, d$Publisher) > 0)));
+tab <- rev(n[n>=2])
+# Pick publishers with multi-country data
+selected.publishers <- names(tab)
+barplot(tab, las = 1, horiz = T, main = "Number of countries with data")
+```
+
+`r figs("countries.with.data", "Number of countries with data for at least one year. Publishers with more than one country are shown.")`
+
+
+
+
+
+
+
+
+
+
+```{r costs1, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=8, fig.height=5, fig.show = "hold", out.width = "150px"}
+# Pick publishers that have time series (T>=3) in multiple (N>=3) countries
+selected.publishers <- as.character(unlist((d %>%
+  group_by(Country, Publisher) %>%
+  tally() %>%
+  filter(n>=3) %>% # Time points
+  select(Country, Publisher) %>%
+  group_by(Publisher) %>%
+  tally() %>%
+  filter(n>=3) %>% # Countries
+  arrange(desc(n)))$Publisher))
+
+dsub <- d %>% select("Country", "Year", "Publisher", "Cost") %>%
+              filter(Publisher %in% selected.publishers) %>%
+	      group_by(Country, Year, Publisher) %>%
+	      summarize(Cost = sum(Cost, na.rm = TRUE))
+
+
+# ggplot(dsub, aes(x = Year, y = Cost, fill = Publisher)) + facet_grid(Country ~ .) + geom_bar(stat = "identity", position = "dodge") + scale_y_log10()
+for (publisher in c("Elsevier", "Springer", "Wiley / Blackwell")) {
+  p <- ggplot(subset(dsub, Publisher == publisher), aes(x = Year, y = Cost, color = Country)) + geom_line() + geom_point() + scale_y_log10() + labs(title = publisher)
+  print(p)
+}
+```
+
+`r figs("costs1", "Cost timelines for selected publishers.")`
+
+
+
+
+```{r costs2, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=8, fig.height=5, fig.show = "hold", out.width = "250px"}
+dsub <- d %>% select("Country", "Year", "Publisher", "Cost") %>%
+              filter(Publisher %in% selected.publishers) %>%
+	      group_by(Country, Year, Publisher) %>%
+	      summarize(Cost = sum(Cost, na.rm = TRUE))
+my.pubs <- c("Elsevier", "Springer", "Wiley / Blackwell")
+dsub <- dsub %>% filter(Publisher %in% my.pubs)
+
+colors <- c("red", "black", "darkgray")
+names(colors) <- my.pubs
+for (country in unique(dsub$Country)) {
+  dd <- filter(dsub, Country == country)
+  dd$Country <- factor(dd$Country, levels = levels(dsub$Country))
+  dd$Publisher <- factor(dd$Publisher, levels = levels(dsub$Publisher))  
+  p <- ggplot(dd, aes(x = Year, y = Cost, color = Publisher)) +
+    geom_line() +
+    geom_point() +
+    scale_y_log10() +
+    labs(title = country) +
+    scale_color_manual(values = colors)
+  print(p)
+}
+```
+
+`r figs("costs2", "Cost timelines for three selected publishers.")`
