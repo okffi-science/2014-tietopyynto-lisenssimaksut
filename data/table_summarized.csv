@@ -1,8 +1,8 @@
 Country	Year	Publisher	Totalcost
-Argentina	2008	ACM	0
 Argentina	2008	AIP/APS	384946.122052
 Argentina	2008	American Chemical Society (ACS)	267653.55032716
 Argentina	2008	ANNUAL REVIEWS	181052.751831
+Argentina	2008	Association for Computer Machinery (ACM)	0
 Argentina	2008	EBSCO/SAGE/WILSON	349951.67445
 Argentina	2008	Elsevier	4208880.989949
 Argentina	2008	GeoScienceWorld y Lyell Collection	0
@@ -15,10 +15,10 @@ Argentina	2008	SCIENCE MAGAZINE	172762.32
 Argentina	2008	Springer	721507.623722097
 Argentina	2008	Wiley / Blackwell	391440.81913834
 Argentina	2008	WILSON	166659.02237313
-Argentina	2009	ACM	0
 Argentina	2009	AIP/APS	393362.526408
 Argentina	2009	American Chemical Society (ACS)	278172.70246732
 Argentina	2009	ANNUAL REVIEWS	157770.149839
+Argentina	2009	Association for Computer Machinery (ACM)	0
 Argentina	2009	EBSCO/SAGE/WILSON	293983.8812
 Argentina	2009	Elsevier	5320083.193288
 Argentina	2009	GeoScienceWorld y Lyell Collection	0
@@ -31,10 +31,10 @@ Argentina	2009	SCIENCE MAGAZINE	172840.782887
 Argentina	2009	Springer	842917.437082
 Argentina	2009	Wiley / Blackwell	391349.66541925
 Argentina	2009	WILSON	194703.13464
-Argentina	2010	ACM	0
 Argentina	2010	AIP/APS	409096.854702
 Argentina	2010	American Chemical Society (ACS)	289744.00593
 Argentina	2010	ANNUAL REVIEWS	202198.139956
+Argentina	2010	Association for Computer Machinery (ACM)	0
 Argentina	2010	EBSCO/SAGE/WILSON	293983.8812
 Argentina	2010	Elsevier	6471808.238469
 Argentina	2010	GeoScienceWorld y Lyell Collection	0
@@ -47,10 +47,10 @@ Argentina	2010	SCIENCE MAGAZINE	179382.716071
 Argentina	2010	Springer	782069.74175384
 Argentina	2010	Wiley / Blackwell	0
 Argentina	2010	WILSON	177072.40875622
-Argentina	2011	ACM	0
 Argentina	2011	AIP/APS	428796.07824
 Argentina	2011	American Chemical Society (ACS)	269831.58649069
 Argentina	2011	ANNUAL REVIEWS	209869.506807
+Argentina	2011	Association for Computer Machinery (ACM)	0
 Argentina	2011	EBSCO/SAGE/WILSON	349771.7137
 Argentina	2011	Elsevier	6703220.486737
 Argentina	2011	GeoScienceWorld y Lyell Collection	0
@@ -63,10 +63,10 @@ Argentina	2011	SCIENCE MAGAZINE	186380.309874
 Argentina	2011	Springer	877334.86573363
 Argentina	2011	Wiley / Blackwell	0
 Argentina	2011	WILSON	198641.85639252
-Argentina	2012	ACM	196579.765341
 Argentina	2012	AIP/APS	453909.960824
 Argentina	2012	American Chemical Society (ACS)	305515.76606
 Argentina	2012	ANNUAL REVIEWS	215935.623768
+Argentina	2012	Association for Computer Machinery (ACM)	196579.765341
 Argentina	2012	EBSCO/SAGE/WILSON	677552.22375
 Argentina	2012	Elsevier	7512558.687555
 Argentina	2012	GeoScienceWorld y Lyell Collection	0
@@ -79,10 +79,10 @@ Argentina	2012	SCIENCE MAGAZINE	199031.550599
 Argentina	2012	Springer	918595.251515
 Argentina	2012	Wiley / Blackwell	0
 Argentina	2012	WILSON	0
-Argentina	2013	ACM	206427.217581
 Argentina	2013	AIP/APS	245582.357723
 Argentina	2013	American Chemical Society (ACS)	320791.554363
 Argentina	2013	ANNUAL REVIEWS	224374.343257
+Argentina	2013	Association for Computer Machinery (ACM)	206427.217581
 Argentina	2013	EBSCO/SAGE/WILSON	677552.22375
 Argentina	2013	Elsevier	8259038.038084
 Argentina	2013	GeoScienceWorld y Lyell Collection	169593.571114
@@ -95,10 +95,10 @@ Argentina	2013	SCIENCE MAGAZINE	206469.688318
 Argentina	2013	Springer	918516.89660445
 Argentina	2013	Wiley / Blackwell	175707.917556
 Argentina	2013	WILSON	0
-Argentina	2014	ACM	215089.0884
 Argentina	2014	AIP/APS	263736.07834
 Argentina	2014	American Chemical Society (ACS)	337329.947288
 Argentina	2014	ANNUAL REVIEWS	152894.6532
+Argentina	2014	Association for Computer Machinery (ACM)	215089.0884
 Argentina	2014	EBSCO/SAGE/WILSON	799619.600475
 Argentina	2014	Elsevier	8878248.42637
 Argentina	2014	GeoScienceWorld y Lyell Collection	178072.601811
@@ -111,10 +111,10 @@ Argentina	2014	SCIENCE MAGAZINE	212647.380944
 Argentina	2014	Springer	898510.626074022
 Argentina	2014	Wiley / Blackwell	186541.554706
 Argentina	2014	WILSON	0
-Argentina	2015	ACM	234827.18346
 Argentina	2015	AIP/APS	265427.70939
 Argentina	2015	American Chemical Society (ACS)	397785.2418
 Argentina	2015	ANNUAL REVIEWS	169750.496888
+Argentina	2015	Association for Computer Machinery (ACM)	234827.18346
 Argentina	2015	EBSCO/SAGE/WILSON	839600.400538
 Argentina	2015	Elsevier	9499725.600263
 Argentina	2015	GeoScienceWorld y Lyell Collection	186019.238276367
@@ -127,10 +127,10 @@ Argentina	2015	SCIENCE MAGAZINE	223313.294675
 Argentina	2015	Springer	938607.402518371
 Argentina	2015	Wiley / Blackwell	182688.32150816
 Argentina	2015	WILSON	0
-Argentina	2016	ACM	0
 Argentina	2016	AIP/APS	265452.184052
 Argentina	2016	American Chemical Society (ACS)	310713.03252
 Argentina	2016	ANNUAL REVIEWS	163793.07622
+Argentina	2016	Association for Computer Machinery (ACM)	0
 Argentina	2016	EBSCO/SAGE/WILSON	873183.95586
 Argentina	2016	Elsevier	9974711.844284
 Argentina	2016	GeoScienceWorld y Lyell Collection	191599.799471874
@@ -165,7 +165,7 @@ Finland	2010	Bloomberg BNA	1337.24282128831
 Finland	2010	BMJ Group	10755.4240527738
 Finland	2010	Brepols	3105.59676108152
 Finland	2010	Brill	871.802484087665
-Finland	2010	Britannica /LM Info	1038.65845402752
+Finland	2010	Britannica	1038.65845402752
 Finland	2010	BTJ Kirjastopalvelu	64164.5031580675
 Finland	2010	Bureau van Dijk	32368.4614604856
 Finland	2010	Burgundy	3997.35809324811
@@ -201,11 +201,11 @@ Finland	2010	Gartner	23757.416045312
 Finland	2010	Grove	787.176968233002
 Finland	2010	Helsingin Sanomat	21545.1773242434
 Finland	2010	HighWire	13049.0948740045
+Finland	2010	IEEE	233167.246797293
 Finland	2010	Ifis Publishing	375.226343883885
 Finland	2010	IFSR	4601.71201307811
 Finland	2010	IMF	411.950624349116
 Finland	2010	Informa	12374.4858089366
-Finland	2010	Institute of Electrical and Electronics Engineers (IEEE)	233167.246797293
 Finland	2010	Institute of Physics (IOP)	15417.8109640119
 Finland	2010	Integrum	39758.0253732287
 Finland	2010	International Bureau of Fiscal Documentation (IBFD)	351.275726189169
@@ -220,14 +220,13 @@ Finland	2010	Knovel	21339.2020120689
 Finland	2010	Know China Technology	3816.13175269143
 Finland	2010	Kompass	2679.27576611557
 Finland	2010	Lehtimarket	1983.11114512249
-Finland	2010	Lippincott Williams & Wilkins (LWW)	39249.4739241775
-Finland	2010	Lippincott Williams & Wilkins (LWW)	31810.4120681987
+Finland	2010	Lippincott Williams & Wilkins (LWW)	71059.8859923763
 Finland	2010	LM Tietopalvelut	91533.6723517427
 Finland	2010	Lovdata	415.144040041745
 Finland	2010	Maney Publishing	7010.3457992434
 Finland	2010	Marketing Science Institute	191.604941557729
 Finland	2010	Materials Research Society (MRS)	753.646103460399
-Finland	2010	McGraw-Hill Education	3223.75314170878
+Finland	2010	McGraw-Hill	3223.75314170878
 Finland	2010	Metsäkustannus	239.506176947161
 Finland	2010	Metsäntutkimuslaitos (Metla)	1073.78602664644
 Finland	2010	Mid Sweden University	631.497953217347
@@ -237,9 +236,7 @@ Finland	2010	Nature Publishing Group	301278.013397526
 Finland	2010	Naxos Digital Services	359.259265420741
 Finland	2010	NewspaperDirect 	1278.96298489784
 Finland	2010	Niedersächsische Staats- und Universitätsbibliothek Göttingen	479.012353894322
-Finland	2010	OECD	37395.6961146065
-Finland	2010	OECD /Turpin	2842.13996643964
-Finland	2010	OECD /Wize Nordic AB	11495.4981395406
+Finland	2010	OECD	51733.3342205867
 Finland	2010	Online Computer Library Center (OCLC)	1687.72019355433
 Finland	2010	OTDBASE	192.403295480886
 Finland	2010	Ovid	83421.5981385424
@@ -284,10 +281,10 @@ Finland	2010	Walter de Gruyter GMBH	1140.84775619164
 Finland	2010	Warc Ltd	2993.82721183951
 Finland	2010	Wiley / Blackwell	1326286.2120469
 Finland	2010	Wize Nordic	26324.9222621856
-Finland	2010	Wolters Kluwer	190067.311901728
+Finland	2010	Wolters Kluwer	11273.5557489029
+Finland	2010	Wolters Kluwer Health	178793.756152825
 Finland	2010	World Scientific Publishing	688.979435684666
-Finland	2010	WSOY	106030.981242354
-Finland	2010	WSOY /Talentum	3887.18525185242
+Finland	2010	WSOY	109918.166494207
 Finland	2011	Aalto-yliopisto	83919.7709865925
 Finland	2011	Adato Energia Oy	377.621405653357
 Finland	2011	AIP/APS	40199.5150927346
@@ -315,7 +312,7 @@ Finland	2011	BMJ Group	18945.7369504436
 Finland	2011	Bonnier	3656.46096805999
 Finland	2011	Brepols	3033.74490799737
 Finland	2011	Brill	918.90536555394
-Finland	2011	Britannica /LM Info	1158.4115425011
+Finland	2011	Britannica	1158.4115425011
 Finland	2011	BTJ Kirjastopalvelu	66882.8982664178
 Finland	2011	Bureau van Dijk	39477.0047922773
 Finland	2011	Burgundy	5131.02066413134
@@ -355,11 +352,11 @@ Finland	2011	Gartner	23950.6176947161
 Finland	2011	Grove	812.724293774032
 Finland	2011	Helsingin Sanomat	20814.6834845546
 Finland	2011	HighWire	13313.3500225695
+Finland	2011	IEEE	244556.563865053
 Finland	2011	IFSR	5148.5844504408
 Finland	2011	IMF	1266.18932212732
 Finland	2011	Informa	12381.6709942451
 Finland	2011	Innventia	2395.06176947161
-Finland	2011	Institute of Electrical and Electronics Engineers (IEEE)	244556.563865053
 Finland	2011	Institute of Physics (IOP)	12080.6915652148
 Finland	2011	Integrum	39758.0253732287
 Finland	2011	Intelex corporation	147.695475784082
@@ -377,8 +374,7 @@ Finland	2011	Kompass	2424.60086462842
 Finland	2011	Lehtimarket	2723.98358581237
 Finland	2011	LexisNexis	10538.2717856751
 Finland	2011	Liber	1486.53500491871
-Finland	2011	Lippincott Williams & Wilkins (LWW)	40344.0171528261
-Finland	2011	Lippincott Williams & Wilkins (LWW)	34920.7989528192
+Finland	2011	Lippincott Williams & Wilkins (LWW)	75264.8161056453
 Finland	2011	LM Tietopalvelut	117101.755094775
 Finland	2011	Lovdata	450.271612660662
 Finland	2011	Maney Publishing	5249.97539868176
@@ -387,7 +383,7 @@ Finland	2011	Mary Ann Liebert Inc	6514.56801296277
 Finland	2011	Masterworkshop Ltd	23583.3748900638
 Finland	2011	Material ConneXion	2149.16876113919
 Finland	2011	Materials Research Society (MRS)	756.041165229871
-Finland	2011	McGraw-Hill Education	5325.8190213817
+Finland	2011	McGraw-Hill	5325.8190213817
 Finland	2011	Metsäkustannus	239.506176947161
 Finland	2011	Metsäntutkimuslaitos (Metla)	1547.20990307866
 Finland	2011	Metsätalouden kehittämiskeskus Tapio	470.230460739592
@@ -400,9 +396,7 @@ Finland	2011	Nature Publishing Group	333388.606540832
 Finland	2011	Naxos Digital Services	2941.93420683429
 Finland	2011	NewspaperDirect 	1194.33746904317
 Finland	2011	Niedersächsische Staats- und Universitätsbibliothek Göttingen	479.012353894322
-Finland	2011	OECD	43002.5357169396
-Finland	2011	OECD /Turpin	2842.13996643964
-Finland	2011	OECD /Wize Nordic AB	11807.654523495
+Finland	2011	OECD	57652.3302068742
 Finland	2011	Online Computer Library Center (OCLC)	1771.54735548583
 Finland	2011	Optics Infobase Package - Optical Society of America	9991.39934831239
 Finland	2011	Oriprobe	747.259272075142
@@ -455,11 +449,11 @@ Finland	2011	Warc Ltd	3113.58030031309
 Finland	2011	Wiley / Blackwell	1647013.72372039
 Finland	2011	William S. Hein & Co. Inc.	1506.49385299764
 Finland	2011	Wize Nordic	23669.5971137647
-Finland	2011	Wolters Kluwer	163552.381405831
+Finland	2011	Wolters Kluwer	8852.94665389022
+Finland	2011	Wolters Kluwer Health	154699.434751941
 Finland	2011	World Global Style Network (WGSN)	4823.65440371582
 Finland	2011	World Scientific Publishing	715.325115148853
-Finland	2011	WSOY	99938.7424547418
-Finland	2011	WSOY /Talentum	4042.06591294492
+Finland	2011	WSOY	103980.808367687
 Finland	2011	Zentralverband Gartenbau e.V.	39.9176961578601
 Finland	2012	Aalto-yliopisto	46666.9802242311
 Finland	2012	Adato Energia Oy	396.78189980913
@@ -487,7 +481,7 @@ Finland	2012	BMJ Group	18584.8809771765
 Finland	2012	Bonnier	9809.37465383255
 Finland	2012	Brepols	5178.12354559762
 Finland	2012	Brill	1073.78602664644
-Finland	2012	Britannica /LM Info	1207.90948573685
+Finland	2012	Britannica	1207.90948573685
 Finland	2012	BTJ Kirjastopalvelu	89335.0056473678
 Finland	2012	Bureau van Dijk	50735.3918166402
 Finland	2012	Burgundy	6077.07006307263
@@ -525,12 +519,12 @@ Finland	2012	Grove	869.407422318193
 Finland	2012	Helsingin Sanomat	22341.9345395543
 Finland	2012	Helsingin seudun kauppakamari	4436.45275098457
 Finland	2012	HighWire	14965.9426435049
+Finland	2012	IEEE	313410.597967746
 Finland	2012	IFSR	5148.5844504408
 Finland	2012	Iisalmen Sanomat	116.559672780952
 Finland	2012	IMF	1287.74487805257
 Finland	2012	Informa	27566.362612695
 Finland	2012	Innventia	2395.06176947161
-Finland	2012	Institute of Electrical and Electronics Engineers (IEEE)	313410.597967746
 Finland	2012	Institute of Physics (IOP)	14830.2224765682
 Finland	2012	Integrum	35577.8442315776
 Finland	2012	Intelex corporation	147.695475784082
@@ -548,8 +542,7 @@ Finland	2012	Kompass	2424.60086462842
 Finland	2012	Lehtimarket	2114.04118852027
 Finland	2012	LexisNexis	11065.1853749588
 Finland	2012	Liber	1192.74076119686
-Finland	2012	Lippincott Williams & Wilkins (LWW)	41645.3340475723
-Finland	2012	Lippincott Williams & Wilkins (LWW)	36047.276338394
+Finland	2012	Lippincott Williams & Wilkins (LWW)	77692.6103859663
 Finland	2012	LM Tietopalvelut	199785.67420832
 Finland	2012	Lovdata	483.802477433265
 Finland	2012	MacLaser	898.148163551853
@@ -558,7 +551,7 @@ Finland	2012	Mary Ann Liebert Inc	6706.1729545205
 Finland	2012	Masterworkshop Ltd	23583.3748900638
 Finland	2012	Material ConneXion	3498.38689127486
 Finland	2012	Materials Research Society (MRS)	874.995899780294
-Finland	2012	McGraw-Hill Education	5889.45689113068
+Finland	2012	McGraw-Hill	5889.45689113068
 Finland	2012	Metsäkustannus	239.506176947161
 Finland	2012	Metsäntutkimuslaitos (Metla)	1251.81895151049
 Finland	2012	Metsätalouden kehittämiskeskus Tapio	1747.59673779112
@@ -570,9 +563,7 @@ Finland	2012	Nature Publishing Group	465410.798105492
 Finland	2012	Naxos Digital Services	359.259265420741
 Finland	2012	NewspaperDirect 	1472.96298822504
 Finland	2012	Niedersächsische Staats- und Universitätsbibliothek Göttingen	479.012353894322
-Finland	2012	OECD	52007.1696162296
-Finland	2012	OECD /Turpin	2898.02474106064
-Finland	2012	OECD /Wize Nordic AB	12103.0454750632
+Finland	2012	OECD	67008.2398323535
 Finland	2012	Online Computer Library Center (OCLC)	1925.62966265517
 Finland	2012	Optics Infobase Package - Optical Society of America	10879.9672647864
 Finland	2012	Oriprobe	1593.51443062178
@@ -580,8 +571,7 @@ Finland	2012	Ornanet	930.082320478141
 Finland	2012	OTDBASE	194.798357250357
 Finland	2012	Ovid	149625.097216353
 Finland	2012	Oxford University Press (OUP)	72904.0835548694
-Finland	2012	Palgrave Macmillan	1884.91361257416
-Finland	2012	Palgrave Macmillan/Nature	796.757215310888
+Finland	2012	Palgrave Macmillan	2681.67082788504
 Finland	2012	Pira International	1433.84364599034
 Finland	2012	PressReader	12653.9096820417
 Finland	2012	PrioInfo	7539.65445029662
@@ -632,11 +622,11 @@ Finland	2012	Warkauden lehti	116.559672780952
 Finland	2012	Wiley / Blackwell	1831821.47997635
 Finland	2012	William S. Hein & Co. Inc.	2731.16877112079
 Finland	2012	Wize Nordic	24386.5189367599
-Finland	2012	Wolters Kluwer	181490.59570525
+Finland	2012	Wolters Kluwer	9272.88081747091
+Finland	2012	Wolters Kluwer Health	172217.714887779
 Finland	2012	World Global Style Network (WGSN)	9701.59687420632
 Finland	2012	World Scientific Publishing	848.650220316106
-Finland	2012	WSOY	112015.442250341
-Finland	2012	WSOY /Talentum	4242.45274765737
+Finland	2012	WSOY	116257.894997998
 Finland	2012	Zentralverband Gartenbau e.V.	39.9176961578601
 Finland	2013	Aalto-yliopisto	51487.4412122543
 Finland	2013	Adato Energia Oy	1301.31689474624
@@ -667,7 +657,7 @@ Finland	2013	BMJ Group	19166.082633235
 Finland	2013	Bonnier	16605.7616016698
 Finland	2013	Brepols	5955.72026675273
 Finland	2013	Brill	1245.43212012524
-Finland	2013	Britannica /LM Info	1237.44858089366
+Finland	2013	Britannica	1237.44858089366
 Finland	2013	BTJ Kirjastopalvelu	66898.0669909578
 Finland	2013	Bureau van Dijk	43909.4657736461
 Finland	2013	Burgundy	6263.08652716825
@@ -705,12 +695,12 @@ Finland	2013	Grove	863.020590932936
 Finland	2013	Helsingin Sanomat	23941.8358015613
 Finland	2013	Helsingin seudun kauppakamari	4436.45275098457
 Finland	2013	HighWire	15990.2307269156
+Finland	2013	IEEE	315773.725580291
 Finland	2013	IFSR	5521.41573255521
 Finland	2013	IMF	1307.7037261315
 Finland	2013	Informa	34858.5273468129
 Finland	2013	Ingram	399.176961578601
 Finland	2013	Innventia	2634.56794641877
-Finland	2013	Institute of Electrical and Electronics Engineers (IEEE)	315773.725580291
 Finland	2013	Institute of Physics (IOP)	12753.7039224363
 Finland	2013	Integrum	37000.5109226437
 Finland	2013	Intelex corporation	143.703706168296
@@ -728,8 +718,7 @@ Finland	2013	Kompass	1277.36627705152
 Finland	2013	Lehtimarket	2306.44448400116
 Finland	2013	LexisNexis	11602.4775652436
 Finland	2013	Liber	702.551452378338
-Finland	2013	Lippincott Williams & Wilkins (LWW)	40870.9307421098
-Finland	2013	Lippincott Williams & Wilkins (LWW)	42396.5850892632
+Finland	2013	Lippincott Williams & Wilkins (LWW)	83267.515831373
 Finland	2013	LM Tietopalvelut	199349.772966277
 Finland	2013	Lovdata	518.930050052182
 Finland	2013	MacLaser	898.148163551853
@@ -739,7 +728,7 @@ Finland	2013	Marketing Science Institute	209.967081790344
 Finland	2013	Mary Ann Liebert Inc	8209.47339182551
 Finland	2013	Masterworkshop Ltd	23822.8810670109
 Finland	2013	Materials Research Society (MRS)	1041.05351579699
-Finland	2013	McGraw-Hill Education	6885.80258723087
+Finland	2013	McGraw-Hill	6885.80258723087
 Finland	2013	Metsäntutkimuslaitos (Metla)	1361.19343898303
 Finland	2013	Metsätalouden kehittämiskeskus Tapio	1666.16463762908
 Finland	2013	Mid Sweden University	775.201659385644
@@ -749,9 +738,7 @@ Finland	2013	Nature Publishing Group	508514.724770673
 Finland	2013	Naxos Digital Services	3862.43628023455
 Finland	2013	NewspaperDirect 	1259.00413681891
 Finland	2013	Niedersächsische Staats- und Universitätsbibliothek Göttingen	518.930050052182
-Finland	2013	OECD	48436.1325179475
-Finland	2013	OECD /Turpin	2985.84367260794
-Finland	2013	OECD /Wize Nordic AB	12499.0290209492
+Finland	2013	OECD	63921.0052115046
 Finland	2013	Online Computer Library Center (OCLC)	1857.76957918681
 Finland	2013	Optics Infobase Package - Optical Society of America	11366.1648039891
 Finland	2013	Oriprobe	1647.80249739647
@@ -759,8 +746,7 @@ Finland	2013	Ornanet	1524.85599323026
 Finland	2013	OTDBASE	192.403295480886
 Finland	2013	Ovid	128556.537184235
 Finland	2013	Oxford University Press (OUP)	68212.9559023977
-Finland	2013	Palgrave Macmillan	2132.40332875289
-Finland	2013	Palgrave Macmillan/Nature	812.724293774032
+Finland	2013	Palgrave Macmillan	2945.12762252692
 Finland	2013	Pharmaceutical Press	2071.72843059294
 Finland	2013	PressReader	9078.88081414371
 Finland	2013	PrioInfo	7458.22235013459
@@ -814,10 +800,11 @@ Finland	2013	Warkauden lehti	231.522637715589
 Finland	2013	Wiley / Blackwell	1941629.47362917
 Finland	2013	William S. Hein & Co. Inc.	4489.14410991295
 Finland	2013	Wize Nordic	28431.7782653975
-Finland	2013	Wolters Kluwer	170522.809508916
+Finland	2013	Wolters Kluwer	5610.83137194882
+Finland	2013	Wolters Kluwer Health	164911.978136968
 Finland	2013	World Global Style Network (WGSN)	11652.7738624025
 Finland	2013	World Scientific Publishing	958.024707788643
-Finland	2013	WSOY /Talentum	2551.53913841042
+Finland	2013	WSOY	2551.53913841042
 Finland	2013	Zentralverband Gartenbau e.V.	39.9176961578601
 Finland	2014	Aalto-yliopisto	46368.3958569703
 Finland	2014	Adato Energia Oy	1277.36627705152
@@ -848,8 +835,7 @@ Finland	2014	BMJ Group	20839.4324561725
 Finland	2014	Bonnier	28114.831757904
 Finland	2014	Brepols	6039.54742868424
 Finland	2014	Brill	2019.83542558772
-Finland	2014	Britannica / Wize Nordic	506.954741204824
-Finland	2014	Britannica /LM Info	562.041161902671
+Finland	2014	Britannica	1068.99590310749
 Finland	2014	BTJ Kirjastopalvelu	61960.2479762305
 Finland	2014	Bureau van Dijk	53250.2066745854
 Finland	2014	Burgundy	6327.75319494399
@@ -888,12 +874,12 @@ Finland	2014	Grove	914.115242014997
 Finland	2014	Helsingin Sanomat	25172.8975510698
 Finland	2014	Helsingin seudun kauppakamari	4552.21406984237
 Finland	2014	HighWire	16720.7245666044
+Finland	2014	IEEE	315146.21939669
 Finland	2014	IFSR	5665.91779264667
 Finland	2014	IMF	1089.75310510958
 Finland	2014	Informa	33922.0581949495
 Finland	2014	Ingram	399.176961578601
 Finland	2014	Innventia	2634.56794641877
-Finland	2014	Institute of Electrical and Electronics Engineers (IEEE)	315146.21939669
 Finland	2014	Institute of Physics (IOP)	12981.2347905361
 Finland	2014	Integrum	34751.5479211099
 Finland	2014	Intelex corporation	143.703706168296
@@ -911,8 +897,7 @@ Finland	2014	Know China Technology	2071.72843059294
 Finland	2014	Kompass	1277.36627705152
 Finland	2014	LexisNexis	12199.6462997652
 Finland	2014	Liber	658.641986604692
-Finland	2014	Lippincott Williams & Wilkins (LWW)	42812.5274832281
-Finland	2014	Lippincott Williams & Wilkins (LWW)	44429.9925315446
+Finland	2014	Lippincott Williams & Wilkins (LWW)	87242.5200147728
 Finland	2014	LM Tietopalvelut	227012.736403674
 Finland	2014	Lovdata	481.407415663793
 Finland	2014	MacLaser	898.148163551853
@@ -923,7 +908,7 @@ Finland	2014	Mary Ann Liebert Inc	8588.69150532519
 Finland	2014	Masterworkshop Ltd	23822.8810670109
 Finland	2014	Material ConneXion	2418.21403324317
 Finland	2014	Materials Research Society (MRS)	1085.7613354938
-Finland	2014	McGraw-Hill Education	14488.5269974569
+Finland	2014	McGraw-Hill	14488.5269974569
 Finland	2014	Metsäntutkimuslaitos (Metla)	474.222230355378
 Finland	2014	Metsätalouden kehittämiskeskus Tapio	2379.09469100846
 Finland	2014	Mid Sweden University	646.666677757334
@@ -934,9 +919,7 @@ Finland	2014	Nature Publishing Group	533790.60997783
 Finland	2014	Naxos Digital Services	3862.43628023455
 Finland	2014	NewspaperDirect 	1259.00413681891
 Finland	2014	Niedersächsische Staats- und Universitätsbibliothek Göttingen	518.930050052182
-Finland	2014	OECD	49509.1201906708
-Finland	2014	OECD /Turpin	3073.66260415523
-Finland	2014	OECD /Wize Nordic AB	12711.391164509
+Finland	2014	OECD	65294.173959335
 Finland	2014	Online Computer Library Center (OCLC)	1836.21402326157
 Finland	2014	Optics Infobase Package - Optical Society of America	11077.1606838062
 Finland	2014	OTDBASE	184.419756249314
@@ -997,10 +980,11 @@ Finland	2014	Warc Ltd	3171.06178278041
 Finland	2014	Wiley / Blackwell	2054955.81302133
 Finland	2014	William S. Hein & Co. Inc.	3700.37043383363
 Finland	2014	Wize Nordic	31344.9717309981
-Finland	2014	Wolters Kluwer	199019.25444209
+Finland	2014	Wolters Kluwer	9698.4034585137
+Finland	2014	Wolters Kluwer Health	189320.850983576
 Finland	2014	World Global Style Network (WGSN)	16504.3706534288
 Finland	2014	World Scientific Publishing	987.563802945459
-Finland	2014	WSOY /Talentum	2679.27576611557
+Finland	2014	WSOY	2679.27576611557
 Finland	2014	Zentralverband Gartenbau e.V.	39.9176961578601
 Finland	2015	Aalto-yliopisto	46572.7744612986
 Finland	2015	Adato Energia Oy	1277.36627705152
@@ -1035,7 +1019,7 @@ Finland	2015	BMJ Group	23698.3378549984
 Finland	2015	Bonnier	36025.7207824688
 Finland	2015	Brepols	5911.81080097908
 Finland	2015	Brill	2660.1152719598
-Finland	2015	Britannica / Wize Nordic	476.61729212485
+Finland	2015	Britannica	476.61729212485
 Finland	2015	BTJ Kirjastopalvelu	65177.614286554
 Finland	2015	Bureau van Dijk	46703.7045046963
 Finland	2015	Burgundy	8926.39521482068
@@ -1047,7 +1031,7 @@ Finland	2015	Centre for Economic Policy Research (CEPR)	2327.20168600325
 Finland	2015	Chemical Abstracts Service (CAS)	140348.224629267
 Finland	2015	Communication Institute for Online Scholarship (CIOS)	626.707829678404
 Finland	2015	Consortium Erudit	179.629632710371
-Finland	2015	Crnet Corporate	1568.7654590039
+Finland	2015	Crnet	1568.7654590039
 Finland	2015	CSC - Tieteen tietotekniikan keskus	7571.58860722291
 Finland	2015	CSH Press	2656.12350234401
 Finland	2015	CSIRO Publishing	374.427989960728
@@ -1084,11 +1068,11 @@ Finland	2015	Helsingin Sanomat	25478.667103639
 Finland	2015	Helsingin seudun kauppakamari	11747.7779792582
 Finland	2015	Henry Stuarts Talks	2834.15642720807
 Finland	2015	HighWire	20297.3501423487
+Finland	2015	IEEE	418919.455744356
 Finland	2015	IFSR	8682.89726825773
 Finland	2015	Informa	39510.5356570499
 Finland	2015	Ingram	399.176961578601
 Finland	2015	Innventia	2794.23873105021
-Finland	2015	Institute of Electrical and Electronics Engineers (IEEE)	418919.455744356
 Finland	2015	Institute of Physics (IOP)	13124.1401427813
 Finland	2015	Integrum	37398.8895302992
 Finland	2015	Intelex corporation	143.703706168296
@@ -1106,8 +1090,7 @@ Finland	2015	Know China Technology	2175.51444060338
 Finland	2015	Kompass	1277.36627705152
 Finland	2015	LexisNexis	18612.0250105639
 Finland	2015	Liber	651.456801296277
-Finland	2015	Lippincott Williams & Wilkins (LWW)	42951.4410658575
-Finland	2015	Lippincott Williams & Wilkins (LWW)	51964.0585043792
+Finland	2015	Lippincott Williams & Wilkins (LWW)	94915.4995702366
 Finland	2015	Literary Dictionary Company Limited 	736.082317150941
 Finland	2015	LM Tietopalvelut	978844.97975066
 Finland	2015	Lovdata	483.802477433265
@@ -1118,22 +1101,20 @@ Finland	2015	Mary Ann Liebert Inc	10689.9590310749
 Finland	2015	Masterworkshop Ltd	25062.7247096741
 Finland	2015	Material ConneXion	2994.62556576267
 Finland	2015	Materials Research Society (MRS)	1186.3539298116
-Finland	2015	McGraw-Hill Education	10592.5598524498
+Finland	2015	McGraw-Hill	10592.5598524498
 Finland	2015	Metsäntutkimuslaitos (Metla)	474.222230355378
 Finland	2015	Metsätalouden kehittämiskeskus Tapio	2387.07823024004
 Finland	2015	Mid Sweden University	646.666677757334
 Finland	2015	Mineralogical Society	526.115235360596
 Finland	2015	MIPP International	1098.53499826431
-Finland	2015	MUSEEC 	1995.88480789301
+Finland	2015	MUSEEC	1995.88480789301
 Finland	2015	National Bureau of Economic Research (NBER)	2473.30045394101
 Finland	2015	Nationalencyklopedin	14862.1566334945
 Finland	2015	Nature Publishing Group	493577.522868401
 Finland	2015	Naxos Digital Services	3802.55973599776
 Finland	2015	NewspaperDirect 	1309.30043397781
 Finland	2015	Niedersächsische Staats- und Universitätsbibliothek Göttingen	518.930050052182
-Finland	2015	OECD	46232.6756900336
-Finland	2015	OECD /Turpin	3169.46507493409
-Finland	2015	OECD /Wize Nordic AB	8845.7614685818
+Finland	2015	OECD	58247.9022335495
 Finland	2015	Optics Infobase Package - Optical Society of America	12562.0989808786
 Finland	2015	Oriprobe	1730.03295148166
 Finland	2015	Ornanet	1007.52265102439
@@ -1198,12 +1179,13 @@ Finland	2015	Warc Ltd	3209.38277109195
 Finland	2015	Wiley / Blackwell	2115004.80170552
 Finland	2015	William S. Hein & Co. Inc.	7351.24292443152
 Finland	2015	Wize Nordic	32630.3215472812
-Finland	2015	Wolters Kluwer	209783.460388018
+Finland	2015	Wolters Kluwer	10118.3376220944
+Finland	2015	Wolters Kluwer Health	199665.122765924
 Finland	2015	World Global Style Network (WGSN)	21756.7411138801
 Finland	2015	World Scientific Publishing	989.958864714931
-Finland	2015	WSOY /Talentum	2812.60087128282
+Finland	2015	WSOY	2812.60087128282
 Finland	2016	Aalto-yliopisto	44958.5028286747
-Finland	2016	Adata Energia Oy	1876.13171941943
+Finland	2016	Adato Energia Oy	1876.13171941943
 Finland	2016	AIAA	1726.04118186587
 Finland	2016	AIP/APS	73681.6802760245
 Finland	2016	Alexander Street Press	11006.1071846452
@@ -1219,9 +1201,9 @@ Finland	2016	American Mathematical Society (AMS)	63086.7253618053
 Finland	2016	American Medical Association (AMA)	18648.7492910291
 Finland	2016	AMERICAN PHYSIOLOGICAL SOCIETY	1432.24693814402
 Finland	2016	AMERICAN PSYCHIATRIC ASSOCIATION PUBLISHING	782.386844694058
-Finland	2016	American Society for Nutrition	673.012357221522
+Finland	2016	American Society for Nutrition	673.012357221522
 Finland	2016	American Society of Agronomy	5756.13178596343
-Finland	2016	American Society of Animal Science	577.209886442657
+Finland	2016	American Society of Animal Science	577.209886442657
 Finland	2016	American Society of Civil Engineers (ASCE)	12241.9590576925
 Finland	2016	American Society of Mechanic Engineers (ASME)	5330.60914492064
 Finland	2016	American Society of Microbiology	3840.08237038614
@@ -1246,7 +1228,7 @@ Finland	2016	Bonnier Business Forum Oy	3943.86838039658
 Finland	2016	Booky.fi Oy	638.683138525762
 Finland	2016	Brepols	7117.32522494646
 Finland	2016	Brill	3121.56383954466
-Finland	2016	Britannica /LM Info	407.160500810173
+Finland	2016	Britannica	407.160500810173
 Finland	2016	Brockhaus NE GmbH	1153.62141896216
 Finland	2016	BTJ Kirjastopalvelu	66669.7377689348
 Finland	2016	Bureau van Dijk	42711.9348889103
@@ -1261,8 +1243,7 @@ Finland	2016	Centre for Policy Research	1075.38273449275
 Finland	2016	Clarivate Analytics	8215.06186928761
 Finland	2016	Cleo OpenEdition	137.316874783039
 Finland	2016	Communication Institute for Online Scholarship (CIOS)	645.868323834177
-Finland	2016	Crnet Corporate	1556.79015015654
-Finland	2016	Crnet Oy	1556.79015015654
+Finland	2016	Crnet	3113.58030031309
 Finland	2016	CSC - Tieteen tietotekniikan keskus	7874.96309802265
 Finland	2016	Datamonitor	5946.938373598
 Finland	2016	Dawson Books	6367.67089110185
@@ -1271,8 +1252,7 @@ Finland	2016	Dictionnaires Le Robert	1441.82718522191
 Finland	2016	DigiZeitschriften	518.930050052182
 Finland	2016	Docutech Ltd	1293.33335551467
 Finland	2016	Duodecim	501942.675275243
-Finland	2016	East View	1662.1728680133
-Finland	2016	East View Information Services	6655.07830343844
+Finland	2016	East View	8317.25117145173
 Finland	2016	EBSCO/SAGE/WILSON	1375825.66968666
 Finland	2016	Economic and Financial Publishing Limited / LM Tietopalvelut Oy	251.481485794519
 Finland	2016	Ecopoint Inc.	397.580253732287
@@ -1310,14 +1290,13 @@ Finland	2016	Henry Stuarts Talks	2834.15642720807
 Finland	2016	HighWire	23794.1403257773
 Finland	2016	HS / M-Brain	2969.87659414479
 Finland	2016	IBFD International Bureau for Fiscal Documentation	1142.44446403796
+Finland	2016	IEEE	720232.596714501
 Finland	2016	IIPF	43.1111118504889
 Finland	2016	INDERSCIENCE ENTERPRISES LTD	597.967088444745
 Finland	2016	Informa	12494.2388974102
 Finland	2016	INFORMS	439.893011659619
 Finland	2016	Ingram/Coutts	399.176961578601
 Finland	2016	Innventia	5478.30462070472
-Finland	2016	Institute of Electrical and Electronics Engineers	15133.5969673679
-Finland	2016	Institute of Electrical and Electronics Engineers (IEEE)	705098.999747133
 Finland	2016	Institute of Physics (IOP)	86411.4335807661
 Finland	2016	Integrum	49495.5481739771
 Finland	2016	Intelex corporation	508.551449051138
@@ -1355,13 +1334,11 @@ Finland	2016	McGraw-Hill	12721.76976551
 Finland	2016	MCX	3011.39099814897
 Finland	2016	Metsätalouden kehittämiskeskus Tapio	1277.36627705152
 Finland	2016	MIPP International	1012.31277456333
-Finland	2016	MIT PRESS JOURNALS	954.831292096014
-Finland	2016	MIT Press Journals / LM Tietopalvelut Oy	486.197539202736
+Finland	2016	MIT PRESS JOURNALS	1441.02883129875
 Finland	2016	MOT	1826.63377618368
 Finland	2016	MUSEEC	1995.88480789301
 Finland	2016	National Academy of Sciences	4783.73670755796
-Finland	2016	National Bureau of Economic Research (NBER)	1497.71195984291
-Finland	2016	National Bureau of Economic Research (NBER) / LM Tietopalvelut Oy	1872.13994980364
+Finland	2016	National Bureau of Economic Research (NBER)	3369.85190964655
 Finland	2016	Nationalencyklopedin	22344.3296013238
 Finland	2016	Nature Publishing Group	538365.976311444
 Finland	2016	Naxos Digital Services	6454.69146872598
@@ -1369,9 +1346,7 @@ Finland	2016	NBER	2276.10703492118
 Finland	2016	Niedersächsische Staats- und Universitätsbibliothek Göttingen	518.930050052182
 Finland	2016	OCEANSIDE PUBLICATIONS INC.	795.958861387731
 Finland	2016	OCLC	878.189315472923
-Finland	2016	OECD	79764.3388165592
-Finland	2016	OECD /Wize Nordic AB	17491.9344563743
-Finland	2016	OECD/Turpin	3265.26754571296
+Finland	2016	OECD	100521.540818647
 Finland	2016	Open Book Publishers	319.341569262881
 Finland	2016	Optical Society of America	14454.1977787612
 Finland	2016	Ornanet-koulutus	1041.85186972015
@@ -1379,16 +1354,14 @@ Finland	2016	OTDBASE	236.312761254532
 Finland	2016	Ovid	672640.32429333
 Finland	2016	Oxford University Press (OUP)	211401.723790258
 Finland	2016	Oy Fg-Naxos Ab	718.518530841482
-Finland	2016	Palgrave Macmillan	8584.6997357094
-Finland	2016	Palgrave Macmillan / LM Tietopalvelut Oy	191.604941557729
+Finland	2016	Palgrave Macmillan	8776.30467726713
 Finland	2016	Paperi ja Puu Oy	2514.81485794519
 Finland	2016	PHOENIX BIOINFORMATICS CORPORATION	217.152267098759
 Finland	2016	PLUTO PRESS	327.325108494453
 Finland	2016	PressReader	39750.8401879203
 Finland	2016	Prio Infocenter AB	4823.65440371582
 Finland	2016	PrioInfo	4630.45275431177
-Finland	2016	Project Muse	20622.2801890737
-Finland	2016	Project Muse / LM Tietopalvelut Oy	91.8107011630783
+Finland	2016	Project Muse	20714.0908902368
 Finland	2016	ProQuest	936909.843228981
 Finland	2016	Prosessiteollisuuden standardoimiskeskus	321.736631032353
 Finland	2016	Prowledge Oy	3991.76961578601
@@ -1400,8 +1373,7 @@ Finland	2016	Richard Boorberg Verlag/Delbanco	297.786013337637
 Finland	2016	Riksarkivet	4455.61324514035
 Finland	2016	Royal Economic Society	44.7078196968033
 Finland	2016	Royal Society of Chemistry (RSC)	91222.3143217114
-Finland	2016	Sage	741065.642339288
-Finland	2016	SAGE Publications  / LM Tietopalvelut Oy	1396.32101160195
+Finland	2016	Sage	742461.96335089
 Finland	2016	Sähköinfo Oy	12461.5063865608
 Finland	2016	Sanoma	699.358036685709
 Finland	2016	Scandinavian university press	2536.37041387043
@@ -1415,8 +1387,7 @@ Finland	2016	Social Science Electronic Publishing	1084.96298157064
 Finland	2016	Society of American Foresters	902.139933167639
 Finland	2016	Society of Exploration Geophysicists (SEG)	1940.000033272
 Finland	2016	SPIE	19394.4118552579
-Finland	2016	Springer	1753602.75435503
-Finland	2016	Springer / LM Tietopalvelut Oy	7379.18531174202
+Finland	2016	Springer	1760981.93966677
 Finland	2016	Springshare	1411.48973614193
 Finland	2016	ST-Akatemia Oy	9030.97957875428
 Finland	2016	Statistikcentralen	1000.33746571597
@@ -1430,8 +1401,7 @@ Finland	2016	Suomen Tilintarkastajat ry	269.843626027134
 Finland	2016	TAK Oy	1916.04941557729
 Finland	2016	Tapio	1189.54734550423
 Finland	2016	Tax Analysts / LM Tietopalvelut Oy	1875.33336549627
-Finland	2016	Taylor & Francis	1564770.49597242
-Finland	2016	Taylor & Francis / LM Tietopalvelut Oy	2559.52267764199
+Finland	2016	Taylor & Francis	1567330.01865007
 Finland	2016	The Financial Times	24799.2679150322
 Finland	2016	The Royal Pharmaceutical Society of Great Britain	9580.24707788643
 Finland	2016	Thieme	21688.0826764886
@@ -1440,23 +1410,20 @@ Finland	2016	Thomson Reuters	885517.406133583
 Finland	2016	Tilastokeskus	11258.3870243629
 Finland	2016	UDC Consortium	239.506176947161
 Finland	2016	United Nations Publications	3309.1770114866
-Finland	2016	University of Chicago Press	1635.02883462595
-Finland	2016	University of Chicago Press / LM Tietopalvelut Oy	638.683138525762
+Finland	2016	University of Chicago Press	2273.71197315171
 Finland	2016	University of Helsinki	46595.128371147
 Finland	2016	University of Oxford Oriental Studies Faculty	650.65844737312
-Finland	2016	University of Wisconsin Press	125.341565935681
-Finland	2016	University of Wisconsin Press / LM Tietopalvelut Oy	245.094654409261
+Finland	2016	University of Wisconsin Press	370.436220344942
 Finland	2016	Veterinary Science Database	5133.41572590081
 Finland	2016	Viite & Hakuteos & kokotekstietokannat:  tilattu useilta kotimaiselta ja kansainväliseltä kustantajalta tai välittäjältä	104672.981219064
 Finland	2016	Vittorio Klostermann	635.489722833133
 Finland	2016	W.S. Hein	1430.65023029771
 Finland	2016	Walter de Gruyter GMBH	10230.1071713364
 Finland	2016	Warc Ltd	3385.02063418654
-Finland	2016	Wiley / Blackwell	2654873.28010035
-Finland	2016	Wiley / LM Tietopalvelut Oy	5376.1153185406
+Finland	2016	Wiley / Blackwell	2660249.39541889
 Finland	2016	William S. Hein & Co. Inc.	10180.6092281006
 Finland	2016	Wize Nordic	28804.6095475119
-Finland	2016	Wolters Kluwer	39222.3298907902
+Finland	2016	Wolters Kluwer Health	39222.3298907902
 Finland	2016	World Global Style Network (WGSN)	27243.8276277395
 Finland	2016	World Scientific Publishing	1123.28396988218
 Finland	2016	Zentralverband Gartenbau e.V.	39.9176961578601
@@ -1762,78 +1729,78 @@ France	2015	Wiley / Blackwell	103140.78835328
 France	2015	Wolters Kluwer	40295.8205264851
 Netherlands	2011	American Chemical Society (ACS)	1567258.48465361
 Netherlands	2011	Cambridge University Press	16892.4518255938
+Netherlands	2011	Elsevier	10090056.3075088
 Netherlands	2011	John Hopkins University Press	13326.0340596785
 Netherlands	2011	JSTOR	56959.6143809385
-Netherlands	2011	LWW - Wolters Kluwer Health	726375.428500532
 Netherlands	2011	Miscellaneous incl print	12588072.7768306
 Netherlands	2011	Oxford University Press (OUP)	724485.147030326
 Netherlands	2011	Project Muse	34465.3649533263
 Netherlands	2011	Sage	868018.451932634
-Netherlands	2011	ScienceDirect (Elsevier)	10090056.3075088
 Netherlands	2011	Springer	2554403.69566626
 Netherlands	2011	Taylor & Francis	1796128.64159282
 Netherlands	2011	Wiley / Blackwell	3382528.10240424
 Netherlands	2011	Wolters Kluwer	1381574.60479735
+Netherlands	2011	Wolters Kluwer Health	726375.428500532
 Netherlands	2011	NA	0
 Netherlands	2012	American Chemical Society (ACS)	1642070.20143184
 Netherlands	2012	Cambridge University Press	18334.4293790966
+Netherlands	2012	Elsevier	11002638.9706612
 Netherlands	2012	John Hopkins University Press	13424.1005414573
 Netherlands	2012	JSTOR	53180.0521189121
-Netherlands	2012	LWW - Wolters Kluwer Health	756221.662026399
 Netherlands	2012	Miscellaneous incl print	13359914.0277763
 Netherlands	2012	Oxford University Press (OUP)	1030438.56068283
 Netherlands	2012	Project Muse	35833.2923063022
 Netherlands	2012	Sage	978139.10554316
-Netherlands	2012	ScienceDirect (Elsevier)	11002638.9706612
 Netherlands	2012	Springer	2633831.54183678
 Netherlands	2012	Taylor & Francis	1880602.90886141
 Netherlands	2012	Wiley / Blackwell	3730073.71247159
 Netherlands	2012	Wolters Kluwer	1113598.93723127
+Netherlands	2012	Wolters Kluwer Health	756221.662026399
 Netherlands	2012	NA	0
 Netherlands	2013	American Chemical Society (ACS)	1765875.13196405
 Netherlands	2013	Cambridge University Press	21031.257628014
+Netherlands	2013	Elsevier	11758091.1110092
 Netherlands	2013	John Hopkins University Press	15195.3012837889
 Netherlands	2013	JSTOR	55220.4353469428
-Netherlands	2013	LWW - Wolters Kluwer Health	787732.023707349
 Netherlands	2013	Miscellaneous incl print	13936308.7805367
 Netherlands	2013	Oxford University Press (OUP)	675427.889859666
 Netherlands	2013	Project Muse	38209.9034718602
 Netherlands	2013	Sage	1043838.64494304
-Netherlands	2013	ScienceDirect (Elsevier)	11758091.1110092
 Netherlands	2013	Springer	2742241.03540811
 Netherlands	2013	Taylor & Francis	1994579.17629126
 Netherlands	2013	Wiley / Blackwell	3888240.93808342
 Netherlands	2013	Wolters Kluwer	1116043.59452704
+Netherlands	2013	Wolters Kluwer Health	787732.023707349
 Netherlands	2013	NA	0
 Netherlands	2014	American Chemical Society (ACS)	1808421.97555866
 Netherlands	2014	Cambridge University Press	21323.4557165794
+Netherlands	2014	Elsevier	12114045.4215499
 Netherlands	2014	John Hopkins University Press	15244.3345246784
 Netherlands	2014	JSTOR	56468.2812936589
-Netherlands	2014	LWW - Wolters Kluwer Health	787965.18177117
 Netherlands	2014	Miscellaneous incl print	14366085.1369324
 Netherlands	2014	Oxford University Press (OUP)	656806.265783931
 Netherlands	2014	Project Muse	39821.9963508977
 Netherlands	2014	Sage	1028105.97936624
-Netherlands	2014	ScienceDirect (Elsevier)	12114045.4215499
 Netherlands	2014	Springer	2816607.45030479
 Netherlands	2014	Taylor & Francis	1972546.23959936
 Netherlands	2014	Wiley / Blackwell	3982300.7036067
 Netherlands	2014	Wolters Kluwer	1157011.36762933
+Netherlands	2014	Wolters Kluwer Health	787965.18177117
 Netherlands	2014	NA	0
 Netherlands	2015	American Chemical Society (ACS)	1918171.37748817
 Netherlands	2015	Cambridge University Press	23290.7894224687
+Netherlands	2015	Elsevier	11715926.5265578
 Netherlands	2015	John Hopkins University Press	18112.278777516
 Netherlands	2015	JSTOR	46479.5096496167
-Netherlands	2015	LWW - Wolters Kluwer Health	787965.18177117
 Netherlands	2015	Miscellaneous incl print	16053258.9152338
 Netherlands	2015	Oxford University Press (OUP)	591321.872236934
 Netherlands	2015	Project Muse	35366.9761786601
 Netherlands	2015	Sage	1254838.68727402
-Netherlands	2015	ScienceDirect (Elsevier)	11715926.5265578
 Netherlands	2015	Springer	2914683.93886746
 Netherlands	2015	Taylor & Francis	2095213.39880727
 Netherlands	2015	Wiley / Blackwell	3646321.93499732
 Netherlands	2015	Wolters Kluwer	1201181.31156522
+Netherlands	2015	Wolters Kluwer Health	787965.18177117
 Netherlands	2015	NA	0
 UK	2010	Cambridge University Press	1407330.97019609
 UK	2010	Elsevier	33217605.8014308

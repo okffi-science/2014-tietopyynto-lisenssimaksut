@@ -6,7 +6,7 @@ output:
   pdf_document:
     fig_caption: yes
   html_document:
-    fig_caption: yes        
+    fig_caption: yes
 ---
 
 
@@ -45,6 +45,17 @@ library(ggplot2)
 library(dplyr)
 library(tidyr)
 theme_set(theme_bw(20))
+
+# Pick publishers that have time series (T>=3) in multiple (N>=3) countries
+selected.publishers <- as.character(unlist((d %>%
+  group_by(Country, Publisher) %>%
+  tally() %>%
+  filter(n>=3) %>% # Time points
+  select(Country, Publisher) %>%
+  group_by(Publisher) %>%
+  tally() %>%
+  filter(n>=3) %>% # Countries
+  arrange(desc(n)))$Publisher))
 ```
 
 
@@ -84,7 +95,7 @@ dsub$Increase[is.infinite(dsub$Increase)] <- NA
 
 
 library(scales)
-colors <- c("red", "black", "darkgray")
+colors <- c("red", "black", "darkgray", "blue")
 names(colors) <- my.pubs
 for (country in unique(dsub$Country)) {
   dd <- filter(dsub, Country == country)
@@ -109,17 +120,6 @@ for (country in unique(dsub$Country)) {
 
 
 ```{r costs1, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=8, fig.height=5, fig.show = "hold", out.width = "150px"}
-# Pick publishers that have time series (T>=3) in multiple (N>=3) countries
-selected.publishers <- as.character(unlist((d %>%
-  group_by(Country, Publisher) %>%
-  tally() %>%
-  filter(n>=3) %>% # Time points
-  select(Country, Publisher) %>%
-  group_by(Publisher) %>%
-  tally() %>%
-  filter(n>=3) %>% # Countries
-  arrange(desc(n)))$Publisher))
-
 dsub <- d %>% select("Country", "Year", "Publisher", "Cost") %>%
               filter(Publisher %in% selected.publishers) %>%
 	      group_by(Country, Year, Publisher) %>%

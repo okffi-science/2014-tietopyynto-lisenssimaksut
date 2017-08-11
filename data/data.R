@@ -83,7 +83,6 @@ d$CostEUR <- NULL
 
 # --------------------------
 
-# Combine duplicate publishers
 write.csv(sort(names(table(d$Publisher))), file = "pubs.csv", row.names = F, quote = F)
 write.csv(sort(names(table(d$Material))), quote = F, row.names = F, file = "material.csv")
 write.csv(sort(names(table(d$Resource.type))), quote = F, row.names = F, file = "Resourcetype.csv")
@@ -92,9 +91,10 @@ write.csv(sort(names(table(d$Organization))), quote = F, row.names = F, file = "
 # ---------------------------
 
 # Read the manually constructed file of publisher synonymes
-pubs <- read_mapping("publisher_synonymes.csv", from = "orig", to = "name", sep = "\t")
-names(pubs) <- c("synonyme", "name")
+pubs <- read_mapping("publisher_synonymes.csv", from = "orig", to = "name", sep = "\t", self.match = TRUE)
+names(pubs) <- c("name", "synonyme")
 library(bibliographica)
+dbu <- d
 d$Publisher <- map(d$Publisher, pubs)
 d$Publisher <- as.factor(d$Publisher)
 
