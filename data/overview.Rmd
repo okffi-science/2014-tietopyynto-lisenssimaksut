@@ -10,6 +10,10 @@ output:
 ---
 
 
+All prices are in EUR.
+
+
+
 ```{r setup, echo=FALSE, message=FALSE, warning=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(devtools)
@@ -42,23 +46,63 @@ theme_set(theme_bw(20))
 ```
 
 
-```{r countries.with.data, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=10, fig.show = "hold", out.width = "400px"}
-par(mar=c(3, 16, 3, 2));
-n <- rev(sort(colSums(table(d$Country, d$Publisher) > 0)));
-tab <- rev(n[n>=2])
-# Pick publishers with multi-country data
-selected.publishers <- names(tab)
-barplot(tab, las = 1, horiz = T, main = "Number of countries with data")
+
+```{r costs3, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=8, fig.height=5, fig.show = "hold", out.width = "250px"}
+# Price increase per publisher per dataset
+dsub <- d %>% select("Country", "Year", "Publisher", "Cost") %>%
+              filter(Publisher %in% selected.publishers) %>%
+	      group_by(Country, Year, Publisher) %>%
+	      summarize(Cost = sum(Cost, na.rm = TRUE))
+
+# Check the largest publishers from here
+#d %>% group_by(Publisher) %>% summarize(total = sum(Cost, na.rm = TRUE)) %>% arrange(desc(total))
+my.pubs <- c("Elsevier", "Springer", "Wiley / Blackwell", "Taylor & Francis")
+
+dsub <- dsub %>% filter(Publisher %in% my.pubs)
+
+# Calculate cost increase (percent) per country/publisher and year
+inc <- NULL
+for (country in unique(dsub$Country)) {
+  for (publisher in unique(dsub$Publisher)) {
+    for (t in unique(subset(dsub, Country == country & Publisher == publisher)$Year)[-1]) {
+      t1 <- t-1
+      t2 <- t
+      ind1 <- which(dsub$Country == country & dsub$Publisher == publisher & dsub$Year == t1)
+      ind2 <- which(dsub$Country == country & dsub$Publisher == publisher & dsub$Year == t2)
+      inc <- rbind(inc, c(ind2, dsub[ind2,"Cost"]/dsub[ind1,"Cost"] - 1))
+    }
+  }
+}
+inc <- cbind(unlist(inc[,1]), unlist(inc[,2]))
+colnames(inc) <- c("index", "increase")
+dsub$Increase <- rep(NA, nrow(dsub))
+dsub$Increase[inc[, "index"]] <- inc[, "increase"]
+dsub$Increase[is.infinite(dsub$Increase)] <- NA
+
+
+
+library(scales)
+colors <- c("red", "black", "darkgray")
+names(colors) <- my.pubs
+for (country in unique(dsub$Country)) {
+  dd <- filter(dsub, Country == country)
+  dd$Country <- factor(dd$Country, levels = levels(dsub$Country))
+  dd$Publisher <- factor(dd$Publisher, levels = levels(dsub$Publisher))
+  dd$Year <- as.factor(dd$Year)
+  p <- ggplot(dd, aes(x = Publisher, y = Increase, fill = Year)) +
+    #geom_line() +
+    #geom_point() +
+    geom_bar(stat = "identity", position = "dodge", color = "black", aes(group = Year)) + 
+    # scale_y_log10() +
+    # scale_y_continuous(scales::percent) + 
+    labs(title = country, y = "Increase (%)") +
+    #scale_color_manual(values = colors)
+    scale_fill_grey()    
+  print(p)
+}
 ```
 
-`r figs("countries.with.data", "Number of countries with data for at least one year. Publishers with more than one country are shown.")`
-
-
-
-
-
-
-
+`r figs("costs3", "Annual cost increase for selected publishers. The remarkable cost increase in 2016 is associated with notable increase of listed publishers and organizations in the data set (57 vs. 71 organizations 2015-2016; and 200 vs. 258 publishers)")`.
 
 
 
@@ -82,7 +126,7 @@ dsub <- d %>% select("Country", "Year", "Publisher", "Cost") %>%
 
 # ggplot(dsub, aes(x = Year, y = Cost, fill = Publisher)) + facet_grid(Country ~ .) + geom_bar(stat = "identity", position = "dodge") + scale_y_log10()
 for (publisher in c("Elsevier", "Springer", "Wiley / Blackwell")) {
-  p <- ggplot(subset(dsub, Publisher == publisher), aes(x = Year, y = Cost, color = Country)) + geom_line() + geom_point() + scale_y_log10() + labs(title = publisher)
+  p <- ggplot(subset(dsub, Publisher == publisher), aes(x = Year, y = Cost, color = Country)) + geom_line() + geom_point() + scale_y_log10() + labs(title = publisher, y = "Cost (EUR)")
   print(p)
 }
 ```
@@ -110,10 +154,29 @@ for (country in unique(dsub$Country)) {
     geom_line() +
     geom_point() +
     scale_y_log10() +
-    labs(title = country) +
+    labs(title = country, y = "Cost (EUR)") +
     scale_color_manual(values = colors)
   print(p)
 }
 ```
 
 `r figs("costs2", "Cost timelines for three selected publishers.")`
+
+
+```{r countries.with.data, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=10, fig.show = "hold", out.width = "400px"}
+par(mar=c(3, 16, 3, 2));
+n <- rev(sort(colSums(table(d$Country, d$Publisher) > 0)));
+tab <- rev(n[n>=2])
+# Pick publishers with multi-country data
+selected.publishers <- names(tab)
+barplot(tab, las = 1, horiz = T, main = "Number of countries with data")
+```
+
+`r figs("countries.with.data", "Number of countries with data for at least one year. Publishers with more than one country are shown.")`
+
+
+
+
+
+
+

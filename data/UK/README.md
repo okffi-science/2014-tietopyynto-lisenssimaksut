@@ -1,3 +1,5 @@
+
+
 From
 https://figshare.com/articles/Journal_subscription_costs_FOIs_to_UK_universities/1186832
 
@@ -17,3 +19,30 @@ The current total expenditure on these eight publishers in 2016 is £101m.
 
 * Updated 24 January 2017 with data for five institutions.
 * Updated 20 February 2017 with data for nine institutions.
+
+
+# ----------------
+
+To be combined between datasets 2010-2014 vs. 2015-2016
+
+Organization.name:
+
+"St Mary's University College"    
+"St Mary's University, Twickenham"
+
+"London School of Economics"                      
+"London School of Economics and Political Science"
+
+"Stranmillis Universiity College"
+"Stranmillis University College"
+
+"University of Wales Trinity St David"                             
+"University of Wales, Trinity St David"
+
+Ja julkaisijoista:
+"Institute of Physics Publishing"
+"IOP"
+
+"Royal Society of Chemistry"
+"RSC"
+
