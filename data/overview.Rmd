@@ -10,8 +10,10 @@ output:
 ---
 
 
-All prices are in EUR.
+All prices were converted in EUR before the analysis.
 
+The most comprehensive longitudinal per publisher data sets are available from 
+Finland (2010-2016), Argentina (2008-2016), France (2009-2015), Netherlands (2011-2015), UK (2010-2016), and Canada (UAL).
 
 
 ```{r setup, echo=FALSE, message=FALSE, warning=FALSE}

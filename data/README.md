@@ -1,70 +1,98 @@
-[Google docs
-manuscript](https://docs.google.com/document/d/1EQxxvXYcpx2Lk80XXZXG4eagDx6mR1S1Sg3V-EDcamk/edit#)
+# Academic journal subscription costs in various countries: a review
+
+## Background
+
+This repository provides source data files and the analysis code for the ongoing review of academic journal subscription price information and its availability across different countries. The manuscript is being prepared in [Google docs](https://docs.google.com/document/d/1EQxxvXYcpx2Lk80XXZXG4eagDx6mR1S1Sg3V-EDcamk/edit#). Feedback, criticism, and suggestions are welcome.
 
 
-* To analyze more closely ?
-- Finland 2010-2016
-- Argentina 2008-2016
-- France 2009-2015
-- Netherlands 2011-2015
-- UK 2010-2016
-- Canada UAL
+## Analysis source code
+
+[A summary of the analyses](overview.pdf) can be reproduced by executing [main.R](main.R) in R. 
+
+## Source data files
+
+The data for each country or organization is in a separate folder, including the available references, licensing and access date information:
+
+ * [Argentina](Argentina)
+ * [Australia](Australia)
+ * [Brazil](Brazil)
+ * [Canada](Canada)
+ * [Chile](Chile)
+ * [Finland](Finland)
+ * [France](France)
+ * [Germany](Germany)
+ * [HongKong](HongKong)
+ * [Netherlands](Netherlands)
+ * [NewZealand](NewZealand)
+ * [Nigeria](Nigeria)
+ * [OECD](OECD): annual currency exchange rates
+ * [Switzerland](Switzerland)
+ * [UK](UK)
+ * [US](US)
+
+The auxiliary data files include:
+
+ * [publisher_synonymes.csv](publisher_synonymes.csv): this table
+   indicates the publisher names that have been combined in the
+   analysis
 
 
-* Data Sources (Accessed 31.7.2017)
 
-Argentina: 2008-2016
-- Annual costs by publisher
-- https://drive.google.com/file/d/0B8tIOSXoOtmvX3NtRHR0dW9NUU0/view
+## Notes
 
-Australia: 1983-2010
-- http://www.caul.edu.au/caul-programs/caul-statistics/previousyears
-- CAUL statistics (1983-2010) - top level only, not broken down by publisher.
+Kävin läpi näitä kv. aineistoja. Useamman vuoden ajalle löytyy dataa
+maista Argentiina, Suomi, Ranska, Alankomaat, Iso-Britannia. Näistä
+löytyy/löysin kustantajakohtaisia hintatietoja (ainakin joidenkin
+kustantajien osalta).
 
-Brazil: 2013
-- Brazil has an nation wide agreement providing journal access to 423 academic and research institutions. It is called Portal de Periódicos, provided by CAPES. According to its 2013 financial report [1], last year CAPES spent US$ 93,872,151.11 (with US$ 31,644,204.12 paid to Elsevier). Some institutions that are not covered by the agreement, as they do not meet the eligibility criteria, had to pay in separate in order to get access to this portal, spending additional US$ 11,560,438.93. [1] http://www.capes.gov.br/images/stories/download/Contas_Publicas/Relatorio-de-Gestao-2013.pdf
+- Alustava taulukko jossa kokonaiskustannus per maa/vuosi/kustantaja:
+  table_summarized.csv (valuuttamuunnoksia ei huomioitu, mitään
+  tarkistuksia ei ole tehty). Tämä vertailu pitänee rajata vain niihin
+  muutamiin suurimpiin kustantajiin joista on tieto saatavissa
+  useimmista maista. Lisäksi pitäisi huolella varmistaa että luvut
+  ovat vertailukelpoisia mukaan otettavien maitten osalta.
 
-Canada: 1990-2017
-- Simon Fraser University (publisher + instiution)a
-- UAL (Alberta) (per publisher or title) 2014-2016
+- Lisäksi pitäisi miettiä mitä muita yhteenvetoja tarvittaisiin
+  kv. vertailua varten. Maa/vuosi/kustantaja-vertailu on yksi, mutta
+  sen lisäksi voitaisiin haalia kokoon pelkät maakohtaiset
+  kokonaismaksutiedot (ilman kustantajatietoa) isommalle määrälle
+  maita). Ja näitä aineistoja voitaisiin vertailla BKT:hen,
+  yliopistojen ranking-listoihin ym kuten oli puhe. Mutta pitäisiköhän
+  näiden mainittujen lisäksi koota vielä muuta?
 
-Chile: 2004-2015
-- Cincel annual reports http://www.cincel.cl/content/view/90/50/
-- Spanish PDFs only
+- Liitteenä myös alustava taulukko jossa kaikki ne tiedot jotka löysin
+  useammalle maalle vertailua varten: table_full.csv (pitäisi tosin
+  tarkistella monia asioita ennen kuin data on julkaisukelpoista).
 
-Finland: 2010-2016
-- http://avaa.tdata.fi/documents/kuhiti/Publisher_Costs_FI_Full_Data.csv
+- Julkaisijanimistä on useita eri kirjoitusmuotoja. Tein alustavan
+  taulukon jossa näitä ryhmitelty yhteen, mutta pitäisi tehdä tarkempi
+  linjanveto millä kriteereillä yhdistellään (publisher_synonymes.csv)
 
-France: 2009-2015
-- Clemont University publisher + institution
-- https://zenodo.org/record/58282#.WXW2dydLfRQ
+- Valuuttamuunnokset pitänee tehdä vuosittain (sama resoluutio kuin
+  aineistoilla). Onko suosituksia mitä lähdettä käytettäisiin
+  historiallisten valuuttakurssien hakuun (EUR/USD/GBP).
 
-Germany:
-- outdated links
+- Huomiotta jätettyjä tietoja: Joidenkin maiden osalta on saatavilla
+  täydentäviä tietoja (julkaisun tyyppi lehti/kirja/e-lehti tms),
+  instituutiokohtaiset tiedot, instituution tyyppi (yliopisto / AMKK /
+  tms) jne. Periaatteessa sama koskee Materials-kenttää (esim
+  wiley-blac; wiley-blackwell; wiley-blackwell (2;6%); wiley-blackwell
+  (wiley journals); wiley-blacwell voitaisiin ehkä yhdistää..). Mutta
+  tämä tietysti kandee tehdä vain, jos Materials-kenttää aiotaan
+  ylipäänsä tutkia tarkemmin. Ja sama homma Resource.type kentän
+  kanssa. Organisaatiotasolla on mukana yliopistoja,
+  tutkimuslaitoksia, oppilaitoksia, kirjastoja, Suomen akatemia yms.,
+  viranomaisia.. eli vertailu voi olla hankalaa. Organisaatiotyyppi
+  (tutkimusinstituutti/yliopisto/AMKK/Muu) saatavissa Suomi-datalle,
+  mutta ei näyttänyt olevan muissa aineistoissa eli jätettäneen
+  huomiotta. Tai voidaan vielä koittaa penkoa tarkemmin jos vastaavaa
+  luokittelua voitaisiin tehdä muitten maitten osalta. Jättäisin
+  kuitenkin toistaiseksi tekemättä. Kanadalle ei löytynyt
+  julkaisijatietoa, pelkät tilausnimikkeet (national post, new york
+  times..) joten jätin Kanadan nyt pois.
 
-Hong Kong:
-- outdated links
-
-Netherlands:
-- 2011-2015 Overview of costs incurred by universities for books and journals by publisher based on a FOI request received April 2016: http://www.vsnu.nl/files/documenten/Feiten_en_Cijfers/Overview%20of%20costs%20incurred%20by%20universities%20for%20books%20and%20journals%20by%20publisher.xlsx - Announcement by the VSNU (Association of Dutch Universities) - Data for UvA (University of Amsterdam) are probably incorrect. This has been reported. On 20161222 the University of Amsterdam spokesperson gave the correct data for UvA via Twitter. Early January VSNU uploaded new data and graphics with corrections in the UvA data.
-- 2016-2017 Open Access licenses signed by consortium of Dutch universities (VSNU) based on a FOI request received September 2016 http://www.vsnu.nl/en_GB/public-access-request - basic expenses and annual increase summarized per few publishers. Elsevier and Springer are missing.
-
-New Zealand
-- FOIs were not successful
-
-Switzerland
-- Asked; waiting for info
-
-UK: 2010-2016
-- Annual data by University and Publisher (2014) https://figshare.com/articles/Journal_subscription_costs_FOIs_to_UK_universities/1186832
 
 
-US:
-- coarse longitudinal data on the overall costs is available 1986-2015
-- Only PDF data ? Perhaps we could get some more by asking ?
-- Longitudinal dataset. Discloses the median total annual amount paid by 99 ARL member libraries concerning serial expenditure (since 2012 labeled as “Ongoing expenses”). In 1986 the median annual amount was $1 517 724 USD, in 1996 $3 384 928 USD (+123%), in 2006  $6 289 768 USD (+314%), and in 2015  $9 427 446 USD (+521%). During this timeframe (1986-2015) the Consumer Price Index (CPI) in the United States increased by a total of 118%. Drawback of this data is lack of per-publisher and per-library
-- Bergstrom and McAfee together with economist Paul Courant founded the “Big Deal Contract Project” where the goal was to make public the prices and contract terms of publisher deals made by university libraries in the United States (econ.ucsb.edu 2009). By invoking state Freedom of Information acts and requesting copies of recent site-license contracts signed with nine major publishers the researchers were able to collect more than 360 contracts belonging to 55 university libraries and 12 library consortia.A thorough analysis on this effort was published as Bergstrom et al (2014). The analysis of the big deal contracts reveals that there is considerable variation in prices among the publishers. [More summary of Bergstrom 2014 here]
-http://www.pnas.org/content/suppl/2014/06/11/1403006111.DCSupplemental/pnas.1403006111.sapp.pdf
 
 
 

@@ -1,3 +1,5 @@
+UK: 2010-2016
+- Annual data by University and Publisher (2014) https://figshare.com/articles/Journal_subscription_costs_FOIs_to_UK_universities/1186832
 
 
 From
