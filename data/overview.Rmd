@@ -60,7 +60,7 @@ selected.publishers <- as.character(unlist((d %>%
 
 
 
-```{r costs3, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=15, fig.height=5}
+```{r costs3, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=20, fig.height=5}
 # Price increase per publisher per dataset
 dsub <- d %>% select("Country", "Year", "Publisher", "Cost") %>%
               filter(Publisher %in% selected.publishers) %>%
