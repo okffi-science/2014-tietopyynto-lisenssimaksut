@@ -60,7 +60,7 @@ selected.publishers <- as.character(unlist((d %>%
 
 
 
-```{r costs3, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=8, fig.height=5, fig.show = "hold", out.width = "250px"}
+```{r costs3, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=8, fig.height=5, out.width = "250px"}
 # Price increase per publisher per dataset
 dsub <- d %>% select("Country", "Year", "Publisher", "Cost") %>%
               filter(Publisher %in% selected.publishers) %>%
@@ -68,8 +68,9 @@ dsub <- d %>% select("Country", "Year", "Publisher", "Cost") %>%
 	      summarize(Cost = sum(Cost, na.rm = TRUE))
 
 # Check the largest publishers from here
-#d %>% group_by(Publisher) %>% summarize(total = sum(Cost, na.rm = TRUE)) %>% arrange(desc(total))
-my.pubs <- c("Elsevier", "Springer", "Wiley / Blackwell", "Taylor & Francis")
+#d %>% group_by(Publisher) %>% summarize(total = sum(Cost, na.rm = TRUE), ncountries = length(unique(Country))) %>% arrange(desc(total))
+# my.pubs <- c("Elsevier", "Springer", "Wiley / Blackwell")
+my.pubs <- c("Elsevier", "Springer", "Wiley / Blackwell")
 
 dsub <- dsub %>% filter(Publisher %in% my.pubs)
 
@@ -93,8 +94,9 @@ dsub$Increase[inc[, "index"]] <- inc[, "increase"]
 dsub$Increase[is.infinite(dsub$Increase)] <- NA
 
 library(scales)
-colors <- c("red", "black", "darkgray", "blue")
+colors <- c("black", "darkgray", "lightgray")
 names(colors) <- my.pubs
+pics <- list()
 for (country in unique(dsub$Country)) {
   dd <- filter(dsub, Country == country)
   dd$Country <- factor(dd$Country, levels = levels(dsub$Country))
@@ -109,11 +111,15 @@ for (country in unique(dsub$Country)) {
     labs(title = country, y = "Increase (%)") +
     #scale_color_manual(values = colors)
     scale_fill_grey()    
-  print(p)
+  pics[[country]] <- p
 }
+grid.arrange(pics[[1]], pics[[2]], pics[[3]], pics[[4]], pics[[5]], nrow = 2)
+
+# Publishers that have data for all 5 countries
+# d %>% group_by(Publisher) %>% summarize(total = sum(Cost, na.rm = TRUE), ncountries = length(unique(Country))) %>% arrange(desc(total)) %>% filter(ncountries == 5)
 ```
 
-`r figs("costs3", "Annual cost increase for selected publishers. The remarkable cost increase in 2016 is associated with notable increase of listed publishers and organizations in the data set (57 vs. 71 organizations 2015-2016; and 200 vs. 258 publishers)")`.
+`r figs("costs3", "Annual cost increase for Elsevier, Wiley/Blackwell and Springer. The cost information for these 3 publishers is available for all 5 countries with longitudinal data. The remarkable cost increase in 2016 is associated with notable increase of listed publishers and organizations in the data set (57 vs. 71 organizations 2015-2016; and 200 vs. 258 publishers)")`.
 
 
 
@@ -141,11 +147,7 @@ dsub <- d %>% select("Country", "Year", "Publisher", "Cost") %>%
               filter(Publisher %in% selected.publishers) %>%
 	      group_by(Country, Year, Publisher) %>%
 	      summarize(Cost = sum(Cost, na.rm = TRUE))
-my.pubs <- c("Elsevier", "Springer", "Wiley / Blackwell")
 dsub <- dsub %>% filter(Publisher %in% my.pubs)
-
-colors <- c("red", "black", "darkgray")
-names(colors) <- my.pubs
 for (country in unique(dsub$Country)) {
   dd <- filter(dsub, Country == country)
   dd$Country <- factor(dd$Country, levels = levels(dsub$Country))
