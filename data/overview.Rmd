@@ -83,6 +83,8 @@ dsub <- d2 %>% select("Country", "Year", "Publisher", "Cost") %>%
               filter(Publisher %in% selected.publishers) %>%
 	      group_by(Country, Year, Publisher) %>%
 	      summarize(Cost = sum(Cost, na.rm = TRUE))
+# Mark zero costs as NA
+dsub$Cost[dsub$Cost == 0] <- NA
 
 # Check the largest publishers from here
 #d %>% group_by(Publisher) %>% summarize(total = sum(Cost, na.rm = TRUE), ncountries = length(unique(Country))) %>% arrange(desc(total))
@@ -99,6 +101,7 @@ for (country in unique(dsub$Country)) {
       t2 <- t
       ind1 <- which(dsub$Country == country & dsub$Publisher == publisher & dsub$Year == t1)
       ind2 <- which(dsub$Country == country & dsub$Publisher == publisher & dsub$Year == t2)
+
       inc <- rbind(inc, c(ind2, dsub[ind2,"Cost"]/dsub[ind1,"Cost"] - 1))
     }
   }
