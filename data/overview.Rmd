@@ -88,7 +88,6 @@ dsub <- d2 %>% select("Country", "Year", "Publisher", "Cost") %>%
 #d %>% group_by(Publisher) %>% summarize(total = sum(Cost, na.rm = TRUE), ncountries = length(unique(Country))) %>% arrange(desc(total))
 # my.pubs <- c("Elsevier", "Springer", "Wiley / Blackwell")
 my.pubs <- c("Elsevier", "Springer", "Wiley / Blackwell")
-
 dsub <- dsub %>% filter(Publisher %in% my.pubs)
 
 # Calculate cost increase (percent) per country/publisher and year
@@ -110,18 +109,15 @@ dsub$Increase <- rep(NA, nrow(dsub))
 dsub$Increase[inc[, "index"]] <- inc[, "increase"]
 dsub$Increase[is.infinite(dsub$Increase)] <- NA
 
-
-
 library(scales)
 colors <- c("black", "darkgray", "lightgray")
 names(colors) <- my.pubs
 pics <- list()
 for (country in unique(dsub$Country)) {
   dd <- filter(dsub, Country == country)
-  dd$Country <- factor(dd$Country, levels = levels(dsub$Country))
+  dd$Country <- droplevels(dd$Country) # factor(dd$Country, levels = levels(dsub$Country))
   dd$Publisher <- factor(dd$Publisher, levels = levels(dsub$Publisher))
   dd$Year <- as.factor(dd$Year)
-
 
   p <- ggplot(dd, aes(x = Publisher, y = Increase, fill = Year)) +
     #geom_line() +

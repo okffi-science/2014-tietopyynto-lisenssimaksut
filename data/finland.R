@@ -4,4 +4,4 @@ fin$Country <- "Finland"
 fin$Currency <- "EUR"
 # These fields not available for the other countries
 fin$Way.of.acquisition <- NULL
-fin$Organization.type <- NULL
+# fin$Organization.type <- NULL
