@@ -62,7 +62,7 @@ source("exchange_rates.R")
 print("Combine the datasets")
 d <- bind_rows(datasets)
 d <- d %>% rename(Organization = Organization.name)
-d <- d[, c("Country", "Year", "Organization", "Publisher", "Material", "Resource.type", "CostUSD")]
+d <- d[, c("Country", "Year", "Organization", "Publisher", "Material", "Resource.type", "CostUSD", "CostEUR", "CostNAT", "Cost")]
 d$Country <- as.factor(d$Country)
 d$Organization <- as.factor(d$Organization)
 d$Publisher <- as.factor(d$Publisher)
@@ -72,22 +72,6 @@ d$Resource.type <- tolower(d$Resource.type)
 # Let us leave Canada out as there was no Publisher information
 d <- filter(d, !Country == "Canada")
 d$Country <- droplevels(d$Country)
-
-
-# Add costs in EUR
-for (t in unique(d$Year)) {
-
-  # Exchange rate from USD to EUR
-  rate <- 1/subset(exr, Country == "FIN" & Year == t)$Rate
-
-  # Convert from USD to EUR
-  d$CostEUR <- d$CostUSD / rate
-
-}
-
-# All costs are now in EUR
-d$Cost <- d$CostEUR
-d$CostEUR <- NULL
 
 # --------------------------
 

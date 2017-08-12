@@ -22,7 +22,7 @@ Canada (2014-2016), Chile (2008-2015), Finland (2010-2016), France (2009-2015), 
 
 ![plot of chunk costs3](figure_manuscript/costs3-1.png)
 
-Figure  1: Annual cost increase for Elsevier, Wiley/Blackwell and Springer. The cost information for these 3 publishers is available for all 5 countries with longitudinal data. The remarkable cost increase in 2016 is associated with notable increase of listed publishers and organizations in the data set (57 vs. 71 organizations 2015-2016; and 200 vs. 258 publishers).
+Figure  1: Annual cost increase for Elsevier, Wiley/Blackwell and Springer. The cost information for these 3 publishers is available for all 5 countries with longitudinal data. In some data sets, the number of included institutions varies notably by year; to reduce bias associated with differences in data completeness across years we included only those institutions have been included that have data for all years within a given country. (for instance in Finland 2016 there is notable increase of listed publishers and organizations in the data set 57 vs. 71 organizations 2015-2016; and 200 vs. 258 publishers).
 
 
 

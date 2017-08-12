@@ -59,3 +59,26 @@ for (t in unique(datasets$UK$Year)) {
 
 }
 
+
+
+# Add costs in EUR
+for (country in names(datasets)) {
+
+  for (t in unique(datasets[[country]]$Year)) {
+  
+    # Exchange rate from USD to EUR
+    rate <- 1/subset(exr, Country == "FIN" & Year == t)$Rate
+
+    # Convert from USD to EUR
+    datasets[[country]]$CostEUR <- datasets[[country]]$CostUSD / rate
+    datasets[[country]]$CostNAT <- datasets[[country]]$Cost
+    # All costs are now in EUR
+    datasets[[country]]$Cost <- datasets[[country]]$CostEUR    
+    
+  }
+  
+}
+
+
+
+
