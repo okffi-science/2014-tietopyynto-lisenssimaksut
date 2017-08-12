@@ -143,7 +143,7 @@ grid.arrange(pics[[1]], pics[[2]], pics[[3]], pics[[4]], pics[[5]], nrow = 2)
 
 
 
-```{r ranking1, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=14, fig.height=5, fig.show = "hold", out.width = "300px"}
+```{r ranking1, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=14, fig.height=5, fig.show = "hold", out.width = "290px"}
 # Ranking variables
 vars <- c("world_rank", "teaching", "international", "research", "citations", "income", "total_score", "num_students", "student_staff_ratio", "international_students")
 
