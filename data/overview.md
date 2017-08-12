@@ -20,7 +20,7 @@ Canada (2014-2016), Chile (2008-2015), Finland (2010-2016), France (2009-2015), 
 
 
 
-<img src="figure_manuscript/costs3-1.png" title="plot of chunk costs3" alt="plot of chunk costs3" width="250px" /><img src="figure_manuscript/costs3-2.png" title="plot of chunk costs3" alt="plot of chunk costs3" width="250px" /><img src="figure_manuscript/costs3-3.png" title="plot of chunk costs3" alt="plot of chunk costs3" width="250px" /><img src="figure_manuscript/costs3-4.png" title="plot of chunk costs3" alt="plot of chunk costs3" width="250px" />
+<img src="figure_manuscript/costs3-1.png" title="plot of chunk costs3" alt="plot of chunk costs3" width="250px" /><img src="figure_manuscript/costs3-2.png" title="plot of chunk costs3" alt="plot of chunk costs3" width="250px" /><img src="figure_manuscript/costs3-3.png" title="plot of chunk costs3" alt="plot of chunk costs3" width="250px" /><img src="figure_manuscript/costs3-4.png" title="plot of chunk costs3" alt="plot of chunk costs3" width="250px" /><img src="figure_manuscript/costs3-5.png" title="plot of chunk costs3" alt="plot of chunk costs3" width="250px" />
 
 Figure  1: Annual cost increase for selected publishers. The remarkable cost increase in 2016 is associated with notable increase of listed publishers and organizations in the data set (57 vs. 71 organizations 2015-2016; and 200 vs. 258 publishers).
 
@@ -33,7 +33,7 @@ Figure  2: Cost timelines for selected publishers.
 
 
 
-<img src="figure_manuscript/costs2-1.png" title="plot of chunk costs2" alt="plot of chunk costs2" width="250px" /><img src="figure_manuscript/costs2-2.png" title="plot of chunk costs2" alt="plot of chunk costs2" width="250px" /><img src="figure_manuscript/costs2-3.png" title="plot of chunk costs2" alt="plot of chunk costs2" width="250px" /><img src="figure_manuscript/costs2-4.png" title="plot of chunk costs2" alt="plot of chunk costs2" width="250px" />
+<img src="figure_manuscript/costs2-1.png" title="plot of chunk costs2" alt="plot of chunk costs2" width="250px" /><img src="figure_manuscript/costs2-2.png" title="plot of chunk costs2" alt="plot of chunk costs2" width="250px" /><img src="figure_manuscript/costs2-3.png" title="plot of chunk costs2" alt="plot of chunk costs2" width="250px" /><img src="figure_manuscript/costs2-4.png" title="plot of chunk costs2" alt="plot of chunk costs2" width="250px" /><img src="figure_manuscript/costs2-5.png" title="plot of chunk costs2" alt="plot of chunk costs2" width="250px" />
 
 Figure  3: Cost timelines for three selected publishers.
 

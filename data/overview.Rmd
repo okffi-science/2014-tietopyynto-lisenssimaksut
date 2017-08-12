@@ -92,8 +92,6 @@ dsub$Increase <- rep(NA, nrow(dsub))
 dsub$Increase[inc[, "index"]] <- inc[, "increase"]
 dsub$Increase[is.infinite(dsub$Increase)] <- NA
 
-
-
 library(scales)
 colors <- c("red", "black", "darkgray", "blue")
 names(colors) <- my.pubs
