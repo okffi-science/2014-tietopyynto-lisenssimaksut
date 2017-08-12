@@ -143,6 +143,29 @@ grid.arrange(pics[[1]], pics[[2]], pics[[3]], pics[[4]], pics[[5]], nrow = 2)
 
 
 
+```{r ranking1, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=8, fig.height=5, fig.show = "hold", out.width = "150px"}
+# Ranking variables
+vars <- c("world_rank", "teaching", "international", "research", "citations", "income", "total_score", "num_students", "student_staff_ratio", "international_students")
+
+# Merge cost and ranking data
+drank <- inner_join(d, unirank, by = c("Year", "Country", "Organization"))
+
+#p <- ggplot(subset(drank, Publisher %in% my.pubs), aes(x = world_rank, y = Cost, color = Country)) + geom_point() + labs(y = "Cost (EUR)") + scale_y_log10() + facet_grid(. ~ Publisher)
+
+df <- subset(drank, Publisher %in% my.pubs);
+for (varname in vars) {
+  df$ranking <- df[[varname]];
+  p <- ggplot(df, aes(x = ranking, y = Cost, color = Country)) + geom_point() + labs(y = "Cost (EUR)", x = varname, title = varname) + scale_y_log10() + facet_grid(. ~ Publisher)
+  print(p)
+}
+
+```
+
+`r figs("ranking1", "University ranking variables versus subscription costs with selected publishers.")`
+
+
+
+
 ```{r costs1, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=8, fig.height=5, fig.show = "hold", out.width = "150px"}
 dsub <- d %>% select("Country", "Year", "Publisher", "Cost") %>%
               filter(Publisher %in% selected.publishers) %>%

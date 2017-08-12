@@ -105,3 +105,25 @@ d.filt <- d.full %>%
 
 write.table(d.filt, file = "table_summarized.csv", sep = "\t", quote = FALSE, row.names = FALSE)
 
+# -------------
+
+# GDP data
+gdp <- read_excel("Supporting/GDP/Download-GDPcurrent-NCU-countries.xls")
+colnames(gdp) <- as.character(gdp[2,])
+gdp <- gdp[3:nrow(gdp),]
+gdp <- subset(gdp, IndicatorName == "Gross Domestic Product (GDP)")
+
+# University Ranking
+# Our France Clemont University is not in the list (manually checked)
+unirank <- read.csv("Supporting/UniRank/timesData.csv")
+# Harmonize names with the other data sets
+names(unirank) <- gsub("year", "Year", names(unirank))
+names(unirank) <- gsub("university_name", "Organization", names(unirank))
+names(unirank) <- gsub("country", "Country", names(unirank))
+unirank$Country <- gsub("United Kingdom","UK",unirank$Country)
+#unirank$world_rank <- gsub("^=", "", unirank$world_rank)
+# For interpretability, remove rankings that are not unique numerics
+unirank$world_rank <- gsub("-[0-9]+", "", gsub("^=*", "", unirank$world_rank))
+unirank$world_rank[unirank$world_rank == ""] <- NA
+unirank$world_rank <- as.numeric(unirank$world_rank)
+

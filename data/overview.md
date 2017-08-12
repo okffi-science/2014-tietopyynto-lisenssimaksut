@@ -26,21 +26,28 @@ Figure  1: Annual cost increase for Elsevier, Wiley/Blackwell and Springer. The 
 
 
 
+<img src="figure_manuscript/ranking1-1.png" title="plot of chunk ranking1" alt="plot of chunk ranking1" width="150px" /><img src="figure_manuscript/ranking1-2.png" title="plot of chunk ranking1" alt="plot of chunk ranking1" width="150px" /><img src="figure_manuscript/ranking1-3.png" title="plot of chunk ranking1" alt="plot of chunk ranking1" width="150px" /><img src="figure_manuscript/ranking1-4.png" title="plot of chunk ranking1" alt="plot of chunk ranking1" width="150px" /><img src="figure_manuscript/ranking1-5.png" title="plot of chunk ranking1" alt="plot of chunk ranking1" width="150px" /><img src="figure_manuscript/ranking1-6.png" title="plot of chunk ranking1" alt="plot of chunk ranking1" width="150px" /><img src="figure_manuscript/ranking1-7.png" title="plot of chunk ranking1" alt="plot of chunk ranking1" width="150px" /><img src="figure_manuscript/ranking1-8.png" title="plot of chunk ranking1" alt="plot of chunk ranking1" width="150px" /><img src="figure_manuscript/ranking1-9.png" title="plot of chunk ranking1" alt="plot of chunk ranking1" width="150px" /><img src="figure_manuscript/ranking1-10.png" title="plot of chunk ranking1" alt="plot of chunk ranking1" width="150px" />
+
+Figure  2: University ranking variables versus subscription costs with selected publishers.
+
+
+
+
 <img src="figure_manuscript/costs1-1.png" title="plot of chunk costs1" alt="plot of chunk costs1" width="150px" /><img src="figure_manuscript/costs1-2.png" title="plot of chunk costs1" alt="plot of chunk costs1" width="150px" /><img src="figure_manuscript/costs1-3.png" title="plot of chunk costs1" alt="plot of chunk costs1" width="150px" />
 
-Figure  2: Cost timelines for selected publishers.
+Figure  3: Cost timelines for selected publishers.
 
 
 
 
 <img src="figure_manuscript/costs2-1.png" title="plot of chunk costs2" alt="plot of chunk costs2" width="250px" /><img src="figure_manuscript/costs2-2.png" title="plot of chunk costs2" alt="plot of chunk costs2" width="250px" /><img src="figure_manuscript/costs2-3.png" title="plot of chunk costs2" alt="plot of chunk costs2" width="250px" /><img src="figure_manuscript/costs2-4.png" title="plot of chunk costs2" alt="plot of chunk costs2" width="250px" /><img src="figure_manuscript/costs2-5.png" title="plot of chunk costs2" alt="plot of chunk costs2" width="250px" />
 
-Figure  3: Cost timelines for three selected publishers.
+Figure  4: Cost timelines for three selected publishers.
 
 
 <img src="figure_manuscript/countries.with.data-1.png" title="plot of chunk countries.with.data" alt="plot of chunk countries.with.data" width="400px" />
 
-Figure  4: Number of countries with data for at least one year. Publishers with more than one country are shown.
+Figure  5: Number of countries with data for at least one year. Publishers with more than one country are shown.
 
 
 
