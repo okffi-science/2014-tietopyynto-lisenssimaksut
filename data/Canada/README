@@ -1,4 +1,10 @@
-Canada: 1990-2017
-- Simon Fraser University (publisher + instiution)a
-- UAL (Alberta) (per publisher or title) 2014-2016
+Canada: 
 
+2014-2016
+- Source: UAL (Alberta) 
+  https://dataverse.library.ualberta.ca/dataset.xhtml?persistentId=doi:10.7939/DVN/10844
+- Reference: University of Alberta Libraries, 2016, "Subscription Expenditures", doi:10.7939/DVN/10844, UAL Dataverse, V2
+
+1990-2017
+- Source: Simon Fraser University (publisher + institution)
+- Available only via web interface, not downloadable as a data set

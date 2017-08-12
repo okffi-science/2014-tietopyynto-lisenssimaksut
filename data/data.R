@@ -6,17 +6,25 @@ library(bibliographica)
 
 datasets <- list()
 
-print("Finland EUR")
-source("finland.R")
-datasets[["Finland"]] <- fin
-
-print("Argentina USD")
-source("argentina.R")
-datasets[["Argentina"]] <- arg
+# Not included as the source could not be verified
+#print("Argentina USD")
+#source("argentina.R")
+#datasets[["Argentina"]] <- arg
 
 print("Canada CAD")
 source("canada.R")
 datasets[["Canada"]] <- can
+
+# TODO Chile:
+# Can be manually copied from Spanish PDFs
+# http://www.cincel.cl/content/view/90/50/
+print("Chile USD")
+source("chile.R")
+datasets[["Chile"]] <- chi
+
+print("Finland EUR")
+source("finland.R")
+datasets[["Finland"]] <- fin
 
 print("France EUR")
 source("france.R")

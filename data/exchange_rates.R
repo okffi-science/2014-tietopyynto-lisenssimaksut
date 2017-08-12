@@ -37,6 +37,7 @@ for (t in unique(datasets$Netherlands$Year)) {
 
 # Already in USD
 datasets$Argentina$CostUSD <- datasets$Argentina$Cost
+datasets$Chile$CostUSD <- datasets$Chile$Cost
 
 for (t in unique(datasets$Canada$Year)) {
 
