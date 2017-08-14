@@ -1,0 +1,23 @@
+
+
+```{r costs2, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=8, fig.height=5, fig.show = "hold", out.width = "250px"}
+dsub <- d %>% select("Country", "Year", "Publisher", "Cost") %>%
+              filter(Publisher %in% selected.publishers) %>%
+	      group_by(Country, Year, Publisher) %>%
+	      summarize(Cost = sum(Cost, na.rm = TRUE))
+dsub <- dsub %>% filter(Publisher %in% my.pubs)
+for (country in unique(dsub$Country)) {
+  dd <- filter(dsub, Country == country)
+  dd$Country <- factor(dd$Country, levels = levels(dsub$Country))
+  dd$Publisher <- factor(dd$Publisher, levels = levels(dsub$Publisher))  
+  p <- ggplot(dd, aes(x = Year, y = Cost, color = Publisher)) +
+    geom_line() +
+    geom_point() +
+    scale_y_log10() +
+    labs(title = country, y = "Cost (EUR)") +
+    scale_color_manual(values = colors)
+  print(p)
+}
+```
+
+`r figs("costs2", "Cost timelines for three selected publishers.")`
