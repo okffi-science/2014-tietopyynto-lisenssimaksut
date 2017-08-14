@@ -127,3 +127,10 @@ unirank$world_rank <- gsub("-[0-9]+", "", gsub("^=*", "", unirank$world_rank))
 unirank$world_rank[unirank$world_rank == ""] <- NA
 unirank$world_rank <- as.numeric(unirank$world_rank)
 
+# ETER rank data
+eter <- read.csv("Supporting/ETER/eter_export.csv", sep = ";")
+# subset(d, Organization %in% eter$BAS.INSTNAMEENGL)
+eter$Year <- as.numeric(as.character(eter$BAS.REFYEAR))
+eter$Organization <- eter$BAS.INSTNAMEENGL
+eter.codes <- eter[1,]
+eter <- eter[-1,]

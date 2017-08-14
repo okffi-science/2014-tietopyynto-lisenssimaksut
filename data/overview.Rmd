@@ -161,7 +161,31 @@ for (varname in vars) {
 
 ```
 
-`r figs("ranking1", "University ranking variables versus subscription costs with selected publishers.")`
+`r figs("ranking1", "University ranking (Times ranking) variables versus subscription costs with selected publishers.")`
+
+
+
+
+
+
+```{r rankingeter, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=14, fig.height=5, fig.show = "hold", out.width = "290px"}
+# Ranking variables
+vars <- c("RES.PHDINTENSITY")
+
+# Merge cost and ranking data
+drank <- inner_join(d, eter, by = c("Year", "Organization"))
+
+df <- subset(drank, Publisher %in% my.pubs);
+for (varname in vars) {
+  df$ranking <- df[[varname]];
+  p <- ggplot(df, aes(x = ranking, y = Cost, color = Country)) + geom_point() + labs(y = "Cost (EUR)", x = varname, title = varname) + scale_y_log10() + facet_grid(. ~ Publisher)
+  print(p)
+}
+```
+
+`r figs("rankingeter", "University scoring (ETER) variables versus subscription costs with selected publishers.")`
+
+
 
 
 
