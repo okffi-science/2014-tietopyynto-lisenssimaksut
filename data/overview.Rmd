@@ -170,7 +170,7 @@ for (varname in vars) {
 
 ```{r rankingeter, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=14, fig.height=5, fig.show = "hold", out.width = "290px"}
 # Ranking variables
-vars <- c("RES.PHDINTENSITY")
+vars <- as.character(eter.fields$code)
 
 # Merge cost and ranking data
 drank <- inner_join(d, eter, by = c("Year", "Organization"))
@@ -178,7 +178,9 @@ drank <- inner_join(d, eter, by = c("Year", "Organization"))
 df <- subset(drank, Publisher %in% my.pubs);
 for (varname in vars) {
   df$ranking <- df[[varname]];
-  p <- ggplot(df, aes(x = ranking, y = Cost, color = Country)) + geom_point() + labs(y = "Cost (EUR)", x = varname, title = varname) + scale_y_log10() + facet_grid(. ~ Publisher)
+  name <- as.character(subset(eter.fields, code == varname)$name)
+  code <- varname
+  p <- ggplot(df, aes(x = ranking, y = Cost, color = Country)) + geom_point() + labs(y = "Cost (EUR)", x = varname, title = name, subtitle = code) + scale_y_log10() + facet_grid(. ~ Publisher)
   print(p)
 }
 ```

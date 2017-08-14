@@ -127,10 +127,37 @@ unirank$world_rank <- gsub("-[0-9]+", "", gsub("^=*", "", unirank$world_rank))
 unirank$world_rank[unirank$world_rank == ""] <- NA
 unirank$world_rank <- as.numeric(unirank$world_rank)
 
+# -----------------------------------------
+
 # ETER rank data
 eter <- read.csv("Supporting/ETER/eter_export.csv", sep = ";")
 # subset(d, Organization %in% eter$BAS.INSTNAMEENGL)
 eter$Year <- as.numeric(as.character(eter$BAS.REFYEAR))
 eter$Organization <- eter$BAS.INSTNAMEENGL
-eter.codes <- eter[1,]
+eter.codes <- eter[1,]; eter.codes <- sapply(eter.codes, as.character)
 eter <- eter[-1,]
+
+# Other relevant fields
+f <- rbind(c("Country code","BAS.COUNTRY"),
+c("Institution Category: English","BAS.INSTCATENGL"),
+c("Personnel expenditure (NC)","EXP.CURRPERSON.NC"),
+c("Personnel expenditure (EURO)","EXP.CURRPERSON.EURO"),
+c("Non-Personnel expenditure (NC)","EXP.CURRNONPERSON.NC"),
+c("Non-Personnel expenditure (EURO)","EXP.CURRNONPERSON.EURO"),
+c("Total current expenditure (NC)","EXP.CURRTOTAL.NC"),
+c("Total current expenditure (EURO)","EXP.CURRTOTAL.EURO"),
+c("Total current revenues (NC)","REV.CURRTOTAL.NC"),
+c("Total current revenues (EURO)","REV.CURRTOTAL.EURO"),
+c("Total academic staff (FTE)","STA.ACAFTETOTAL"),
+c("Number of non-academic staff (FTE)","STA.NONACAFTE"),
+c("Total students enrolled at ISCED 6","STUD.ISCED6TOTAL"),
+c("Total students enrolled at ISCED 7","STUD.ISCED7TOTAL"),
+c("Total students enrolled at ISCED 8","RES.STUDISCED8TOTAL"), 
+c("Total graduates at ISCED 6","GRAD.ISCED6TOTAL"),
+c("Total graduates at ISCED 7","GRAD.ISCED7TOTAL"),
+c("Total graduates at ISCED 8","RES.GRADISCED8TOTAL"),
+c("Research active institution","RES.RESACTIVE"))
+colnames(f) <- c("name", "code")
+eter.fields <- as.data.frame(f)
+
+# -----------------------------------------
