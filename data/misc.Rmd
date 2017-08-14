@@ -21,3 +21,87 @@ for (country in unique(dsub$Country)) {
 ```
 
 `r figs("costs2", "Cost timelines for three selected publishers.")`
+
+
+
+
+```{r costs3, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=20, fig.height=10}
+# Include in the comparisons only those institutions that have data for
+# all years
+## Finland: 7 years
+n <- datasets$Finland %>% group_by(Organization.name) %>% summarise(nyears = length(unique(Year))) %>% arrange(desc(nyears)) %>% filter(nyears == 7) %>% select(Organization.name); finland.organizations <- as.vector(unname(unlist(n)))
+
+# Netherlands 5 years
+n <- datasets$Netherlands %>% group_by(Organization.name) %>% summarise(nyears = length(unique(Year))) %>% arrange(desc(nyears)) %>% filter(nyears == 5) %>% select(Organization.name); netherlands.organizations <- as.vector(unname(unlist(n)))
+
+# UK 7 years
+n <- datasets$UK %>% group_by(Organization.name) %>% summarise(nyears = length(unique(Year))) %>% arrange(desc(nyears)) %>% filter(nyears == 7) %>% select(Organization.name); uk.organizations <- as.vector(unname(unlist(n)))
+
+## Chile, France: no per organization information therefore no need to filter
+# Price increase per publisher per dataset
+d2 <- d
+d2 <- d2[!(d2$Country == "Finland" & !d2$Organization %in% finland.organizations),]
+d2 <- d2[!(d2$Country == "Netherlands" & !d2$Organization %in% netherlands.organizations),]
+d2 <- d2[!(d2$Country == "UK" & !d2$Organization %in% uk.organizations),]
+
+dsub <- d2 %>% select("Country", "Year", "Publisher", "Cost") %>%
+              filter(Publisher %in% selected.publishers) %>%
+	      group_by(Country, Year, Publisher) %>%
+	      summarize(Cost = sum(Cost, na.rm = TRUE))
+# Mark zero costs as NA
+dsub$Cost[dsub$Cost == 0] <- NA
+
+# Check the largest publishers from here
+#d %>% group_by(Publisher) %>% summarize(total = sum(Cost, na.rm = TRUE), ncountries = length(unique(Country))) %>% arrange(desc(total))
+# my.pubs <- c("Elsevier", "Springer", "Wiley / Blackwell")
+my.pubs <- c("Elsevier", "Springer", "Wiley / Blackwell")
+dsub <- dsub %>% filter(Publisher %in% my.pubs)
+
+# Calculate cost increase (percent) per country/publisher and year
+inc <- NULL
+for (country in unique(dsub$Country)) {
+  for (publisher in unique(dsub$Publisher)) {
+    for (t in unique(subset(dsub, Country == country & Publisher == publisher)$Year)[-1]) {
+      t1 <- t-1
+      t2 <- t
+      ind1 <- which(dsub$Country == country & dsub$Publisher == publisher & dsub$Year == t1)
+      ind2 <- which(dsub$Country == country & dsub$Publisher == publisher & dsub$Year == t2)
+
+      inc <- rbind(inc, c(ind2, dsub[ind2,"Cost"]/dsub[ind1,"Cost"] - 1))
+    }
+  }
+}
+inc <- cbind(unlist(inc[,1]), unlist(inc[,2]))
+colnames(inc) <- c("index", "increase")
+dsub$Increase <- rep(NA, nrow(dsub))
+dsub$Increase[inc[, "index"]] <- inc[, "increase"]
+dsub$Increase[is.infinite(dsub$Increase)] <- NA
+
+library(scales)
+colors <- c("black", "darkgray", "lightgray")
+names(colors) <- my.pubs
+pics <- list()
+for (country in unique(dsub$Country)) {
+  dd <- filter(dsub, Country == country)
+  dd$Country <- droplevels(dd$Country) # factor(dd$Country, levels = levels(dsub$Country))
+  dd$Publisher <- factor(dd$Publisher, levels = levels(dsub$Publisher))
+  dd$Year <- as.factor(dd$Year)
+
+  p <- ggplot(dd, aes(x = Publisher, y = Increase, fill = Year)) +
+    #geom_line() +
+    #geom_point() +
+    geom_bar(stat = "identity", position = "dodge", color = "black", aes(group = Year)) + 
+    # scale_y_log10() +
+    # scale_y_continuous(scales::percent) + 
+    labs(title = country, y = "Increase (%)") +
+    #scale_color_manual(values = colors)
+    scale_fill_grey()    
+  pics[[country]] <- p
+}
+grid.arrange(pics[[1]], pics[[2]], pics[[3]], pics[[4]], pics[[5]], nrow = 2)
+
+# Publishers that have data for all 5 countries
+# d %>% group_by(Publisher) %>% summarize(total = sum(Cost, na.rm = TRUE), ncountries = length(unique(Country))) %>% arrange(desc(total)) %>% filter(ncountries == 5)
+```
+
+`r figs("costs3", "Annual cost increase for Elsevier, Wiley/Blackwell and Springer. The cost information for these 3 publishers is available for all 5 countries with longitudinal data. In some data sets, the number of included institutions varies notably by year; to reduce bias associated with differences in data completeness across years we included only those institutions have been included that have data for all years within a given country. (for instance in Finland 2016 there is notable increase of listed publishers and organizations in the data set 57 vs. 71 organizations 2015-2016; and 200 vs. 258 publishers)")`.

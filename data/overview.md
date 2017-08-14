@@ -22,19 +22,13 @@ Canada (2014-2016), Chile (2008-2015), Finland (2010-2016), France (2009-2015), 
 
 ![plot of chunk costs3](figure_manuscript/costs3-1.png)
 
-Figure  1: Annual cost increase for Elsevier, Wiley/Blackwell and Springer. The cost information for these 3 publishers is available for all 5 countries with longitudinal data. In some data sets, the number of included institutions varies notably by year; to reduce bias associated with differences in data completeness across years we included only those institutions have been included that have data for all years within a given country. (for instance in Finland 2016 there is notable increase of listed publishers and organizations in the data set 57 vs. 71 organizations 2015-2016; and 200 vs. 258 publishers).
-
-
-
-![plot of chunk costs3b](figure_manuscript/costs3b-1.png)
-
-Figure  2: Same as above but all publishers included. Perhaps we like to include this figure instead and just discuss the issues that affect the comparison ie. latter years have more complete lists of publishers etc..
+Figure  1: Annual cost increase for Elsevier, Wiley/Blackwell and Springer. In some data sets, the number of included institutions varies notably by year (for instance in Finland 2016 there is notable increase of listed publishers and organizations in the data set 57 vs. 71 organizations 2015-2016; and 200 vs. 258 publishers). However, the observations remain qualitatively similar also when the analysis is limited only to those publishers that have data available for the complete time span..
 
 
 
 <img src="figure_manuscript/ranking1-1.png" title="plot of chunk ranking1" alt="plot of chunk ranking1" width="430px" /><img src="figure_manuscript/ranking1-2.png" title="plot of chunk ranking1" alt="plot of chunk ranking1" width="430px" /><img src="figure_manuscript/ranking1-3.png" title="plot of chunk ranking1" alt="plot of chunk ranking1" width="430px" /><img src="figure_manuscript/ranking1-4.png" title="plot of chunk ranking1" alt="plot of chunk ranking1" width="430px" />
 
-Figure  3: University ranking (Times ranking) variables versus subscription costs with selected publishers.
+Figure  2: University ranking (Times ranking) variables versus subscription costs with selected publishers.
 
 
 
@@ -43,7 +37,7 @@ Figure  3: University ranking (Times ranking) variables versus subscription cost
 
 <img src="figure_manuscript/rankingeter-1.png" title="plot of chunk rankingeter" alt="plot of chunk rankingeter" width="290px" /><img src="figure_manuscript/rankingeter-2.png" title="plot of chunk rankingeter" alt="plot of chunk rankingeter" width="290px" /><img src="figure_manuscript/rankingeter-3.png" title="plot of chunk rankingeter" alt="plot of chunk rankingeter" width="290px" />
 
-Figure  4: University scoring (ETER) variables versus subscription costs with selected publishers.
+Figure  3: University scoring (ETER) variables versus subscription costs with selected publishers.
 
 
 
@@ -52,14 +46,14 @@ Figure  4: University scoring (ETER) variables versus subscription costs with se
 
 <img src="figure_manuscript/costs1-1.png" title="plot of chunk costs1" alt="plot of chunk costs1" width="290px" /><img src="figure_manuscript/costs1-2.png" title="plot of chunk costs1" alt="plot of chunk costs1" width="290px" /><img src="figure_manuscript/costs1-3.png" title="plot of chunk costs1" alt="plot of chunk costs1" width="290px" />
 
-Figure  5: Cost timelines for selected publishers.
+Figure  4: Cost timelines for selected publishers.
 
 
 
 
 <img src="figure_manuscript/countries.with.data-1.png" title="plot of chunk countries.with.data" alt="plot of chunk countries.with.data" width="400px" />
 
-Figure  6: Number of countries with data for at least one year. Publishers with more than one country are shown.
+Figure  5: Number of countries with data for at least one year. Publishers with more than one country are shown.
 
 
 
