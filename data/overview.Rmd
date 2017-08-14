@@ -143,9 +143,10 @@ grid.arrange(pics[[1]], pics[[2]], pics[[3]], pics[[4]], pics[[5]], nrow = 2)
 
 
 
-```{r ranking1, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=14, fig.height=5, fig.show = "hold", out.width = "290px"}
+```{r ranking1, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=14, fig.height=6, fig.show = "hold", out.width = "430px"}
 # Ranking variables
-vars <- c("world_rank", "teaching", "international", "research", "citations", "income", "total_score", "num_students", "student_staff_ratio", "international_students")
+# vars <- c("world_rank", "teaching", "international", "research", "citations", "income", "total_score", "num_students", "student_staff_ratio", "international_students")
+vars <- c("world_rank", "research", "citations", "num_students")
 
 # Merge cost and ranking data
 drank <- inner_join(d, unirank, by = c("Year", "Country", "Organization"))
@@ -168,7 +169,7 @@ for (varname in vars) {
 
 
 
-```{r rankingeter, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=14, fig.height=6, fig.show = "hold", out.width = "430px"}
+```{r rankingeter, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=14, fig.height=6, fig.show = "hold", out.width = "290px"}
 
 # Ranking variables
 
@@ -194,7 +195,7 @@ for (varname in vars) {
 
 
 
-```{r costs1, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=8, fig.height=5, fig.show = "hold", out.width = "150px"}
+```{r costs1, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=8, fig.height=5, fig.show = "hold", out.width = "290px"}
 dsub <- d %>% select("Country", "Year", "Publisher", "Cost") %>%
               filter(Publisher %in% selected.publishers) %>%
 	      group_by(Country, Year, Publisher) %>%
@@ -211,29 +212,6 @@ for (publisher in c("Elsevier", "Springer", "Wiley / Blackwell")) {
 `r figs("costs1", "Cost timelines for selected publishers.")`
 
 
-
-
-```{r costs2, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=8, fig.height=5, fig.show = "hold", out.width = "250px"}
-dsub <- d %>% select("Country", "Year", "Publisher", "Cost") %>%
-              filter(Publisher %in% selected.publishers) %>%
-	      group_by(Country, Year, Publisher) %>%
-	      summarize(Cost = sum(Cost, na.rm = TRUE))
-dsub <- dsub %>% filter(Publisher %in% my.pubs)
-for (country in unique(dsub$Country)) {
-  dd <- filter(dsub, Country == country)
-  dd$Country <- factor(dd$Country, levels = levels(dsub$Country))
-  dd$Publisher <- factor(dd$Publisher, levels = levels(dsub$Publisher))  
-  p <- ggplot(dd, aes(x = Year, y = Cost, color = Publisher)) +
-    geom_line() +
-    geom_point() +
-    scale_y_log10() +
-    labs(title = country, y = "Cost (EUR)") +
-    scale_color_manual(values = colors)
-  print(p)
-}
-```
-
-`r figs("costs2", "Cost timelines for three selected publishers.")`
 
 
 ```{r countries.with.data, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=10, fig.show = "hold", out.width = "400px"}

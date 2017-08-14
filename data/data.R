@@ -167,10 +167,11 @@ eter.fields <- as.data.frame(f)
 inds <- eter.codes %in% c(
      	      "Total Current expenditure (EURO)",
 	      "Total academic staff (FTE)",
-              "# Full professors / academic staff (HC)",
-	      "Total students enrolled at ISCED 5",
-	      "Total students enrolled at ISCED 6",
-	      "Total students enrolled at ISCED 7")
+	      "Total students enrolled ISCED 5-7")
+              # Full professors / academic staff (HC)",
+	      #"Total students enrolled at ISCED 5",
+	      #"Total students enrolled at ISCED 6",
+	      #"Total students enrolled at ISCED 7"
 eter.fields <- eter.codes[inds]
 f <- cbind(eter.fields, names(eter.fields))
 colnames(f) <- c("name", "code")
