@@ -35,7 +35,7 @@ Figure  2: University ranking (Times ranking) variables versus subscription cost
 
 
 
-<img src="figure_manuscript/rankingeter-1.png" title="plot of chunk rankingeter" alt="plot of chunk rankingeter" width="290px" /><img src="figure_manuscript/rankingeter-2.png" title="plot of chunk rankingeter" alt="plot of chunk rankingeter" width="290px" /><img src="figure_manuscript/rankingeter-3.png" title="plot of chunk rankingeter" alt="plot of chunk rankingeter" width="290px" /><img src="figure_manuscript/rankingeter-4.png" title="plot of chunk rankingeter" alt="plot of chunk rankingeter" width="290px" /><img src="figure_manuscript/rankingeter-5.png" title="plot of chunk rankingeter" alt="plot of chunk rankingeter" width="290px" />
+<img src="figure_manuscript/rankingeter-1.png" title="plot of chunk rankingeter" alt="plot of chunk rankingeter" width="430px" /><img src="figure_manuscript/rankingeter-2.png" title="plot of chunk rankingeter" alt="plot of chunk rankingeter" width="430px" /><img src="figure_manuscript/rankingeter-3.png" title="plot of chunk rankingeter" alt="plot of chunk rankingeter" width="430px" /><img src="figure_manuscript/rankingeter-4.png" title="plot of chunk rankingeter" alt="plot of chunk rankingeter" width="430px" /><img src="figure_manuscript/rankingeter-5.png" title="plot of chunk rankingeter" alt="plot of chunk rankingeter" width="430px" />
 
 Figure  3: University scoring (ETER) variables versus subscription costs with selected publishers.
 
