@@ -1,5 +1,6 @@
 x
 
+"archaeological bibliography 1956-"; dyabola
 11-13 nimekettä/vuosi; elibrary.ru venäjänkielisten lehtien tilauksia
 2016-2017 computer science; 2017 earth and environmental science; encyclopedia of creativity & invention & innovation and entrepreneurship; encyclopedia of social network analysis and mining; lecture notes in computer science; springer link
 aace digital library
@@ -10,21 +11,28 @@ aamulehden näköislehti
 abi inform / bs; ebrary
 abi inform / bs; ebrary; vogue
 abi inform / business; ebrary
-abi inform/business suite; camio; iimpft ja iipaft*; ebrary
 abi inform business suite ja business source; csa art and humanities; csa social sciences; ebrary academic complete; psycinfo; refworks
-abi inform; ebrary; iimp iipa; iimpft; refworks
 abi inform global; ebrary academic complete; refworks
+abi inform; ebrary; iimp iipa; iimpft; refworks
 abi inform; iimp iipa; iimpft; refworks
+abi inform/business suite; camio; iimpft ja iipaft*; ebrary
 abi/inform; psycarticles; refworks; ulrichsweb; ebrary academic collection + pda
 abi/inform; refworks; ulrichsweb; ebrary academic collection + pda
 abo verensiirto; terveysportti
+academic collection worldwide; academic search elite; applied science and technology; business source premier; cinahl; cinahl complete; communication and mass media complete; food science source; hospitality & tourism; socindex full text
 academic collection; academic search elite; applied science and technology; business source premier; cinahl; cinahl complete; communication and mass media complete; food science source; hospitality & tourism; socindex full text
 academic collection; academic search elite; business source elite; cinahl; communication and mass media complete; historical abstracts; philosophers index; rilm répertoire international de littérature musicale; sportdiscus ft
 academic collection; academic search premier; business source elite; cinahl; comm.& mass media complete; education research complete; humanities international complete; mla; philosopher's index; philosopher's index with full text
 academic collection; academic search premier; business source elite; cinahl; communication and mass media complete; education research complete; humanities international complete; philosophers index; philosopher’s index with full text
-academic collection worldwide; academic search elite; applied science and technology; business source premier; cinahl; cinahl complete; communication and mass media complete; food science source; hospitality & tourism; socindex full text
-academice search elite; cinahl; hospitality tourism complete; sportdiscus with fulltext
 academic search elite
+academic search elite (ase); business source elite (bse); communication and mass media complete (cmmc); hospitality & tourism complete; sportdiscus ft
+academic search elite (ase); business source elite (bse); communication and mass media complete (cmmc); sportdiscus ft
+academic search elite / ase
+academic search elite / ase (ebsco); business source elite / bse (ebsco); business suite (sis. abi inform. proquest); cinahl (ebsco); communication and mass media complete (ebsco); ebrary academic complete (proquest); ieee/iet electronic library (iel); iimpft & iipaft (proquest); jbi (ovid) / jbi connect+ (käyttöliittymä); refworks (proquest); safari technical books online (proquest)
+academic search elite / ase (ebsco); business source elite / bse (ebsco); business suite (sis. abi inform. proquest); cinahl (ebsco); communication and mass media complete (ebsco); ebrary academic complete (proquest); ieee/iet electronic library (iel); iimpft & iipaft (proquest); refworks (proquest); safari technical books online (proquest)
+academic search elite / ase; business source elite / bse; cinahl + ft; sportdiscus with fulltext
+academic search elite / ase; business source elite / bse; cinahl; cinahl ft; sportdiscus with fulltext
+academic search elite / ase; business source elite / bse; cinahl; sportdiscus with fulltext
 academic search elite; academic search premier; cinahl; iel; wilson art
 academic search elite; ageline; arctica and antractica; art full text; business source elite; hospitality and tourism
 academic search elite; ageline; cinahl; eds; psycinfo; socindex with fulltext
@@ -32,14 +40,6 @@ academic search elite; applied science & technology science; business source eli
 academic search elite; applied science & technology source; business source elite; cinahl; cinahl with full text; hospitality & tourism complete; library & information science source; ebook academic collection
 academic search elite; applied science & technology source; business source elite; cinahl; cinahl with full text; hospitality & tourism complete; library & information science source; sociological collection; ebook academic collection
 academic search elite; art full text; cinahl; cinahl complete
-academic search elite / ase
-academic search elite / ase; business source elite / bse; cinahl; cinahl ft; sportdiscus with fulltext
-academic search elite / ase; business source elite / bse; cinahl + ft; sportdiscus with fulltext
-academic search elite / ase; business source elite / bse; cinahl; sportdiscus with fulltext
-academic search elite (ase); business source elite (bse); communication and mass media complete (cmmc); hospitality & tourism complete; sportdiscus ft
-academic search elite (ase); business source elite (bse); communication and mass media complete (cmmc); sportdiscus ft
-academic search elite / ase (ebsco); business source elite / bse (ebsco); business suite (sis. abi inform. proquest); cinahl (ebsco); communication and mass media complete (ebsco); ebrary academic complete (proquest); ieee/iet electronic library (iel); iimpft & iipaft (proquest); jbi (ovid) / jbi connect+ (käyttöliittymä); refworks (proquest); safari technical books online (proquest)
-academic search elite / ase (ebsco); business source elite / bse (ebsco); business suite (sis. abi inform. proquest); cinahl (ebsco); communication and mass media complete (ebsco); ebrary academic complete (proquest); ieee/iet electronic library (iel); iimpft & iipaft (proquest); refworks (proquest); safari technical books online (proquest)
 academic search elite; business source complete
 academic search elite; business source complete; communication and mass media complete; econlit; lehtiä; textile technology complete; wilson art full text; world textiles
 academic search elite; business source complete; communication and mass media complete; econlit; wilson art full text
@@ -62,16 +62,16 @@ academic search elite; business source premier; communication and mass media com
 academic search elite; business suite (abi inform); ebrary academic complete; refworks
 academic search elite; business suite (abi inform); ebrary academic complete; refworks; vogue
 academic search elite; cinahl
+academic search elite; cinahl complete; cinahl; wilson art full text
 academic search elite; cinahl; cinahl complete; wilson art
 academic search elite; cinahl; cinahl fulltext
 academic search elite; cinahl; cinahl with fulltext
-academic search elite; cinahl complete; cinahl; wilson art full text
 academic search elite; cinahl; hospitality & tourism complete
 academic search elite; cinahl; hospitality tourism complete; sportdiscus ft
 academic search elite; cinahl; iel; wilson art
 academic search elite; cinahl; socindex with fulltext
-academic search elite; cinahl; sportdiscus ft
 academic search elite; cinahl; sportdiscus  ft
+academic search elite; cinahl; sportdiscus ft
 academic search elite; cinahl; wilson art
 academic search elite; cinahl; wilson art full text
 academic search elite; e-lehdet; sportdiscus with fulltext
@@ -83,18 +83,19 @@ academic search elite; rilm
 academic search elite; rilm; ripm; rism
 academic search elite; rilm; rism
 academic search premier
+academic search premier + cmmc + cinahl; cinahl fulltext
+academic search premier + cmmc + cinahl; cinahl fulltext; ebook
+academic search premier + cmmc + cinahl; ebook; education source
 academic search premier; america history and life; arctic&antarctic regions; avery index; business source complete; cinahl; communication and mass media complete; ebook collection (2014 lähtien); georef; historical abstracts; mla
 academic search premier; arctic&antarctic regions & america: history and life; art&architecture complete; avery index; business source complete; cinahl; communication and mass media complete; econlit; georef; historical abstracts; ebook academic collection
 academic search premier; business source complete; plumx; selected journals
 academic search premier; business source elite; cinahl; comm.& mass media complete; education research complete; humanities international complete; mla; philosopher's index
 academic search premier; cinahl; cinahl complete; iel; wilson art
 academic search premier; cinahl; cinahl fulltext; communication and mass media complete; e-book academic collection
-academic search premier + cmmc + cinahl; cinahl fulltext
-academic search premier + cmmc + cinahl; cinahl fulltext; ebook
-academic search premier + cmmc + cinahl; ebook; education source
 academic search premier; socindex with fulltext
 academic source elite; art full text; business source complete; communication and mass media complete; textile technology complete; world textiles
 academic video online; ebrary; linguistics and language behavour abstracts; literature online; mla international bibliography; myilibrary (alustamaksu); proquest social sciences premium collection; refworks; ulrichsweb
+academice search elite; cinahl; hospitality tourism complete; sportdiscus with fulltext
 access engineering
 accessengineering; accessscience
 acland's video atlas of human anatomy; jbi complete
@@ -110,8 +111,8 @@ acta sanctorum; cross searchability: acta sanctorum & patrologia latina; patrolo
 acta sanctorum; ebrary; luthers werke; mla international bibliography; pq complete collection; refworks; safari
 ada nutrition care manual (e-kirja)
 ada nutrition care manual (e-kirja); ada pediatric nutrition care manual
-advances in experimental social psychology; cell press; clinics of north america journals; elsevier health sciences elibrary; elsevier reference works; embase; encyclopedia of mental health; freedom collection; handbook in economic series; international encyclopedia of the social & behavioral sciences; scopus
 advances in experimental social psychology; cell press; clinics of north america journals online; elsevier healthsciences elibrary; elsevier reference works; elsevier sciencedirect; embase; handbooks in economics series; international encyclopedia of the social and behavioral sciences; scopus
+advances in experimental social psychology; cell press; clinics of north america journals; elsevier health sciences elibrary; elsevier reference works; embase; encyclopedia of mental health; freedom collection; handbook in economic series; international encyclopedia of the social & behavioral sciences; scopus
 advances in experimental social psychology; cell press; elsevier reference works; elsevier sciencedirect; international encyclopedia of the social and behavioral sciences
 advances in space research; aerosol science and technology incl free online; agu total package digital library journals archive 1896-1995 (yearly access fee); atmospheric environment; cold regions science & technology; continental shelf research; deep sea research parts i & ii: oceanographic research papers & topical studies in oceanography; dynamics of atmospheres & oceans; ebl ebook library; environmental science and technology; estuarine coastal & shelf science; geophysical journal international; international journal of climatology; international journal of wildland fire; journal of applied meteorology and climatology nonmember price; journal of atmospheric & solar-terrestrial physics; journal of atmospheric and oceanic technology corporation and institution member price; journal of climate corporation and institution member price; journal of fluid mechanics; journal of hazardous materials; journal of marine systems; journal of physical oceanography corporation and institution member price; journal of the atmospheric sciences corporation and institution member price; marine chemistry; meteorological & geoastrophysical abstracts; meteorological applications; monthly weather review corporation and institution member price; nature climate change online only site licence; planetary and space science; progress in oceanography; quarterly journal of the royal meteorological society; remote sensing of environment
 advances in space research; aerosol science and technology incl free online; agu total package digital library journals archive 1896-1995 (yearly access fee); atmospheric environment; cold regions science & technology; continental shelf research; deep sea research parts i & ii: oceanographic research papers & topical studies in oceanography; dynamics of atmospheres & oceans; environmental science and technology; estuarine coastal & shelf science; geophysical journal international; international journal of climatology; international journal of wildland fire; journal of applied meteorology and climatology nonmember price; journal of atmospheric & solar-terrestrial physics; journal of atmospheric and oceanic technology corporation and institution member price; journal of climate corporation and institution member price; journal of fluid mechanics; journal of hazardous materials; journal of marine systems; journal of physical oceanography corporation and institution member price; journal of the atmospheric sciences corporation and institution member price; marine chemistry; meteorological & geoastrophysical abstracts; monthly weather review corporation and institution member price; nature climate change online only site licence; planetary and space science; progress in oceanography; remote sensing of environment
@@ -128,8 +129,8 @@ aip selected journals
 akuuttihoidon tietokannat; oppiportti(oppikirjapaketit 1-4); työterveys ja kuntoutus
 akuuttihoito; oppiportti; työterveys ja kuntoutus -tietokanta
 aleksi
-aleksi; artikelsök
 aleksi online
+aleksi; artikelsök
 allgemeines künstlerlexikon
 alma talent pro verkkokirjahylly; fokus esimies; fokus talous ja verotus; talentum lehtiarkisto
 altika; astika; suomen tilastollinen vuosikirja
@@ -139,16 +140,16 @@ alueinfo; svt vuosikirja
 alueonline; astika
 alueonline; astika; kunnittainen toimipaikkatilasto kunto
 alueonline; astika; tilastokeskus: altika (tilastot sis. stv:n)
-amadeus
-ama manual of style; electronic enlightenment; grove art; grove music; new oxford shakespeare; oho law collection 2016; oho linguistics 2016; oso law 2016-2017 collection; oxford english dictionary; oxford reference online; oxford journals full collection
 ama manual of style online; electronic enlightenment ylläpito; grove art; grove music; oro premium + literature collection + western civilization; oxford english dictionary; oxford medicine online; oxford journals full collection
+ama manual of style; electronic enlightenment; grove art; grove music; new oxford shakespeare; oho law collection 2016; oho linguistics 2016; oso law 2016-2017 collection; oxford english dictionary; oxford reference online; oxford journals full collection
+amadeus
 america history and life + historical abstracts
 american association for advancement science aaas
 american chemical society
-american chemical society / acs
 american chemical society (acs)
-american chemical society acs + arkisto; scifinder scholar/chemical abstracts
+american chemical society / acs
 american chemical society / acs; scifinderscholar
+american chemical society acs + arkisto; scifinder scholar/chemical abstracts
 american chemical society journals; scifinder scholar chemical abstracts
 american chemical society; scifinderscholar
 american economic association 7 journals package only available in package subscription (site license); brookings papers on economic activity; cesifo economic studies (institutional regular price); econometrica package; economic policy; economica; economics package includes the economic journal & the econometrics journal; ekonomisk debatt incl swedish economic policy review online outside sweden; environmental & resource economics; european journal of population; european taxation standard journal; finanzarchiv / public finance analysis; health economics online only; imf staff papers/imf economic review; international economic review; international labour review; international tax and public finance; journal of economic growth online only; journal of economic inequality; journal of economic surveys; journal of human resources online only; journal of labor economics basic access one simultaneous user; journal of political economy basic access one simultaneous user; journal of productivity analysis; journal of the european economic association; kyklos: international review of social sciences; national institute economic review; national tax journal & proceedings of the annual conference on taxation (journal full text online; nber working paper series (national bureau of economic research) online only/standard price; oxford economic papers online only (instit regular price); oxford review of economic policy online only (instit regular price); proceedings distributed via cd-roms); public budgeting & finance; public choice; public finance review; public performance and management review; quarterly journal of economics tier 2; regional studies; review of economic studies; review of economics & statistics; review of income and wealth; scandinavian journal of economics; stata journal; tax notes international; world bank economic review online only (corporate price); world economics
@@ -163,8 +164,8 @@ american journal of sociology
 american medical association
 american mineralogist; antarctic & alpine research; arctic; canadian journal of earth sciences; canadian journal of remote sensing; earth; earth and environmental science transactions of the royal society of edinburgh; episodes; european journal of mineralogy; exploration geophysics; geo: connexion; geological magazine; geophysical journal international; geophysics; geoscience canada; holocene; ieee transactions of geoscience and remote sensing; international geology review; journal of petrology; journal of sedimentary research; mineralogical magazine; refworks
 american pamphlets series; american slavery collection; early american newspapers 1690-1922
-american physical society journals
 american physical society -lehtipaketti
+american physical society journals
 american physiological society
 american psychiatric association publishing
 american thoracic society
@@ -182,21 +183,21 @@ annual reviews
 annual reviews (biomed&economics&physical&soc sci)
 antarctic & alpine research; arctic
 applied linguistics; grove art online; oxford reference online (oro)
-aps-all
-aps-all (online)
 aps journals
 aps journals (prola); highwire; international encyclopedia of laws: environmental law (iel); learntechlib the learning and technology library; medicinescomplete; metsämuuronen: ttp (tutkijalaitos)+ltk; nber working papers; optics infobase; epress
+aps-all
+aps-all (online)
 arabidopsis information resource (tair)
-"archaeological bibliography 1956-"; dyabola
 archaeological bibliography 1956-; dyabola
 archives of sexuality and gender: lgbtq history and culture since 1940 part i; british library newspapers; gale virtual reference library; times digital archive
+aristoteles latinus -online (ald); in principio (online); international encyclopaedia for the middle ages-online (iema) & lexicon des mittelalters (lexma); the database of latin dictionaries online (dld)
 aristoteles latinus (ald) & library of latin texts; aristoteles latinus -online (ald); in principio (online); international encyclopaedia for the middle ages-online (iema) & lexicon des mittelalters (lexma); the bibliography of british and irish history online ( bbih ); the cross database searchtool (llt); the database of latin dictionaries online (dld)
 aristoteles latinus (ald) & library of latin texts; aristoteles latinus -online (ald); in principio (online); international encyclopaedia for the middle ages-online (iema) & lexicon des mittelalters (lexma); the cross database searchtool (llt); the database of latin dictionaries online (dld)
 aristoteles latinus (ald) & library of latin texts; aristoteles latinus -online (ald); in principio (online); the bibliography of british and irish history online ( bbih ); the cross database searchtool (llt); the database of latin dictionaries online (dld)
-aristoteles latinus -online (ald); in principio (online); international encyclopaedia for the middle ages-online (iema) & lexicon des mittelalters (lexma); the database of latin dictionaries online (dld)
 arkhimedes määräaikainen suomen sisällä
 arkisto
 arkisto; helsingins sanomat -verkkolehti
+art & sciences iii; art & sciences iv
 art and architecture in video; music online
 art and humanities full text; avery index to architectural periodicals; business suite; csa complete collection; dissertations & theses; early english books online; ebrary academic complete; econlit; fiaf plus; international bibliography of art; periodicals index online; polymer library; proquest education journals; psycarticles; refworks; safari technical books online; the vogue archive; ulrichsweb
 art and humanities full text; avery index to architectural periodicals; business suite; csa complete collection; dissertations & theses; early english books online; ebrary academic complete; fiaf plus; international bibliography of art; papers invited; periodicals index online; polymer library; proquest education journals; psycarticles; refworks; safari technical books online; the vogue archive; ulrichsweb
@@ -206,9 +207,16 @@ art and humanities full text; avery index to architectural periodicals; csa comp
 art and humanities full text; csa complete collection; dissertations & theses; early english books online; ebrary academic complete; fiaf plus; periodicals index online; proquest central; proquest education journals; psycarticles; refworks; safari technical books online; the vogue archive; ulrichsweb
 art and sciences i; art and sciences iii
 artbibliographies modern
-artikelsök
 artikel-sök
+artikelsök
+arts & humanities database; ebrary; econlit; education database; fiaf; pqdt global; proquest central; proquest complete collection; psycarticles; refworks; safari; ulrichsweb; vogue archive
+arts & science i; business collection
+arts & sciences i
+arts & sciences i-iv; ecology & botany collection
 arts and sciences i
+arts and sciences i ja business collection
+arts and sciences i-iii
+arts and sciences i-iv; ecology and botany coll.
 arts and sciences i; arts and sciences ii; arts and sciences iii; arts and sciences iv
 arts and sciences i; arts and sciences ii; arts and sciences iii; arts and sciences iv; biological sciences; jstor arts & sciences: v & vii & viii & xi & xii
 arts and sciences i; arts and sciences ii; arts and sciences iii; business collection
@@ -216,14 +224,6 @@ arts and sciences i; arts and sciences iii
 arts and sciences i; arts and sciences iv
 arts and sciences i; business collection
 arts and sciences iii; arts and sciences iv
-arts and sciences i-iii
-arts and sciences i-iv; ecology and botany coll.
-arts and sciences i ja business collection
-art & sciences iii; art & sciences iv
-arts & humanities database; ebrary; econlit; education database; fiaf; pqdt global; proquest central; proquest complete collection; psycarticles; refworks; safari; ulrichsweb; vogue archive
-arts & science i; business collection
-arts & sciences i
-arts & sciences i-iv; ecology & botany collection
 artstor
 artstor digital library
 artstore
@@ -238,17 +238,23 @@ ase; bse; cinahl; hospitality & tourism; iel; medic; smart; wilson art ft
 ase; bse; cinahl; iel; medic; wilson art ft
 ase; bse; iel; medic; wilson art ft
 asfa ja environmental science and pollution management
-asia; mix; tenttu
 asia; mix (v. 2012 eteenpäin kaikki helecon-tietokannat); online-tietokanavat; scima
+asia; mix; tenttu
 asian studies
-asme journals (selection)
-asme selected journals
 asm handbooks online
 asm materials information
 asm online journals package
+asme journals (selection)
+asme selected journals
 astika
 astika; kunnittainen toimipaikkatilasto
 astika; suomen tilastollinen vuosikirja
+atlas (=laajennettu atla); academic search premier; business source complete; cinahl; communication and mass media complete; frantext; grand robert; historical abstracts; iel: ieee/iee electronic library online; kargerin lehtipaketti: basics + paketti; mla (modern language association); philosopher's index; routledge encyclopedia of philosophy; socindex fulltext; wilson art full text
+atlas (=laajennettu atla); academic search premier; business source complete; cinahl; communication and mass media complete; historical abstracts; iel: ieee/iee electronic library online; kargerin lehtipaketti: basics + paketti; mla (modern language association); philosopher's index; routledge encyclopedia of philosophy; socindex fulltext
+atlas (=laajennettu atla); academic search premier; business source complete; cinahl; communication and mass media complete; historical abstracts; iel: ieee/iee electronic library online; mla (modern language association); philosopher's index; routledge encyclopedia of philosophy; socindex fulltext; wilson art full text
+atlas (=laajennettu atla); academic search premier; business source complete; cinahl; grand robert; historical abstracts; iel: ieee/iee electronic library online; mla (modern language association); philosopher's index; routledge encyclopedia of philosophy; socindex fulltext; wilson art full text
+atlas (=laajennettu atla); academic search premier; business source complete; cinahl; historical abstracts; iel: ieee/iee electronic library online; kargerin lehtipaketti: basics + paketti; mla (modern language association); philosopher's index; routledge encyclopedia of philosophy; socindex fulltext; wilson art full text
+atlas (=laajennettu atla); academic search premier; cinahl; historical abstracts; iel: ieee/iee electronic library online; kargerin lehtipaketti: basics + paketti; mla (modern language association); philosopher's index; routledge encyclopedia of philosophy; socindex fulltext; wilson art full text
 atlas; academic collection; academic search premier; business source elite; cinahl; dentistry & oral sciences source; socindex ft
 atlas; academic search elite; business source premier; communication and mass media complete
 atlas; academic search premier; art full text; business source complete; cinahl; communication and mass media complete; ebsco usage consolidation; education research complete; frantext; grand robert; historical abstracts; pda ebooks; philosophers index; rilm répertoire international de littérature musicale; socindex ft; teacher resources k-8 2016
@@ -258,12 +264,6 @@ atlas; academic search premier; business source elite; cinahl; mla international
 atlas; academic search premier; business source premier; cinahl; communication and mass media complete; energy & power source; historical abstracts; mla international bibliography; philosopher's index; rilm répertoire international de littérature musicale; wilson art full text
 atlas; academic search premier; business source premier; cinahl; communication and mass media complete; energy & power source; historical abstracts; philosopher's index; rilm répertoire international de littérature musicale; wilson art
 atlas; academic search premier; business source premier; cinahl; communication and mass media complete; historical abstracts; mla international bibliography; philosopher's index; rilm répertoire international de littérature musicale; wilson art full text
-atlas (=laajennettu atla); academic search premier; business source complete; cinahl; communication and mass media complete; frantext; grand robert; historical abstracts; iel: ieee/iee electronic library online; kargerin lehtipaketti: basics + paketti; mla (modern language association); philosopher's index; routledge encyclopedia of philosophy; socindex fulltext; wilson art full text
-atlas (=laajennettu atla); academic search premier; business source complete; cinahl; communication and mass media complete; historical abstracts; iel: ieee/iee electronic library online; kargerin lehtipaketti: basics + paketti; mla (modern language association); philosopher's index; routledge encyclopedia of philosophy; socindex fulltext
-atlas (=laajennettu atla); academic search premier; business source complete; cinahl; communication and mass media complete; historical abstracts; iel: ieee/iee electronic library online; mla (modern language association); philosopher's index; routledge encyclopedia of philosophy; socindex fulltext; wilson art full text
-atlas (=laajennettu atla); academic search premier; business source complete; cinahl; grand robert; historical abstracts; iel: ieee/iee electronic library online; mla (modern language association); philosopher's index; routledge encyclopedia of philosophy; socindex fulltext; wilson art full text
-atlas (=laajennettu atla); academic search premier; business source complete; cinahl; historical abstracts; iel: ieee/iee electronic library online; kargerin lehtipaketti: basics + paketti; mla (modern language association); philosopher's index; routledge encyclopedia of philosophy; socindex fulltext; wilson art full text
-atlas (=laajennettu atla); academic search premier; cinahl; historical abstracts; iel: ieee/iee electronic library online; kargerin lehtipaketti: basics + paketti; mla (modern language association); philosopher's index; routledge encyclopedia of philosophy; socindex fulltext; wilson art full text
 atmosphere-ocean euroopan sisällä
 atmospheric environment euroopan sisällä
 australian journal of earth sciences
@@ -288,8 +288,8 @@ bmj journals online collection; bmj learning; best practice
 bmj journals online collection; bmj learning; best practices; british medical journal
 bmj publishing group
 bmj publishing group package
-bonnierpro
 bonnier pro
+bonnierpro
 bonnierpro / kauppalehden johtamisen käsikirjat
 book citation index; ciation connection; conference proceedings citation index; essential science indicators; journal and highly cited data; web of science
 book citation index; citation connection; conference proceedings citation index; essential science indicators; incites; journal and highly cited data; web of science
@@ -297,37 +297,33 @@ book citation index; conference proceedings; essential science indicators; incit
 book citation index; conference proceedings; essential science indicators; incites; web of science
 book history online; encyclopedia of ancient greek language and linguistics; enzyklopädie der neuzeit online; new pauly online encyclopaedia of the ancient world; the new pauly supplement online
 book history online; enzyklopädie der neuzeit online; new pauly online encyclopaedia of the ancient world; the new pauly supplement online
-books24x7
-books24x7 itpro
-books24x7 it pro
 books; mot ylläpitomaksu; proofing; sanastot; translator
 books; mot ylläpitomaksu; proofing; translator
 books@ovid (yksi kirja vuosimaksu); jbi complete; lww total access coll; psycarticles; psycinfo; visible body (human anatomy atlas & muscle premium sis. päivitykset ja mobiiliapp-lisenssi)
+books24x7
+books24x7 it pro
+books24x7 itpro
 booky e-kirjat
 britannica
 britannica imagequest; encyclopedia britannica
-britannica; imagequest; music online
 britannica online
+britannica; imagequest; music online
 british library newspapers; gale virtual reference library vuosimaksu; lrc - literature resource center; ylläpito
 brockhaus wissensservice
 brookings papers on economic activity
 bsp
 btl (bibliotheca teubneriana latina); tll (thesaurus linguae latinae)
-businessa suite (abi inform); ebrary academic complete
 business collection
 business collection / bc
 business collection i
-business; ebrary; iimp+iipa; jbi
-business; ebrary; iimp+iipa; safari
-business source; business source elite
 business source complete; econlit
 business source complete; econlit; lehtitilaukset
 business source elite
 business source elite / bse
 business source elite / bse; econlit
 business source premier
+business source; business source elite
 business suite
-business suite / abi inform (2010-11); eebo; ebrary; refworks
 business suite (abi inform); csa natural sciences collection; early english books online; ebrary academic complete; periodicals index online (ent. periodicals contents index)
 business suite (abi inform); csa natural sciences collection; ebrary academic complete; periodicals index online (ent. periodicals contents index)
 business suite (abi inform); csa natural sciences collection; ebrary academic complete; refworks
@@ -337,38 +333,42 @@ business suite (abi inform); early english books online; ebrary academic complet
 business suite (abi inform); ebrary
 business suite (abi inform); ebrary; iimp iipa; refworks
 business suite (abi inform); ebrary; iimp iipa; refworks; safari
-businesssuite (abi-inform); ebrary; refworks & refshare
-businesssuite (abi-inform); pq science  journals; refworks & refshare
-businesssuite (abi-inform); refworks & refshare
+business suite / abi inform (2010-11); eebo; ebrary; refworks
 business suite; csa cc; iipaft; refworks
 business suite; csa cc; refworks; safari technical books online
 business suite; csa technology collection / csa t; ebrary; refworks
 business suite; csa technology collection / csa t; refworks
 business suite; ebrary academic complete; entrepreneurship; periodicals index online; refworks; safari technical books online
 business suite; ebrary academic complete; periodicals index online; refworks; safari technical books online
-businesssuite; ebrary; iimp; iipa
 business suite; ebrary; iimp ja iipa
 business suite; ebrary; mla international bibliography; refworks
 business suite; ebrary; myilibrary; proquest technology collection; refworks; ulrichsweb
 business suite; ebrary; pq arts & humanities collection; pq social sciences premium collection; refworks
 business suite; ebrary; pq natural sciences collection; refworks
 business suite; ebrary; refworks
-businesssuite; ebrary; refworks
 business suite; ebrary; refworks; safari
 business suite; ebrary; refworks; safari; urkund
-businesssuite; ebrary; refworks; vogue
 business suite; ebrary; safari
 business suite; refworks
 business suite; refworks; safari
 business suite; refworks; safari technical books online
+business; ebrary; iimp+iipa; jbi
+business; ebrary; iimp+iipa; safari
+businessa suite (abi inform); ebrary academic complete
+businesssuite (abi-inform); ebrary; refworks & refshare
+businesssuite (abi-inform); pq science  journals; refworks & refshare
+businesssuite (abi-inform); refworks & refshare
+businesssuite; ebrary; iimp; iipa
+businesssuite; ebrary; refworks
+businesssuite; ebrary; refworks; vogue
+businessuite; e-kirjoja valinnan mukaan; ebrary; entrepreneurship; refworks; safari
 businessuite; ebrary
-businessuite; ebrary; iimp; iipa; refworks
 businessuite; ebrary; iimp iipa; refworks; safari
+businessuite; ebrary; iimp; iipa; refworks
 businessuite; ebrary; iimp; iipa; refworks; safari
 businessuite; ebrary; refworks; safari; vogue
 businessuite; eebo; ebrary
 businessuite; eebo; ebrary; refworks; safari
-businessuite; e-kirjoja valinnan mukaan; ebrary; entrepreneurship; refworks; safari
 cab abstracts 1973+
 cab abstracts 1973+; neurology
 cab abstracts; jbi
@@ -390,19 +390,21 @@ catalog of art museum images online / camio
 cell press; clinics of north america journals online; elsevier healthsciences elibrary; elsevier reference works; elsevier sciencedirect; embase; handbooks in economics series; international encyclopedia of the social and behavioral sciences; scopus
 cell press; clinics of north america journals online; elsevier healthsciences elibrary; elsevier reference works; elsevier sciencedirect; international encyclopedia of the social and behavioral sciences
 cell press; clinics of north america journals online; elsevier reference works; elsevier sciencedirect; embase; international encyclopedia of the social and behavioral sciences; scopus
-cellpress; compendex; encyclopedia of language and linguistics; international encyclopedia of the social & behavioral sciences; new scientist; sciencedirect freedom collection
 cell press; e-kirjoja; international encyclopedia of the social & behavioral sciences; scival; sciencedirect freedom collection; scopus
 cell press; ell; iesbs; sciencedirect; scopus
-cellpress; elsevier b.v.; embase; freedom collection
 cell press; elsevier elibrary (etextbooks); encyclopedia of language and linguistics; freedom collection; handbook in economic series; international encyclopedia of the social & behavioral sciences; scopus
 cell press; elsevier textbooks; encyclopedia of language and linguistics; knovel; reaxys; scival; sciencedirect freedom collection; scopus; e-lehtiä(oma sopimus); lehtiarkistot kertaostona
-cellpress; embase; sd freedom
-cellpress; embase; sd freedom; scopus
 cell press; encyclopedia of applied psychology; encyclopedia of social measurement; freedom collection; scopus
-cellpress; encyclopedia of language and linguistics; encyclopedia of the social & behavioral sciences; scival (2015 lähtien); sciencedirect freedom collection; scopus
 cell press; encyclopedia of language and linguistics; freedom collection; handbooks in economics; international encyclopedia of education; international encyclopedia of the social & behavioral sciences; scopus
 cell press; encyclopedia of language and linguistics; freedom collection; international encyclopedia of the social & behavioral sciences; scival; scopus
 cell press; encyclopedia of language and linguistics; freedom collection; international encyclopedia of the social & behavioral sciences; scopus
+cell press; encyclopedia of materials - science and technology; freedom collection; handbooks in economics series; knovel; scopus
+cell press; highwire; science direct freedom
+cellpress; compendex; encyclopedia of language and linguistics; international encyclopedia of the social & behavioral sciences; new scientist; sciencedirect freedom collection
+cellpress; elsevier b.v.; embase; freedom collection
+cellpress; embase; sd freedom
+cellpress; embase; sd freedom; scopus
+cellpress; encyclopedia of language and linguistics; encyclopedia of the social & behavioral sciences; scival (2015 lähtien); sciencedirect freedom collection; scopus
 cellpress; encyclopedia of language and linguistics; gray's anatomy for students (e-kirja); guyton & hall textbook of medical physiology (e-kirja); handbooks in economics series; international encyclopedia of the social & behavioral sciences / isb2; krause's food & the nutrition care process (e-kirja); medical physiology; sciencedirect freedom collection; sciencedirect package - custom title list; scopus; wheater's functional histology
 cellpress; encyclopedia of language and linguistics; gray's anatomy for students (e-kirja); guyton & hall textbook of medical physiology (e-kirja); handbooks in economics series; international encyclopedia of the social & behavioral sciences / isb2; medical physiology; sciencedirect freedom collection; sciencedirect package - custom title list; scopus; wheater's functional histology
 cellpress; encyclopedia of language and linguistics; gray's anatomy for students (e-kirja); guyton & hall textbook of medical physiology (e-kirja); handbooks in economics series; international encyclopedia of the social & behavioral sciences / isb2; sciencedirect freedom collection; sciencedirect package - custom title list; scopus; wheater's functional histology
@@ -410,15 +412,13 @@ cellpress; encyclopedia of language and linguistics; gray's anatomy for students
 cellpress; encyclopedia of language and linguistics; handbooks in economics series; international encyclopedia of education; international encyclopedia of the social & behavioral sciences; new scientist; sciencedirect freedom collection
 cellpress; encyclopedia of language and linguistics; handbooks in economics series; international encyclopedia of the social & behavioral sciences / isb2; sciencedirect freedom collection; scopus
 cellpress; encyclopedia of language and linguistics; handbooks in economics series; international encyclopedia of the social & behavioral sciences; new scientist; sciencedirect freedom collection
-cell press; encyclopedia of materials - science and technology; freedom collection; handbooks in economics series; knovel; scopus
 cellpress; encyclopedia of materials - science and technology; handbooks in economics series; paperchem; sciencedirect freedom collection; scopus
 cellpress; encyclopedia of materials - science and technology; handbooks in economics series; sciencedirect freedom collection; scopus
 cellpress; freedom collection
-cell press; highwire; science direct freedom
 cellpress; sciencedirect
 cellpress; sciencedirect; scopus
-cepr discussion papers
 cepr discussion paper series - all programme areas
+cepr discussion papers
 cepr discussion papers online (labour economics & public economics & development economics)
 cesifo economic studies; economic policy; oxford economic papers; oxford english dictionary; oxford review of economic policy; the quarterly journal of economics; the review of economics studies; the world bank economic review
 chemistry and materials science 2016; energy 2016; engineering 2015; engineering 2016; lecture notes in computer science; springer link
@@ -426,6 +426,7 @@ chicago manual of style
 chicago manual of style online
 churchill archive
 cinahl
+cinahl with fulltext
 cinahl; cinahl ft; ebsco academic search elite; ebsco business search elite; eric; hospitality & tourism complete; ieee / iee - iel online
 cinahl; cinahl with fulltext
 cinahl; cinahl with fulltext; food science source
@@ -434,7 +435,6 @@ cinahl; ebsco-ase; ebsco-sportdiscus
 cinahl; econlit; psycinfo; socindex with fulltext
 cinahl; econlit; socindex with fulltext
 cinahl; socindex with fulltext
-cinahl with fulltext
 cios
 citation connection; conference proceedings citation index; essential science indicators; web of science
 citcon citation connection (hinta sis myös kertamaksun); esi essential science indicators; web of science
@@ -464,10 +464,10 @@ conference proceedings citation index; web of science; web of science incites
 cpci; web of science tietokannat: core collection
 crc ebs ebooks collection; chemnetbase; taylor & francis selected journals
 crc foodnetbase (e-kirjat); routledge handbooks; secret files from world wars to cold war kertaostona; taylor & francis lehtipaketti; e-kirjapaketti; lehtiarkistot kertaostona
+crc handbook of chemistry & physics
 crc handbook of chemistry and physics; educational research abstracts era
 crc handbook of chemistry and physics; educational research abstracts era; taylor & francis online journal library
 crc handbook of chemistry and physics; taylor & francis online journal library
-crc handbook of chemistry & physics
 crcnetbase; taylor&francis journals (selection)
 crnet
 cross searchability: acta sanctorum & patrologia latina; patrologia latina database
@@ -484,13 +484,13 @@ csa complete collection; ebrary academic complete; psycarticles; psychinfo; refw
 csa complete collection; ebrary academic complete; psycarticles; psychinfo; refworks; ulrichsweb
 csa complete collection; ebrary; historical newspapers; iimpft & iipaft & mpa; proquest central; psycarticles; psycinfo; ulrichsweb
 csa complete collection; proquest central; psycinfo; refworks; ulrichsweb
-csa; proquest central; refworks; ulrichsweb
 csa social science collection; ebrary; lion; llba; psycarticles; psycinfo; refworks
 csa social science collection; ebrary; lion; llba; psycarticles; psycinfo; refworks; ulrichsweb
 csa social science collection; ebrary; llba; psycarticles; psycinfo; refworks
 csa social sciences collection; refworks
 csa ss; psycinfo; refworks; safari
 csa ss; refworks; safari
+csa; proquest central; refworks; ulrichsweb
 csh protocols
 cyberlibris e-biblio eco-gestion
 cyberlibris e-biblio sciences
@@ -503,10 +503,10 @@ defencor legis; edilex
 defensor legis (dl); edilex; lakimies; opettajamateriaalia oppikirjoihin
 defensor legis; edilex
 defensor legis; edilex; edilex plus; lakimies
-defensor legis; edilex; jft / juridiska föreningen i finland; lakimies; oikeus
 defensor legis; edilex; jft (juridiska  föreningen i finland); lakimies; oikeus
-defensor legis; edilex; jft juridiska föreningen i finland; lakimies; oikeus; ympäristö
+defensor legis; edilex; jft / juridiska föreningen i finland; lakimies; oikeus
 defensor legis; edilex; jft / juridiska föreningen i finland; lakimies; oikeus; ympäristöjuridiikka
+defensor legis; edilex; jft juridiska föreningen i finland; lakimies; oikeus; ympäristö
 defensor legis; edilex; jft juridiska föreningen i finland; lakimies; oikeus; ympäristöjuridiikka
 defensor legis; edilex; jft juridiska föreningen; lakimies; oikeus; ympäristöjuridiikka
 defensor legis; edilex; jft; lakimies; oikeus
@@ -535,9 +535,20 @@ dl; edilex; lakimies
 doctrinal +
 dramonline
 duden deutsches universalwörterbuch; langenscheidt grosswörterbuch
-duodecim; etsi diagnoosi; hammaslääketieteen tietokannat; oppiportti; raskaus- ja imetystietokanta; sfinx - lääkeinteraktiotietokanta; sairaanhoitajan tietokannat; terminologian tietokannat; terveysportti
 duodecim; etsi diagnoosi (terveysportti); hammaslääketieteen tietokannat; oppiportti; raskaus- ja imetystietokanta; sfinx-pharao -lääkeinteraktiotietokanta; sairaanhoitajan tietokannat; terveysportti; terveystieteiden suomi-eng sanakirja
+duodecim; etsi diagnoosi; hammaslääketieteen tietokannat; oppiportti; raskaus- ja imetystietokanta; sfinx - lääkeinteraktiotietokanta; sairaanhoitajan tietokannat; terminologian tietokannat; terveysportti
 duodecim; hammaslääketieteen tietokannat; oppiportti; raskaus- ja imetystietokanta; sfinx-pharao -lääkeinteraktiotietokanta; sairaanhoitajan tietokannat; terveysportti; terveystieteiden suomi-eng sanakirja
+e-kirjahylly
+e-kirjahylly; fokus esimies; fokus talous ja verotus; summa; talentum lehtiarkisto
+e-kirjapaketti
+e-kirjat; jbc
+e-kirjoja kertaostona
+e-kirjoja valinnan mukaan
+e-kirjoja valinnan mukaan; ellibs
+e-kirjoja valinnan mukaan; ellibs-palvelu
+e-kirjoja; ellibs
+e-lehtiä
+e-lehtiä valinnan mukaan
 early american newspapers 1690-1922 ylläpito
 earth
 earth and environmental science transactions of the royal society of edinburgh; geological magazine
@@ -578,15 +589,15 @@ econlit; refworks
 econometrica package: econometrica & quantitative economics & theoretical economics; economics package: the economic journal & the econometrics journal; economica; health economics; international economic review; international labour review; journal of economic surveys; journal of the european economic association; kyklos; public budgeting & finance; the review of income and wealth; the scandinavian journal of economics
 economic geology
 edilex
-edilex; edilex plus
 edilex kirjastolisenssi
-edilex; opettajan aineistot
 edilex verotus
+edilex; edilex plus
+edilex; opettajan aineistot
 edilex; vulnus fennica
 edp revues
-educational psychologist archive; history of feminism; routledge encyclopedia of philosophy; taylor & francis library (ssh+s&t)
 education & information technology library
 education in video vol i -ii; garland encyclopedia of world music; oecdilibrary (ent. sourceoecd)
+educational psychologist archive; history of feminism; routledge encyclopedia of philosophy; taylor & francis library (ssh+s&t)
 edward elgar social and political science 2017
 eebo
 eebo; ebrary; proquest central; refworks
@@ -594,70 +605,59 @@ efunda
 eighteenth century collections online
 eighteenth century collections online / ecco
 eiliset
-e-kirjahylly
-e-kirjahylly; fokus esimies; fokus talous ja verotus; summa; talentum lehtiarkisto
-e-kirjapaketti
-e-kirjat; jbc
-e-kirjoja; ellibs
-e-kirjoja kertaostona
-e-kirjoja valinnan mukaan
-e-kirjoja valinnan mukaan; ellibs
-e-kirjoja valinnan mukaan; ellibs-palvelu
 electronic enlightenment
 electronic enlightenment ylläpito; grove art; grove music; oro premium + literature collection + western civilization; oxford english dictionary; oxford medicine online; oxford journals full collection
-e-lehtiä
-e-lehtiä valinnan mukaan
 elektor gold membership euroopan sisällä
 elektra
+elektra 
 elektra; kansallisbibliografia
 elektra; peri+
 elektra&peri
-elektra 
 elib
 elibrary.ru venäjänkielisten lehtien tilauksia 11-13 nimekettä/vuosi
 elinkeinorakenne ja työssäkäynti
 elinkeinorakenne ja työssäkäynti; suomen tilastollinen vuosikirja
 elintarvikelait
 ellibs
+ellibs library
+ellibs web -lainausjärjestelmä
+ellibs web kirjastopalvelu
+ellibs ylläpitomaksu
 ellibs; ellibs e-kirjat
 ellibs; ellibs-web-lisenssi
 ellibs; erillisiä e-kirjaostoksia (esim. lukukertoja)
-ellibs library
 ellibsweb
-ellibs web kirjastopalvelu
-ellibs web -lainausjärjestelmä
-ellibs ylläpitomaksu
 elsevier science direct freedom collection
+em lehtipaketti
+em pak.
+em-premium
 embase
 embase; sd freedom; scopus
 embo; nature journal; nature methods; nature research; nature reviews
 embo; nature publishing group; nature journal; nature methods; nature research; nature reviews
 emerald
+emerald (mcb)
 emerald basic journal package
 emerald case studies; emerald lehtipaketti (em pak)
 emerald journals
 emerald lehtipaketti
-emerald-lehtipaketti
+emerald lehtipaketti (em pak)
 emerald lehtipaketti; emerald lisäkokoelma
 emerald lehtipaketti; emerald lisäkokoelmat
 emerald lehtipaketti; emerald lisäkokokoelmat
-emerald lehtipaketti (em pak)
 emerald lehtipaketti; lehtiä
 emerald library
 emerald management
-emerald (mcb)
 emerald publishing limited
-em lehtipaketti
-em pak.
-em-premium
-enc.britannica
+emerald-lehtipaketti
 enc. britannica
+enc.britannica
 encyclopaedia judaica
 encyclopaedia judaica; encyclopedia of religion (gvrl)
 encyclopaedia universalis
 encyclopedia britannica
-encyclopedia britannica; imagequest
 encyclopedia britannica online
+encyclopedia britannica; imagequest
 encyclopedia britannica; profinder b2b
 encyclopedia of ancient greek language and linguistics; enzyklopädie der neuzeit online; new pauly online encyclopaedia of the ancient world
 encyclopedia of applied linguistics; wiley-blackwell
@@ -675,18 +675,18 @@ environmental science and technology site license
 eportti
 epress
 epress (4 yhtäaikaista käyttäjää)
-epress; leisuretourism
 epress; leisure tourism
+epress; leisuretourism
+eri tieteenalojen viite- ja kokotekstitietokantoja
 eric; ebrary; iimp; refworks
 erilliset lehtitilaukset; librarypressdisplay; epress
-eri tieteenalojen viite- ja kokotekstitietokantoja
 ers european respiratory society
 esimiehen käsikirja; esimies fokus; juridiikka fokus; suomen laki.com; talentumin verkkokirjahylly
 esimiehen käsikirja; fokus; juridiikka online; summa; suomenlaki; talentum lehtiarkisto; verkkokirjahylly; wsoy pro; yritys online
 esimiehen käsikirja; fokus; summa; suomenlaki; talentum lehtiarkisto; verkkokirjahylly
 esimiehen käsikirja; suomen laki.com
-esimiehen työoikeus; fokus esimies; fokus juridiikka; fokus talous ja verotus; palkkahallinto; summa; suomenlaki; talentum lehtiarkisto; verkkokirjahylly
 esimiehen työoikeus -verkkokirja; verkkokirjahylly
+esimiehen työoikeus; fokus esimies; fokus juridiikka; fokus talous ja verotus; palkkahallinto; summa; suomenlaki; talentum lehtiarkisto; verkkokirjahylly
 esimiesfokus; juridiikkaonline; suomenlaki.com; yritysonline
 esimiesfokus; suomenlaki.com
 esimiesfokus; suomenlaki.com; suomenlaki.com verkkokirjat
@@ -710,16 +710,16 @@ european tax surveys; ibfd journal articles - europe
 europresse
 evaluation
 evidence based medicine reviews; lww toal access collection; nursin collection 1
-evidence based medicine reviews; lww total access collection
 evidence based medicine reviews; lww total access coll; nursing collection 1; psycarticles; yksittäisiä e-lehtiä
 evidence based medicine reviews; lww total access coll; psycarticles; psycinfo
+evidence based medicine reviews; lww total access collection
 expanding physics release 2 (e-kirjoja); iop journals archive 2001-2005
 exploration geophysics
 ezproxy
 facta
 facta-tietopalvelu
-facta-tietopalvelu; juridiikkaonline/fokus juridiikka; yritysonline/ fokus yritys
 facta-tietopalvelu; juridiikkaonline; yritysonline
+facta-tietopalvelu; juridiikkaonline/fokus juridiikka; yritysonline/ fokus yritys
 facta; yritysonline
 far
 far online
@@ -753,23 +753,19 @@ fokus juridiikka; fokus talous ja verotus; talentum lehtiarkisto; talentum verkk
 fokus juridiikka; fokus talous ja verotus; talentum summa; talentum lehtiarkisto
 fokus juridiikka; fokus talous+verotus
 fokus juridiikka; fokus talous+verotus; suomen laki
-fokus juridiikka; fokus talous+verotus; suomenlaki.com; valtiokalenteri; verkkokirjahylly
 fokus juridiikka; fokus talous+verotus; suomen laki; talentum lehtiarkisto; verkkokirjahylly
 fokus juridiikka; fokus talous+verotus; suomen laki; talentum verkkokirjahylly
 fokus juridiikka; fokus talous+verotus; suomen laki; talentum verkkokirjahylly; talentum lehtiarkisto
+fokus juridiikka; fokus talous+verotus; suomenlaki.com; valtiokalenteri; verkkokirjahylly
 fokus juridiikka; fokus tv; suomenlaki.com; talentum verkkokirjahylly
 fokus juridiikka; fokus yritys
 fokus juridiikka; fokus yritys; summa-palvelu; suomen laki -hakupalvelu; suomi-ruotsi suursanakirja; talentum-lehtiarkisto; verkkokirjahylly
 fokus juridiikka; fokus yritys; summa-palvelu; suomen laki -hakupalvelu; talentum-lehtiarkisto
 fokus juridiikka; fokus yritys; suomen laki
 fokus juridiikka; fokus yritys; suomen laki online; verkkokirjahylly
-fokus juridiikka; fokus yritys; suomenlaki; talentum lehtiarkisto; talentum verkkokirjahylly
 fokus juridiikka; fokus yritys; suomen laki; talentum pro verkkokirjat
+fokus juridiikka; fokus yritys; suomenlaki; talentum lehtiarkisto; talentum verkkokirjahylly
 fokus juridiikka; fokus yritys; talentum-lehtiarkisto
-fokus; summa lehtitimantti; verkkokirjahylly
-fokus; suomenlaki; talentum lehtiarkisto
-fokus; suomenlaki; talentum lehtiarkisto; talentum verkkokirjahylly
-fokus; talentum-lehtiarkisto
 fokus talous+verotus; kauppalehti; talentum-lehtiarkisto; verkkokirjahylly asuminen ja ympäristöoikeus; verkkokirjahylly siviilioikeus
 fokus talous+verotus; summa; talentum lehtiarkisto; verkkokirjahylly
 fokus talous+verotus; suomen laki
@@ -781,6 +777,10 @@ fokus yritys; lehtiarkisto
 fokus yritys; summa; suomenlaki.com; talentum-lehtiarkisto; verkkokirjahylly
 fokus yritys; suomenlaki.com; talentum-lehtiarkisto
 fokus yritys; talentum-lehtiarkisto
+fokus; summa lehtitimantti; verkkokirjahylly
+fokus; suomenlaki; talentum lehtiarkisto
+fokus; suomenlaki; talentum lehtiarkisto; talentum verkkokirjahylly
+fokus; talentum-lehtiarkisto
 forest science
 forskning & framsteg ruotsin ulkopuolelle
 frantext
@@ -797,8 +797,8 @@ ft.com
 ft.com premium digital
 full subscription
 gale virtual reference library (alustamaksu); illustrated london news historical archive 1842-2003; literature resource center
-gale virtual reference library gvrl
 gale virtual reference library (gvrl)
+gale virtual reference library gvrl
 gale virtual reference library vuosimaksu; lrc - literature resource center
 garland encyclopedia of world music
 garland encyclopedia of world music; oecdilibrary (ent. sourceoecd)
@@ -812,6 +812,10 @@ geoscience canada
 global books in print
 global books in print / gbip
 grammar capital -eoppikirja
+grove art online
+grove art online / grove art
+grove art online; grove music online; oxford english dictionary
+grove art online; oxford english dictionary; oxford reference online
 grove art; grove music
 grove art; grove music; oed; oro
 grove art; grove music; oro premium + literature collection + western civilization; oxford english dictionary; oxford journals full collection
@@ -819,14 +823,9 @@ grove art; grove music; oxford english dictionary
 grove art; grove music; oxford english dictionary; oxford reference online
 grove art; max planck encyclopedia; oxford english dictionary
 grove art; oed
-grove art online
-grove art online / grove art
-grove art online; grove music online; oxford english dictionary
-grove art online; oxford english dictionary; oxford reference online
 grove art; oup selected journals; oxford reference online
 grove art; oxford english dictionary
 grove dictionary of art
-grovemusic
 grove music
 grove music online
 grove music online; oxford dnb; oxford english dictionary
@@ -834,17 +833,18 @@ grove music online; oxford english dictionary
 grove music; oxford dictionary of national biography (dnb); oxford english dictionary
 grove music; oxford english dictionary; oxford handbooks
 grove music; oxford english dictionary; oxford medical handbooks; oxford textbook of medicine
+grovemusic
 grovemusic (oxford music online)
 gsa all
 gsa all online; lyell collection
 hakuteoksia
 hammaslääketieteen tietokannat; raskaus- ja imetystietokanta; sfinx-pharao -lääkeinteraktiotietokanta; sairaanhoitajan tietokannat; terveysportti
 hammaslääketieteen tietokannat; sfinx-pharao -lääkeinteraktiotietokanta; sairaanhoitajan tietokannat; terveysportti
-handbook of chemistry and physics (crc); taylor & francis library (ssh+s&t)
 handbook of chemistry & physics
 handbook of chemistry & physics (crc handbook of chemistry & physics)
 handbook of chemistry & physics; taylor & francis library
 handbook of chemistry & physics; taylor & francis library (ssh+s&t)
+handbook of chemistry and physics (crc); taylor & francis library (ssh+s&t)
 handbook of pragmatics
 handbook of translation studies online; translations studies bibliography
 handbook of translation studies; translation studies bibliography
@@ -852,23 +852,23 @@ handbooks in economics series; paperchem; sciencedirect freedom collection; scop
 handbooks in economics series; sciencedirect freedom collection
 harvard business review
 heinonline
-heinonline academic core collection; index to foreign legal periodicals
-heinonline: index to foreign legal periodicals
 heinonline (law journal library; legal classics )
 heinonline (law journal library&legal classics)
+heinonline academic core collection; index to foreign legal periodicals
+heinonline: index to foreign legal periodicals
 helda; medic
 helecon (asia ja mix) ja tenttu
-heleconmix
+helecon (mix) & tenttu
 helecon mix
 helecon mix; helecon tietokanavat
-helecon (mix) & tenttu
 helecon mix; tenttu
 helecon-mix; tenttu
-heleconmix/tenttu
 helecon; tenttu
+heleconmix
+heleconmix/tenttu
 helsingin sanomat
-helsingin sanomat; helsingin sanomat arkisto
 helsingin sanomat näköislehti
+helsingin sanomat; helsingin sanomat arkisto
 helsingin sanomien arkisto
 highwire
 highwire; epress; useita yksittäisiä e-lehtiä eri kustantajilta
@@ -882,58 +882,58 @@ historical abstracts; ieeeenterprise; military & government vollection; politica
 history e-book/acls humanities e-book
 holocene
 hs arkisto
-hs-arkisto
-hs-arkisto ja päivän lehti
 hs arkisto + verkkolehti
 hs digi
 hs digilehti
 hs päivän lehden arkisto
 hs päivän lehti
+hs päivän lehti ja arkisto
 hs päivän lehti; hs arkisto
 hs päivän lehti; hs-arkisto
-hs päivän lehti ja arkisto
+hs-arkisto
+hs-arkisto ja päivän lehti
 hs-verkkolehti
 humanities e-book
+i-law
 i3e
 ibfd european tax surveys; online
 idunn no
+ieee standard drafts; ieee/iet electronic library (iel)
+ieee transactions on geoscience and remote sensing
 ieee/iet
 ieee/iet electronic library
 ieee/iet electronic library (iel)
 ieee/iet electronic library (iel) / iel
-ieee standard drafts; ieee/iet electronic library (iel)
-ieee transactions on geoscience and remote sensing
 iel
-iel-online
 iel online / ieee xplore
 iel online/ieee xplore
+iel-online
 ifrs standardit
 ihs jane's; psi online; sd & ss
 iisalmen sanomat
 iisalmen sanomat näköislehti; savon sanomat näköislehti; warkauden lehti näköislehti
-i-law
 ilibrary
 ilmailu määräaikainen suomen sisällä 2 kertaa
 imb, bcm
 imf economic review
 imf publications
 immatériel
+in principio (online); international encyclopaedia for the middle ages-online (iema) & lexicon des mittelalters (lexma); international medieval bibliography online - imb; the database of latin dictionaries (dld)
 inderscience enterprises ltd
 index to theses with abstracts accepted for higher degrees by the universities of great britain and ireland
 informa healthcare
 informs
-infra; kh; klara; lvi; ratu; rt
 infra net; infraryl net; kh net; kiinteistöryl; klara net; lvi net; rt net; rt-rakennusselostus net; ratu net; sit net
 infra net; infraryl net; kh net; kiinteistöryl; lvi net; rt net; rt-rakennusselostus net; ratu net; sit net
 infra net; kh net; klara net; lvi net; rt net; ratu net
 infra net; kh net; lvi net; rt net; ratu net
+infra; kh; klara; lvi; ratu; rt
 infraryl; kh; ratu; lvi; rt
-in principio (online); international encyclopaedia for the middle ages-online (iema) & lexicon des mittelalters (lexma); international medieval bibliography online - imb; the database of latin dictionaries (dld)
 inspec
 inspec; jbi complete; nursing collection 1; ovid licence
 integrum
-integrum database : internet
 integrum (full subscription package
+integrum database : internet
 integrum profi
 international encyclopaedia for the middle ages; lexikon des mittelalters online; library of latin texts
 international encyclopaedia of laws : environmental law
@@ -953,13 +953,13 @@ international tax and finance
 iop
 iop journals (selection)
 iop package d/physics in medicine & biology ja physiological measurement
-iopscience extra
 iop selected journals
+iopscience extra
 ios journal collection
 ios press
+ip-tunniste; infra net; kh net; klara.net; lvi net; rt net; ratu net
 ipa
 ipa source
-ip-tunniste; infra net; kh net; klara.net; lvi net; rt net; ratu net
 isi web of science; westlaw international
 iso-710
 iso-standardeja; sfs
@@ -971,6 +971,7 @@ jama c-w ama journals online collection
 jama journals collection
 jbc
 jbi
+jbi complet; nursing 1 & 2; ovid
 jbi complete
 jbi complete; licence; nursing 1
 jbi complete; links@ovid; medline
@@ -984,7 +985,6 @@ jbi complete; nursing collection 1; ovid licence
 jbi complete; nursing collection 1; visible body (turun amk:n hankkimat sisällöt)
 jbi complete; nursing full text plus
 jbi complete; psycarticl
-jbi complet; nursing 1 & 2; ovid
 jbi connect
 jbi connect; ovid licence; ovid nc1
 jbi; link@ovid; medline; nursing 1
@@ -994,16 +994,16 @@ joanna briggs institute
 joanna briggs institute complete; lww total acess collection (ovid)
 joanna briggs institute ebp
 johtamisen käsikirjat
-johtamisen käsikirjat/bonnier pro (kirjojen määrä vaihtelee)
 johtamisen käsikirjat; kauppalehti online
+johtamisen käsikirjat/bonnier pro (kirjojen määrä vaihtelee)
 journal and highly cited data; web of science
 journal backfiles; sage premier
 journal of aerosol science part of science direct core holdings
 journal of agricultural and food chemistry
 journal of animal science
 journal of applied meteorology and climatology corporation and institution member price
-journal of atmospheric and oceanic technology corporation and institution member price
 journal of atmospheric & solar-terrestrial physics
+journal of atmospheric and oceanic technology corporation and institution member price
 journal of business and economic statistical; journal of the american association
 journal of climate corporation and institution member price
 journal of glaciology muut maat sis. eurooppa
@@ -1024,41 +1024,41 @@ jove journal of visualized experiements; jove science education videos
 jstor
 jstor arts & sciences 2; jstor arts & sciences 3; jstor arts & sciences 4; jstor arts & sciences i; jstor: biol.sci.
 jstor i; jstor iv
+juridiikka online
+juridiikka online; wsoy pro; yritys online
+juridiikka; talentum-lehtiarkisto; yritysonline
+juridiikka; yritysonline
 juridiikkanonline; talentum lehtiarkisto; yritysonline
 juridiikkanonline; wsoy pro; yritysonline
 juridiikkanonline; yritysonline
-juridiikka online
-juridiikkaonline/fokus juridiikka; yritysonline/ fokus yritys
-juridiikkaonline; suomenlaki.com; yritysonline
-juridiikkaonline; suomenlaki.com; yritysonline; sanakirjoja
 juridiikkaonline; suomen laki; talentum-lehtiarkisto; yritysonline
 juridiikkaonline; suomen laki; yritysonline
+juridiikkaonline; suomenlaki.com; yritysonline
+juridiikkaonline; suomenlaki.com; yritysonline; sanakirjoja
 juridiikkaonline; verkkokirjahylly; yritysonline
 juridiikkaonline; verkkokirjakokoelma; yritysonline
-juridiikka online; wsoy pro; yritys online
 juridiikkaonline; wsoy pro; yritysonline
 juridiikkaonline; yritysonline
-juridiikka; talentum-lehtiarkisto; yritysonline
-juridiikka; yritysonline
+juridiikkaonline/fokus juridiikka; yritysonline/ fokus yritys
 jurisclasseurs
 kansallisbiografia
+kansallisbiografia (&talouselämän vaikuttajat 2014-)
+kansallisbiografia (talouselämän vaikuttajat sisältyy hintaan)
 kansallisbiografia suomen talouselämän vaikuttajat
 kansallisbiografia; suomen talouselämän vaikuttajat
 kansallisbiografia; talouselämän vaikuttajat
-kansallisbiografia (&talouselämän vaikuttajat 2014-)
-kansallisbiografia (talouselämän vaikuttajat sisältyy hintaan)
 karnov juridik
-kauppakamaritieto
 kauppakamari tieto
+kauppakamaritieto
 kauppaleht
+kauppaleht online
 kauppalehti
 kauppalehti online
 kauppalehti online; eportti
 kauppalehti online; suomen media-arkisto
-kauppaleht online
 kausijulkaisuja
-kausijulkaisuja eri kustantajilta ja julkaisijoilta
 kausijulkaisuja & viite- ja kokotekstitietokantoja eri kustantajilta
+kausijulkaisuja eri kustantajilta ja julkaisijoilta
 kb; tev
 kh net; lvi net
 kh net; lvi net; rt net; ratu net
@@ -1077,14 +1077,15 @@ knovel
 knovel; sciecedirect freedom; scopus
 knovel; science direct freedom col
 knovel; sd freedom collection
-knowledge unlatsced
 know pap & pulp; know timber
+knowledge unlatsced
 kohdistamiskone
 kohdistamiskone b2b
 kompass
 kosmet
 kritische lexikon zur fremdsprachigen gegenwartsliteratur (klg)
 kritisches lexikon zur deutschsprachigen gegenwartsliteratur (klg)
+l'harmathèque
 laadullinen tutkimus; pressreader
 lääkärin tietokannat: terveysportti
 lab on a chip
@@ -1094,11 +1095,11 @@ landguiden
 lapin kansa; pohjolan sanomat
 lecture notes in business information processing; springer link & kluwer
 lecture notes in computer science; new palgrave dictionary of economics; springer link
-lecture notes in computer science; springerlink
 lecture notes in computer science; springer link
 lecture notes in computer science; springer link & kluwer
 lecture notes in computer science; springer link; the new palgrave dictionary of economics online
 lecture notes in computer science; springer link; zentralblattmath; e-kirjapaketti kertaosotona; lehtiarkistot kertaostona
+lecture notes in computer science; springerlink
 lectures notes in computer science (lncs); springerlink
 ledarskap
 lehtiä
@@ -1114,7 +1115,6 @@ lexikon des mittelalters online ja international encyclopaedia for the middle ag
 lexisnexis
 lexisnexis academic
 lextenso
-l'harmathèque
 libguides
 library pressdisplay
 library pressdisplay; epress
@@ -1151,23 +1151,23 @@ marketline
 marketline; i-law
 martindale
 mary ann liebert journal collection
-materialconnection
 material connexion
+materialconnection
 matheduc database
 mathematics education database
 mathscinet
 mcb emerald
 medearkivet
 medic
-medicinescomplete
-medici.tv
 medic www
+medici.tv
+medicinescomplete
 mediearkivet
 membership dues
 merck index; rsc gold
 merck index; rsc gold journal package
-meteorological applications (ddp consortia price) euroopan sisällä
 meteorological & geoastrophysical abstracts
+meteorological applications (ddp consortia price) euroopan sisällä
 metinfo
 metsälehti arkisto
 metsänhoitokortisto
@@ -1179,9 +1179,9 @@ mil platform fee
 mineralogical magazine
 mit press journals
 mix
+mix (v. 2012 eteenpäin kaikki helecon-tietokannat)
 mix; online-tietokanavat; tenttu
 mix; scima
-mix (v. 2012 eteenpäin kaikki helecon-tietokannat)
 mla international bibliography
 mla international bibliography; pq complete collection; pq social sciences premium collection; proquest central; refworks; ulrichsweb
 mla modern language association
@@ -1195,103 +1195,104 @@ mot kielentarkistin; mot ylläpito
 mot kielitoimiston oikeikirjoitusopas; mot ylläpito
 mot kielitoimiston oikeinkirjoitusopas; mot oxford-sanakirjat; mot proofing kielentarkistin; mot termlink; mot sanakirjat wsoy su-ra & su-ru-su (ylläpitomaksu); mot-sanastojen ylläpito; mot-translation suomi-englanti; ylläpito
 mot kielitoimiston oikeinkirjoitusopas; mot oxford-sanakirjojen ylläpito; mot termlink
-mot kielitoimiston oikeinkirjoitusopas; mot proofing kielentarkistin; mot-sanastojen ylläpito; mot-translation suomi-englanti
 mot kielitoimiston oikeinkirjoitusopas; mot proofing kielentarkistin; mot termlink; mot-sanastojen ylläpito; mot-translation suomi-englanti
+mot kielitoimiston oikeinkirjoitusopas; mot proofing kielentarkistin; mot-sanastojen ylläpito; mot-translation suomi-englanti
 mot kielitoimiston oikeinkirjoitusopas; mot proofing; mot sanasto; mot ylläpito
 mot kielitoimiston oikeinkirjoitusopas; mot proofing; mot translation; mot ylläpito
 mot kokonaispalvelu
 mot oikeinkirjoitusopas; mot proofing; mot tranlation; mot ylläpito
+mot pro englanti; mot proofing; mot translation; mot pro ruotsi
+mot proofin; mot ylläpito; motsanasto; translation
+mot proofing
+mot proofing /; mot ylläpito
+mot proofing kielentarkistin; mot-sanastojen ylläpito; mot-translation suomi-englanti
+mot proofing; mot kielentarkistin; mot ylläpito
+mot proofing; mot sanasto; mot translation; mot ylläpito
+mot proofing; mot sanasto; mot ylläpito
+mot proofing; mot sanastot; mot ylläpito
+mot proofing; mot translation; mot ylläpito
+mot proofing; mot ylläpito
+mot proofing; mot ylläpito; translation
+mot proofing;mot sanasto;mot ylläpito
+mot sanakirjat
+mot termlink; proofing
+mot wsoy fi-sv-fi; mot ylläpito; motsanasto
+mot ylläpito
+mot ylläpito; mot sanasto
+mot ylläpito; mot suomi-ruotsi-suomi
+mot ylläpito; motsanasto
+mot yp
 mot-paketti: sanakirjat/lisenssi; laajennus tämän jälkeen -> hinta-erot); ylläpito + kielentarkistin + sanastot (vuoteen 2012 asti ns. peruspaketti
 mot-paketti: sanakirjat/lisenssi; motproofing & online; laajennus tämän jälkeen -> hinta-erot); ylläpito + kielentarkistin + sanastot (vuoteen 2012 asti ns. peruspaketti
 mot-palvelu
 mot-palvelut
 mot-palvelut: sanakirjat
 mot-palvelut: sanakirjat; proofing
-mot pro englanti; mot proofing; mot translation; mot pro ruotsi
-mot proofing
-mot proofing kielentarkistin; mot-sanastojen ylläpito; mot-translation suomi-englanti
-mot proofing; mot kielentarkistin; mot ylläpito
-mot proofing; mot sanasto; mot translation; mot ylläpito
-mot proofing; mot sanasto; mot ylläpito
-mot proofing;mot sanasto;mot ylläpito
-mot proofing; mot sanastot; mot ylläpito
-mot proofing; mot translation; mot ylläpito
-mot proofing /; mot ylläpito
-mot proofing; mot ylläpito
-mot proofing; mot ylläpito; translation
-mot proofin; mot ylläpito; motsanasto; translation
 mot-sanakirjasto
-mot sanakirjat
 mot-sanakirjat
 mot-sanakirjojen ylläpito
-motsanasto
-mot termlink; proofing
-mot-uusia tietokantoja; mot-ylläpito
 mot-uusi tietokanta; mot-ylläpito
-mot wsoy fi-sv-fi; mot ylläpito; motsanasto
-mot ylläpito
+mot-uusia tietokantoja; mot-ylläpito
 mot-ylläpito
-mot ylläpito; motsanasto
-mot ylläpito; mot sanasto
-mot ylläpito; mot suomi-ruotsi-suomi
-mot yp
-mpdclick
+motsanasto
 mpd click
+mpdclick
 msi reports
 msp math package 
 music collection
-music-in-print
 music online
+music-in-print
 myilibrary-alusta
 myilibrary-lisenssi (vuosimaksu alustasta)
+n res; n rev; natj
 national academy of sciences
+national institute economic review; public finance review
 nationalencyclopedin
 nationalencyklopedin
-national institute economic review; public finance review
 native plants journal
 natj
 nature
+nature (weekly); nature geoscience; nature methods; nature research (paketti 1); nature reviews (paketit 1-3)
+nature (weekly); nature methods; nature research (paketti 1); nature reviews (paketit 1-3)
 nature chemistry; nature energy; nature journal; nature methods; nature research; nature reviews
 nature chemistry; nature geoscience; nature journal; nature methods; nature research; nature reviews; nature reviews + climate change
 nature chemistry; nature journal
+nature chemistry; nature journal (nature weekly); nature research
 nature chemistry; nature journal; nature methods; nature research; nature reviews
 nature chemistry; nature journal; nature research
-nature chemistry; nature journal (nature weekly); nature research
-nature climate change; nature journal
 nature climate change (site license)
+nature climate change; nature journal
 nature geoscience; nature journal
 nature geoscience; nature journal; nature methods; nature research; nature reviews
 nature geoscience; nature journal; nature methods; nature research; nature reviews; nature archive: 1950-1986 ja 1987-1996
 nature ja nature geoscience
 nature journal
 nature journal -arkisto kertaostona; nature-; nature research-; nature reviews -lehtiä
+nature journal (weekly)
+nature journal (weekly); nature methods
+nature journal (weekly); nature research; nature reviews
 nature journal; nature methods; nature publishin group online package; nature research; nature reviews
 nature journal; nature methods; nature research
 nature journal; nature methods; nature research; nature reviews
 nature journal; nature research
 nature journal; nature research; nature reviews
 nature journal; nature research; nature reviews; embo
-nature journal (weekly)
-nature journal (weekly); nature methods
-nature journal (weekly); nature research; nature reviews
 nature methods; nature journal
-nature; nature research; nature reviews
-nature; nature research -paketti 1; nature reviews -paketti 1
 nature publishing group; nature geoscience ; nature journal; nature methods; nature research; nature reviews
 nature research; nature reviews; nature journal
 nature weekly
-nature (weekly); nature geoscience; nature methods; nature research (paketti 1); nature reviews (paketit 1-3)
-nature (weekly); nature methods; nature research (paketti 1); nature reviews (paketit 1-3)
+nature; nature research -paketti 1; nature reviews -paketti 1
+nature; nature research; nature reviews
 navis 
+naxos (music library & works database & video library)
 naxos music library
 naxos music library & jazz & video
-naxos (music library & works database & video library)
 nber
 nber full subscription
-nber working papers
 nber working paper series
-nejm new england journal of medicine
+nber working papers
 ne.se
+nejm new england journal of medicine
 neuwonen
 new palgrave dictionary
 new palgrave dictionary of economics; scientific american
@@ -1301,7 +1302,6 @@ new scientist euroopan sisällä
 ngeo; natj
 nora; science  as culture
 nordic pulp & paper
-n res; n rev; natj
 numérique premium
 nursing
 nursing 1
@@ -1315,28 +1315,28 @@ nutrition care manual; pediatric nutrition care manual
 ocean modelling euroopan sisällä
 oceanside publications inc.
 oecd health statistics
-oecdilib
-oecdilibrary
 oecd ilibrary
 oecd ilibrary / oecdilib
-oecd ilibrary: social issues/migration/health
 oecd ilibrary; urkund
+oecd ilibrary: social issues/migration/health
 oecd source/ilibrary
+oecdilib
+oecdilibrary
 oed
 oed; oro; oso+oho; oxford dictionary of national biography
 oikeuskirjoja
 online egyptological bibliography (oeb) aiemmin: annual egyptological bibliography (aeb)
 online focus; summa-palvelu; suomenlaki.com; yrityskaupat.com
-onlinekortistot
 online library
+onlinekortistot
 open book publishers` library membership programme
 open edition freemium for books 2016
 oppiportti
-oppiportti e-kirjapaketti; terveysportti
 oppiportti (kirjojen määrä vaihtelee); terveysportti
+oppiportti (turun amk:n hankkimat sisällöt); terveysportti (turun amk:n hankkimat sisällöt)
+oppiportti e-kirjapaketti; terveysportti
 oppiportti; terveysportti
 oppiportti; terveysportti (turun amk:n hankkimat sisällöt)
-oppiportti (turun amk:n hankkimat sisällöt); terveysportti (turun amk:n hankkimat sisällöt)
 oppiportti; työterveys ja kuntoutus -tietokanta
 optical society of america
 optics infobase
@@ -1347,8 +1347,8 @@ ornanet tietotekniikkaoppaat
 ostettu takautuvat vuodet 1975 -; web of knowledge -tietokannat
 otdbase
 ovid licence
-ovid licence; ovid nc1
 ovid licence; ovid nc 2; ovid nc1
+ovid licence; ovid nc1
 ovid nc1
 oxford english dctionary (oed)
 oxford english dctionary (oed); oxford reference online
@@ -1381,16 +1381,16 @@ pluto press
 pq central; pq technology collection; refworks; ulrichsweb
 premier
 premier; sage; sage reseach methods  online
-pressdisplay
 press display; nyk. pressreader
+pressdisplay
 pressdisplay (pressreader)
 pressdisplay/pressreader
 pressdisplay/reader
 pressread
 pressread; epress
 pressreader
-pressreader; epress (2011 lähtien)
 pressreader / pressread
+pressreader; epress (2011 lähtien)
 proceedings of the pnas
 project muse
 project muse premium
@@ -1399,9 +1399,9 @@ prola
 prola (physical review online archive)
 proquest dialog perusmaksu; refworks; social sciences premium collection
 proquest; psycinfo
-psk:n jäsenmaksu
 psk standardit
 psk-standardit
+psk:n jäsenmaksu
 psycarticles
 psycarticles; psycinfo
 psycarticles; refworks; ebrary academic collection; ebrary pda
@@ -1441,8 +1441,8 @@ royal society of chemistry gold journals
 rsc gold
 rsc journals
 rsc selected journals
-rt-kortistot
 rt net
+rt-kortistot
 rt-net
 rt-net); rt-kortisto (kh-net; ratu-net
 rusgate
@@ -1450,17 +1450,17 @@ safari
 sage knowledge; sage premier 2010 collection; sage research methods online
 sage management & organization studies
 sage premier
-sage-premier
+sage premier -tietokanta
 sage premier 2011; sage selected journals
 sage premier; org tuki
 sage premier; sage
 sage premier; sage backfiles (ylläpitomaksu); org tuki
 sage premier; sage research methods online
 sage premier; sage research methods online; sage research methods online
-sage premier -tietokanta
 sage premium
 sage publications ltd
 sage research methods online
+sage-premier
 sähköinfo severi
 sähköverkkoekstra
 sähköverkkoextra
@@ -1474,23 +1474,21 @@ sanomapro juridiikka; sanomapro yritysonline
 sanomapro juridiikka; sanomapro yritysonline; verkkokirjahylly
 sanomapro yritysonline
 savon sanomat
+sci exp; sci online
+sci online
 science
-science and medicine inc.
 science  as culture
+science and medicine inc.
 science classic; science express; science online
 science classic; science express; science online; science signaling; science translational medicine
 science classic; science online
 science classic; science online; science signaling
-sciencedirect
 science direct
-sciencedirect freedom
 science direct freedom col
 science direct freedom collction
 science direct freedom collection
-science direct, freedom collection
-sciencedirect freedom collection
 science direct freedom collection (elsevier)
-sciencedirect; scopus
+science direct, freedom collection
 science et vie avec hors serie eurooppa 2 kertaa
 science express; science online
 science express; science online; science signaling; science classis (ylläpitomaksu)
@@ -1499,24 +1497,26 @@ science express; science online; science translational medicine
 science magazine online
 science magazine online + science express
 science online
+science online (sol) site licence / incl science express
 science online; science signaling
 science online; science signaling; science translational medicine 
-science online (sol) site licence / incl science express
 science; science classic
 science; science classic; science express
 science; science classic; science express; science signaling; science translational medicine
 science; science express
 science; science translational medicine
-sciences collection of 37 annual reviews
 science; translational medicine; signaling
+sciencedirect
+sciencedirect freedom
+sciencedirect freedom collection
+sciencedirect; scopus
+sciences collection of 37 annual reviews
 scientific american individual order muut maat sis. eurooppa
-sci exp; sci online
 scifincer scholar
 scifinder
 scifinder (chemical abstracts)
 scima
 scince direct freedom
-sci online
 scoap3
 scopus
 sd college ed. journal coll. health and life sci. & physical sci.
@@ -1529,10 +1529,10 @@ severi sähköinfo
 severi sähköinfo: st-kortisto ja turvakansio
 sfs
 sfs online
-sfs-online
-sfs onlineen yksittäin hankitut standardit
 sfs online; sfs online - iso standareja
+sfs onlineen yksittäin hankitut standardit
 sfs yksittäiset standardit
+sfs-online
 skillsoft library
 skillsoft library licence
 snl real estate
@@ -1545,82 +1545,82 @@ spie; spie ebooks
 sportbusiness
 sportdiscus
 springer
-springerl
-springerlink
 springer link
-springer-link
-springer link; ebook package - earth & environmental science
 springer link & kluwer
+springer link; ebook package - earth & environmental science
 springer link; springer: lecture notes in computer science
 springer nature publishing group; springer link
+springer-link
+springerl
+springerlink
 ssrn
+st verkkoversio
 st-akatemia
-st-akatemian online kirjahylly
 st-akatemia online
+st-akatemian online kirjahylly
+st-kortisto
 stamdardit
 standardit
 statistisk översikt
-st-kortisto
 stratfor
 stv
-st verkkoversio
 stv; tilastokatsaus
 subject collections
 summa
 summon web -scale discovery service
 suomen laki
-suomen laki.com
-suomenlaki.com
-suomenlaki.com; talentum-lehtiarkisto
-suomenlaki.com; valtiokalenteri; yritys&juridikkaonline/talentumfokus
-suomen laki hakupalvelu
 suomen laki -hakupalvelu
 suomen laki -hakupalvelu; talentum fokus (juridiikka & yritys); talentum verkkokirjahylly
 suomen laki -hakupalvelu; talentum lehtiarkisto
-suomenlaki -hakupalvelu; talentum-lehtiarkisto
 suomen laki -hakupalvelu; verkkokirjahylly
+suomen laki hakupalvelu
 suomen laki online; verkkokirjahylly
 suomen laki; talentum lehtiarkisto
 suomen laki; talentum-lehtiarkisto
-suomenlaki; talentum lehtiarkisto
+suomen laki.com
 suomen media-arkisto
 suomen media-arkisto / sma
 suomen talouselämän vaikuttajat
 suomen tilastollinen vuosikerta
 suomen tilastollinen vuosikirja
+suomenlaki -hakupalvelu; talentum-lehtiarkisto
+suomenlaki; talentum lehtiarkisto
+suomenlaki.com
+suomenlaki.com; talentum-lehtiarkisto
+suomenlaki.com; valtiokalenteri; yritys&juridikkaonline/talentumfokus
 supporter membership
 svar
 svar - digitala forskarsalen
 svar - svensk arkivinformation
 svar svensk arkivinformation
 svenska skrivregler
+t&f online journal library
 talentum
 talentum fokus (juridiikka & yritys); talentum verkkokirjahylly
 talentum l
-talentum lehtiarkisto
-talentum-lehtiarkisto
 talentum l; yritysonline
+talentum lehtiarkisto
 talentum verkkokirjahylly
+talentum-lehtiarkisto
 talouselämän vaikuttajat
 tax notes international
+taylor & francis -tietokanta
 taylor & francis informa uk ltd
 taylor & francis lehtipaketti
 taylor & francis lehtipaketti (10%)
 taylor & francis library (ssh+s&t)
 taylor & francis online journal library
-taylor&francis online journal library
 taylor & francis online library
 taylor & francis social science & humanities library / t&f ssh
-taylor & francis -tietokanta
+taylor&francis online journal library
 techniques de l'ingénieur
 tekniikan maailma kestotilaus suomen sisällä
 tekniikka ja talous kestotilaus
 tenttu
 terveysjuridiik; verkkokirjasto
 terveysportti
-terveysportti + oppiportti
 terveysportti (turun amk:n hankkimat sisällöt)
-t&f online journal library
+terveysportti + oppiportti
 the business & management collection
 the economic journal
 the financial times
@@ -1638,8 +1638,8 @@ tilastokatsaus
 tilastollinen vuosikirja
 times digital archive
 tivi (entinen tietokone) kestotilaus (suomi) 2 kertaa
-translations studies bibliography
 translation studies bibliography
+translations studies bibliography
 udc online
 ulkomaankaupan verkkopalvelu
 ullmann's encyclopedia of industrial chemistry; wiley online journals
@@ -1657,38 +1657,38 @@ viite & hakuteos & kokotekstietokannat:  tilattu useilta kotimaiselta ja kansain
 viite- ja kokotekstitietokantoja & kausijulkaisuja
 viite- ja kokotekstitietokantoja & kausijulkaisuja & e-kirjoja
 visible body
-voitto+
-voitto cdrom
 voitto cd rom
+voitto cdrom
+voitto+
 vulnus fennica
 warc
 warkauden lehti
-weather and forecasting corporation and institution member price
-weather & climate and society corporation and institutional member eurooppa
 weather (ddp consortia price) euroopan sisällä
+weather & climate and society corporation and institutional member eurooppa
+weather and forecasting corporation and institution member price
 weather euroopan sisällä
 weatherwise euroopan sisällä
-web-facta/facta-tietopalvelu; yritys&juridikkaonline/talentumfokus
 web of knowledge
 web of knowledge -tietokannat
 web of science
+web of science / wos
 web of science; westlaw
 web of science; westlaw international
-web of science / wos
+web-facta/facta-tietopalvelu; yritys&juridikkaonline/talentumfokus
 wgsn
 wgsn fashion
-wiley-blac
 wiley blackwell
-wiley-blackwell
-wiley-blackwell (2;6%)
-wiley-blackwell; e-lehtiä; hakuteoksia; lehtiarkistoja kertaostona
-wiley-blackwell (wiley journals)
-wiley-blacwell
 wiley core/custom collection
 wiley full collection
 wiley interscience -tietokanta. myöhemmin wiley-blackwell
 wiley online
 wiley selected journals; wiley-blackwell
+wiley-blac
+wiley-blackwell
+wiley-blackwell (2;6%)
+wiley-blackwell (wiley journals)
+wiley-blackwell; e-lehtiä; hakuteoksia; lehtiarkistoja kertaostona
+wiley-blacwell
 wilson art full text
 wind engineering muut maat sis. eurooppa
 wolters kluwer health ovid technologies

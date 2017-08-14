@@ -169,7 +169,9 @@ for (varname in vars) {
 
 
 ```{r rankingeter, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=14, fig.height=5, fig.show = "hold", out.width = "290px"}
+
 # Ranking variables
+
 vars <- as.character(eter.fields$code)
 
 # Merge cost and ranking data

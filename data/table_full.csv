@@ -699,6 +699,8 @@ Finland	2010	Oulu University of Applied Sciences	PSK Standardisointiyhdistys	psk
 Finland	2010	Seinäjoki University of Applied Sciences (SeAMK)	PSK Standardisointiyhdistys	psk standardit	reference resource	554.533365718082	500	417.968988276056	500
 Finland	2010	Tampere University of Applied Sciences (TAMK)	PSK Standardisointiyhdistys	psk-standardit	other	446.953892768774	403	336.883004550501	403
 Finland	2010	Tampere University of Technology	PSK Standardisointiyhdistys	psk-standardit	reference resource	554.533365718082	500	417.968988276056	500
+Finland	2010	University of Helsinki	R.R. Bowker	global books in print	reference resource	3377.10819722312	3045	2545.43113860118	3045
+Finland	2010	University of Eastern Finland	R.R. Bowker	global books in print / gbip	reference resource	3377.10819722312	3045	2545.43113860118	3045
 Finland	2010	Aalto University	Rakennustieto	lvi- ratu ja rt- kortistot	other electronic service	3403.72579877759	3069	2565.49365003843	3069
 Finland	2010	Kymenlaakso University of Applied Sciences (KyAMK)	Rakennustieto	rt-net); rt-kortisto (kh-net; ratu-net	reference resource	877.271784566006	791	661.22693945272	791
 Finland	2010	Oulu University of Applied Sciences	Rakennustieto	infra; kh; klara; lvi; ratu; rt	reference resource	4103.54690631381	3700	3092.97051324281	3700
@@ -714,8 +716,6 @@ Finland	2010	Diaconia University of Applied Sciences (Diak)	Royal Adelaide Hospi
 Finland	2010	Häme University of Applied Sciences (HAMK)	Royal Adelaide Hospital	jbi complete	full text materials	763.037911228081	688	575.125327867852	688
 Finland	2010	Karelia University of Applied Sciences	Royal Adelaide Hospital	jbi complete	full text materials	740.856576599357	668	558.40656833681	668
 Finland	2010	University of Oulu	Royal Society of Chemistry (RSC)	merck index; rsc gold journal package	full text materials; reference resource	27190.9890546204	24517	20494.6913711281	24517
-Finland	2010	University of Helsinki	R.R. Bowker	global books in print	reference resource	3377.10819722312	3045	2545.43113860118	3045
-Finland	2010	University of Eastern Finland	R.R. Bowker	global books in print / gbip	reference resource	3377.10819722312	3045	2545.43113860118	3045
 Finland	2010	Aalto University	Sage	sage management & organization studies	full text materials	17147.2807347345	15461	12924.4370554722	15461
 Finland	2010	Arcada University of Applied Sciences	Sage	sage-premier	full text materials	5937.94328010922	5354	4475.61192646	5354
 Finland	2010	Centria University of Applied Sciences	Sage	sage premium	full text materials	10833.3638326684	9768	8165.44215496102	9768
@@ -1636,6 +1636,8 @@ Finland	2011	Oulu University of Applied Sciences	PSK Standardisointiyhdistys	psk
 Finland	2011	Seinäjoki University of Applied Sciences (SeAMK)	PSK Standardisointiyhdistys	psk standardit	reference resource	554.533365718082	500	417.968988276056	500
 Finland	2011	Tampere University of Applied Sciences (TAMK)	PSK Standardisointiyhdistys	psk-standardit	other	446.953892768774	403	336.883004550501	403
 Finland	2011	Tampere University of Technology	PSK Standardisointiyhdistys	psk-standardit	reference resource	554.533365718082	500	417.968988276056	500
+Finland	2011	University of Helsinki	R.R. Bowker	global books in print	reference resource	3404.83486550902	3070	2566.32958801498	3070
+Finland	2011	University of Eastern Finland	R.R. Bowker	global books in print / gbip	reference resource	3404.83486550902	3070	2566.32958801498	3070
 Finland	2011	Aalto University	Rakennustieto	lvi- ratu ja rt- kortistot	other electronic service	1465.07715222717	1321	1104.27406702534	1321
 Finland	2011	Jyväskylä University of Applied Sciences (JAMK)	Rakennustieto	onlinekortistot	reference resource	2259.16893193547	2037	1702.80565823665	2037
 Finland	2011	Kymenlaakso University of Applied Sciences (KyAMK)	Rakennustieto	rt-net); rt-kortisto (kh-net; ratu-net	reference resource	1960.82998117914	1768	1477.93834254413	1768
@@ -1653,8 +1655,6 @@ Finland	2011	Diaconia University of Applied Sciences (Diak)	Royal Adelaide Hospi
 Finland	2011	Häme University of Applied Sciences (HAMK)	Royal Adelaide Hospital	jbi complete	full text materials	763.037911228081	688	575.125327867852	688
 Finland	2011	Karelia University of Applied Sciences	Royal Adelaide Hospital	jbi complete	full text materials	740.856576599357	668	558.40656833681	668
 Finland	2011	University of Oulu	Royal Society of Chemistry (RSC)	merck index; rsc gold journal package	full text materials; reference resource	31949.994399213	28808	24081.7012285132	28808
-Finland	2011	University of Helsinki	R.R. Bowker	global books in print	reference resource	3404.83486550902	3070	2566.32958801498	3070
-Finland	2011	University of Eastern Finland	R.R. Bowker	global books in print / gbip	reference resource	3404.83486550902	3070	2566.32958801498	3070
 Finland	2011	Aalto University	Sage	sage premier	full text materials	45503.8989240944	41029	34297.6992399566	41029
 Finland	2011	Arcada University of Applied Sciences	Sage	sage-premier	full text materials	5811.5096727255	5240	4380.31499713306	5240
 Finland	2011	Centria University of Applied Sciences	Sage	sage premium	full text materials	10603.7870192612	9561	7992.40299381474	9561
@@ -1808,6 +1808,7 @@ Finland	2011	University of Vaasa	Tilastokeskus	tilastokatsaus	reference resource
 Finland	2011	Åbo Akademi University	Tilastokeskus	altika; astika; suomen tilastollinen vuosikirja	reference resource	9909.51124538212	8935	7469.10582049311	8935
 Finland	2011	Aalto University	Tutkimus- ja Analysointikeskus TAK	rusgate	full text materials	1650.29129637701	1488	1243.87570910954	1488
 Finland	2011	Kymenlaakso University of Applied Sciences (KyAMK)	Tutkimus- ja Analysointikeskus TAK	rusgate	other electronic service	1650.29129637701	1488	1243.87570910954	1488
+Finland	2011	Aalto University	UN Publ.	comtrade	other electronic service	3743.10021859705	3375	2821.29067086337	3375
 Finland	2011	Arcada University of Applied Sciences	University of Helsinki	medic www	reference resource	1572.65662517648	1418	1185.36005075089	1418
 Finland	2011	Centria University of Applied Sciences	University of Helsinki	medic	reference database	1572.65662517648	1418	1185.36005075089	1418
 Finland	2011	Diaconia University of Applied Sciences (Diak)	University of Helsinki	medic	reference database	489.098428563348	441	368.648647659481	441
@@ -1834,7 +1835,6 @@ Finland	2011	VAMK University of Applied Sciences	University of Helsinki	medic	re
 Finland	2011	Novia University of Applied Sciences	University of Helsinki	medic	reference database	1886.52251017291	1701	1421.93049811514	1701
 Finland	2011	Åbo Akademi University	University of Helsinki	medic	reference database	2305.74973465578	2079	1737.91505325184	2079
 Finland	2011	National Library	University of Oxford Oriental Studies Faculty	online egyptological bibliography (oeb) aiemmin: annual egyptological bibliography (aeb)	reference resource	662.11283866739	597	499.05497200161	597
-Finland	2011	Aalto University	UN Publ.	comtrade	other electronic service	3743.10021859705	3375	2821.29067086337	3375
 Finland	2011	Häme University of Applied Sciences (HAMK)	Urban View	mpd click	other electronic service	2744.94016030451	2475	2068.94649196648	2475
 Finland	2011	HAAGA-HELIA University of Applied Sciences	Utrikespolitiska Institutet	landguiden	other electronic service	840.672582428612	758	633.6409862265	758
 Finland	2011	University of Helsinki	Viite & Hakuteos & kokotekstietokannat:  tilattu useilta kotimaiselta ja kansainväliseltä kustantajalta tai välittäjältä	viite & hakuteos & kokotekstietokannat:  tilattu useilta kotimaiselta ja kansainväliseltä kustantajalta tai välittäjältä	full text materials; other; reference database; reference resource	49685.0805016087	44799	37449.185411558	44799
@@ -2621,6 +2621,7 @@ Finland	2012	Saimaa University of Applied Sciences	PSK Standardisointiyhdistys	s
 Finland	2012	Seinäjoki University of Applied Sciences (SeAMK)	PSK Standardisointiyhdistys	psk standardit	reference resource	554.533365718082	500	417.968988276056	500
 Finland	2012	Tampere University of Applied Sciences (TAMK)	PSK Standardisointiyhdistys	psk-standardit	other	446.953892768774	403	336.883004550501	403
 Finland	2012	Tampere University of Technology	PSK Standardisointiyhdistys	psk-standardit	reference resource	554.533365718082	500	417.968988276056	500
+Finland	2012	University of Helsinki	R.R. Bowker	global books in print	reference resource	3793.00822151168	3420	2858.90787980822	3420
 Finland	2012	Aalto University	Rakennustieto	lvi- ratu ja rt- kortistot	other electronic service	2663.97828890967	2402	2007.92301967817	2402
 Finland	2012	Jyväskylä University of Applied Sciences (JAMK)	Rakennustieto	onlinekortistot	reference resource	3079.87831319823	2777	2321.39976088521	2777
 Finland	2012	Kymenlaakso University of Applied Sciences (KyAMK)	Rakennustieto	rt-net); rt-kortisto (kh-net; ratu-net	reference resource	2201.49746190079	1985	1659.33688345594	1985
@@ -2638,7 +2639,6 @@ Finland	2012	University of Helsinki/National Library	Riksarkivet	svar - svensk a
 Finland	2012	University of Jyväskylä	Riksarkivet	svar	other	2334.58546967312	2105	1759.64944064219	2105
 Finland	2012	Sibelius Academy	RIPM Publications	ripm online archive	full text materials	4547.17359888827	4100	3427.34570386366	4100
 Finland	2012	University of Oulu	Royal Society of Chemistry (RSC)	merck index; rsc gold journal package	full text materials; reference resource	36878.6869537153	33252	27796.6095963108	33252
-Finland	2012	University of Helsinki	R.R. Bowker	global books in print	reference resource	3793.00822151168	3420	2858.90787980822	3420
 Finland	2012	Aalto University	Sage	sage premier; sage research methods online	full text materials; reference resource	101113.613905035	91170	76212.465322256	91170
 Finland	2012	Arcada University of Applied Sciences	Sage	sage-premier	full text materials	6081.01288846449	5483	4583.44792543523	5483
 Finland	2012	Centria University of Applied Sciences	Sage	sage premium	full text materials	8919.11465420963	8042	6722.61320743208	8042
@@ -2815,6 +2815,7 @@ Finland	2012	University of Vaasa	Tilastokeskus	tilastokatsaus	reference resource
 Finland	2012	Åbo Akademi University	Tilastokeskus	altika; astika; suomen tilastollinen vuosikirja	reference resource	9909.51124538212	8935	7469.10582049311	8935
 Finland	2012	Aalto University	Tutkimus- ja Analysointikeskus TAK	rusgate	full text materials	1650.29129637701	1488	1243.87570910954	1488
 Finland	2012	Mikkeli University of Applied Sciences (MAMK)	Tutkimus- ja Analysointikeskus TAK	rusgate	other electronic service	332.720019430849	300	250.781392965633	300
+Finland	2012	Aalto University	UN Publ.	comtrade	other electronic service	3780.80848746588	3409	2849.71256206615	3409
 Finland	2012	University of Turku	University of Chicago Press	chicago manual of style online	reference resource	256.194414961754	231	193.101672583538	231
 Finland	2012	Arcada University of Applied Sciences	University of Helsinki	medic www	reference resource	1572.65662517648	1418	1185.36005075089	1418
 Finland	2012	Centria University of Applied Sciences	University of Helsinki	medic	reference database	1572.65662517648	1418	1185.36005075089	1418
@@ -2842,7 +2843,6 @@ Finland	2012	VAMK University of Applied Sciences	University of Helsinki	medic	re
 Finland	2012	Novia University of Applied Sciences	University of Helsinki	medic	reference database	1886.52251017291	1701	1421.93049811514	1701
 Finland	2012	Åbo Akademi University	University of Helsinki	medic	reference database	2305.74973465578	2079	1737.91505325184	2079
 Finland	2012	National Library	University of Oxford Oriental Studies Faculty	online egyptological bibliography (oeb) aiemmin: annual egyptological bibliography (aeb)	reference resource	831.800048577123	750	626.953482414083	750
-Finland	2012	Aalto University	UN Publ.	comtrade	other electronic service	3780.80848746588	3409	2849.71256206615	3409
 Finland	2012	Häme University of Applied Sciences (HAMK)	Urban View	mpd click	other electronic service	3327.20019430849	3000	2507.81392965633	3000
 Finland	2012	HAAGA-HELIA University of Applied Sciences	Utrikespolitiska Institutet	landguiden	other electronic service	917.198186897708	827	691.320706608596	827
 Finland	2012	University of Helsinki	Viite & Hakuteos & kokotekstietokannat:  tilattu useilta kotimaiselta ja kansainväliseltä kustantajalta tai välittäjältä	viite & hakuteos & kokotekstietokannat:  tilattu useilta kotimaiselta ja kansainväliseltä kustantajalta tai välittäjältä	full text materials; other; reference database; reference resource	101261.119780316	91303	76323.6450731374	91303
@@ -3626,6 +3626,7 @@ Finland	2013	Seinäjoki University of Applied Sciences (SeAMK)	PSK Standardisoin
 Finland	2013	Tampere University of Applied Sciences (TAMK)	PSK Standardisointiyhdistys	psk-standardit	other	446.953892768774	403	336.883004550501	403
 Finland	2013	Tampere University of Technology	PSK Standardisointiyhdistys	psk-standardit	reference resource	554.533365718082	500	417.968988276056	500
 Finland	2013	Turku University of Applied Sciences	PSK Standardisointiyhdistys	psk standardit	other electronic service	554.533365718082	500	417.968988276056	500
+Finland	2013	University of Helsinki	R.R. Bowker	global books in print	reference resource	3758.62715283716	3389	2832.9938025351	3389
 Finland	2013	Aalto University	Rakennustieto	lvi- ratu ja rt- kortistot	other electronic service	3010.00710911775	2714	2268.73566836243	2714
 Finland	2013	Jyväskylä University of Applied Sciences (JAMK)	Rakennustieto	onlinekortistot	reference resource	3819.62582306615	3444	2878.97039124547	3444
 Finland	2013	Kymenlaakso University of Applied Sciences (KyAMK)	Rakennustieto	rt-net); rt-kortisto (kh-net; ratu-net	reference resource	1983.01131580786	1788	1494.65710207517	1788
@@ -3648,7 +3649,6 @@ Finland	2013	University of Turku	Riksarkivet	svar svensk arkivinformation	other 
 Finland	2013	University of the Arts Helsinki	RIPM Publications	ripm online archive	full text materials	5489.88032060901	4950	4137.89298393295	4950
 Finland	2013	University of Oulu	Royal Society of Chemistry (RSC)	merck index; rsc gold journal package	full text materials; reference resource	46756.0352638858	42158	35241.4732154839	42158
 Finland	2013	Tampere University of Technology	Royal Society of Chemistry (RSC)	lab on a chip	other	1943.08491347616	1752	1464.5633349193	1752
-Finland	2013	University of Helsinki	R.R. Bowker	global books in print	reference resource	3758.62715283716	3389	2832.9938025351	3389
 Finland	2013	Aalto University	Sage	sage premier; sage research methods online	full text materials; reference resource	100398.265863259	90525	75673.2853273799	90525
 Finland	2013	Arcada University of Applied Sciences	Sage	sage-premier	full text materials	6021.12328496693	5429	4538.30727470141	5429
 Finland	2013	Centria University of Applied Sciences	Sage	sage premium	full text materials	8832.60744915761	7964	6657.41004526101	7964
@@ -3841,6 +3841,7 @@ Finland	2013	Åbo Akademi University	Tilastokeskus	astika; suomen tilastollinen 
 Finland	2013	Aalto University	Tutkimus- ja Analysointikeskus TAK	rusgate	full text materials	1650.29129637701	1488	1243.87570910954	1488
 Finland	2013	Mikkeli University of Applied Sciences (MAMK)	Tutkimus- ja Analysointikeskus TAK	rusgate	other electronic service	2046.22811949972	1845	1542.30556673864	1845
 Finland	2013	Saimaa University of Applied Sciences	Tutkimus- ja Analysointikeskus TAK	rusgate	other electronic service	443.626692574465	400	334.375190620844	400
+Finland	2013	Aalto University	UN Publ.	comtrade	other electronic service	3844.02529115774	3466	2897.36102672962	3466
 Finland	2013	University of Turku	University of Chicago Press	chicago manual of style online	reference resource	1033.6501936985	932	779.094194146568	932
 Finland	2013	Arcada University of Applied Sciences	University of Helsinki	medic www	reference resource	1636.98249559978	1476	1233.84445339092	1476
 Finland	2013	Centria University of Applied Sciences	University of Helsinki	medic	reference database	1636.98249559978	1476	1233.84445339092	1476
@@ -3868,7 +3869,6 @@ Finland	2013	VAMK University of Applied Sciences	University of Helsinki	medic	re
 Finland	2013	Novia University of Applied Sciences	University of Helsinki	medic	reference database	1636.98249559978	1476	1233.84445339092	1476
 Finland	2013	Åbo Akademi University	University of Helsinki	medic	reference database	2395.58413990211	2160	1805.62602935256	2160
 Finland	2013	National Library	University of Oxford Oriental Studies Faculty	online egyptological bibliography (oeb) aiemmin: annual egyptological bibliography (aeb)	reference resource	797.418979902602	719	601.039405140968	719
-Finland	2013	Aalto University	UN Publ.	comtrade	other electronic service	3844.02529115774	3466	2897.36102672962	3466
 Finland	2013	HAAGA-HELIA University of Applied Sciences	Utrikespolitiska Institutet	landguiden	other electronic service	982.633124052441	886	740.64104722517	886
 Finland	2013	Laurea University of Applied Sciences	Verlag fur chemische industrie	kosmet	other electronic service	831.800048577123	750	626.953482414083	750
 Finland	2013	University of Helsinki	Viite & Hakuteos & kokotekstietokannat:  tilattu useilta kotimaiselta ja kansainväliseltä kustantajalta tai välittäjältä	viite & hakuteos & kokotekstietokannat:  tilattu useilta kotimaiselta ja kansainväliseltä kustantajalta tai välittäjältä	full text materials; other; reference database; reference resource	111789.49026184	100796	84259.2042845466	100796
@@ -4880,6 +4880,7 @@ Finland	2014	Åbo Akademi University	Tilastokeskus	astika	reference resource	545
 Finland	2014	Aalto University	Tutkimus- ja Analysointikeskus TAK	rusgate	full text materials	1650.29129637701	1488	1243.87570910954	1488
 Finland	2014	South-Eastern Finland University of Applied Sciences (XAMK)	Tutkimus- ja Analysointikeskus TAK	rusgate	other electronic service	2661.76015544679	2400	2006.25114372507	2400
 Finland	2014	Saimaa University of Applied Sciences	Tutkimus- ja Analysointikeskus TAK	rusgate	other electronic service	2661.76015544679	2400	2006.25114372507	2400
+Finland	2014	Aalto University	UN Publ.	comtrade	other electronic service	3796.33542170599	3423	2861.41569373788	3423
 Finland	2014	University of Turku	University of Chicago Press	chicago manual of style online	reference resource	1002.59632521829	904	755.687930803109	904
 Finland	2014	Arcada University of Applied Sciences	University of Helsinki	medic www	reference resource	1636.98249559978	1476	1233.84445339092	1476
 Finland	2014	Centria University of Applied Sciences	University of Helsinki	medic	reference database	1636.98249559978	1476	1233.84445339092	1476
@@ -4909,7 +4910,6 @@ Finland	2014	VAMK University of Applied Sciences	University of Helsinki	medic	re
 Finland	2014	Novia University of Applied Sciences	University of Helsinki	medic	reference database	1636.98249559978	1476	1233.84445339092	1476
 Finland	2014	Åbo Akademi University	University of Helsinki	medic	reference database	2395.58413990211	2160	1805.62602935256	2160
 Finland	2014	National Library	University of Oxford Oriental Studies Faculty	online egyptological bibliography (oeb) aiemmin: annual egyptological bibliography (aeb)	reference resource	853.981383205846	770	643.672241945126	770
-Finland	2014	Aalto University	UN Publ.	comtrade	other electronic service	3796.33542170599	3423	2861.41569373788	3423
 Finland	2014	Laurea University of Applied Sciences	Verlag fur chemische industrie	kosmet	other electronic service	831.800048577123	750	626.953482414083	750
 Finland	2014	University of Helsinki	Viite & Hakuteos & kokotekstietokannat:  tilattu useilta kotimaiselta ja kansainväliseltä kustantajalta tai välittäjältä	viite & hakuteos & kokotekstietokannat:  tilattu useilta kotimaiselta ja kansainväliseltä kustantajalta tai välittäjältä	full text materials; other; reference database; reference resource	97601.1995665767	88003	73565.0497505154	88003
 Finland	2014	University of Turku	Vittorio Klostermann	bdsl online	reference resource	560.078699375263	505	422.148678158816	505
@@ -5780,6 +5780,7 @@ Finland	2015	Laurea University of Applied Sciences	SkillSoft	skillsoft library	o
 Finland	2015	Geological Survey of Finland (GTK)	Society of Exploration Geophysicists (SEG)	geophysics	full text materials	1526.07582245616	1376	1150.2506557357	1376
 Finland	2015	Åbo Akademi University	SPARC Europe	sparc europe	other electronic service	665.440038861698	600	501.562785931267	600
 Finland	2015	Aalto University	SPIE	spie books; spie journals	full text materials	21186.501770625	19103	15968.923166075	19103
+Finland	2015	South-Eastern Finland University of Applied Sciences (XAMK)	SPR Veripalvelu	verensiirron abo	other electronic service	625.513636529996	564	471.469018775391	564
 Finland	2015	Aalto University	Springer	lecture notes in computer science; springer link	full text materials; ebook package	201044.962674359	181274	151533.820761507	181274
 Finland	2015	Arcada University of Applied Sciences	Springer	springer-link	full text materials	7113.55401543155	6414	5361.70618160524	6414
 Finland	2015	Geological Survey of Finland (GTK)	Springer	springer link; ebook package - earth & environmental science	full text materials; ebook package	17712.904767767	15971	13350.7654235138	15971
@@ -5801,7 +5802,6 @@ Finland	2015	Finnish Institute of Occupational Health (FIOH)	Springer	springerli
 Finland	2015	University of Vaasa	Springer	springerlink	full text materials	10610.4414196498	9567	7997.41862167405	9567
 Finland	2015	Novia University of Applied Sciences	Springer	springerlink	full text materials	9959.41924829675	8980	7506.72302943796	8980
 Finland	2015	Åbo Akademi University	Springer	lecture notes in computer science; springerlink	full text materials; ebook package	70640.896392095	63694	53244.2334785102	63694
-Finland	2015	South-Eastern Finland University of Applied Sciences (XAMK)	SPR Veripalvelu	verensiirron abo	other electronic service	625.513636529996	564	471.469018775391	564
 Finland	2015	Aalto University	SSRN	social science research network	other electronic service	1157.86566761936	1044	872.719247520404	1044
 Finland	2015	Hanken School of Economics	Statistikcentralen	statistisk översikt	other	1389.66061448951	1253	1047.4302846198	1253
 Finland	2015	Library of Parliament	Suomalaisen Kirjallisuuden Seura (SKS)	kansallisbiografia (&talouselämän vaikuttajat 2014-)	reference resource	374.864555225423	338	282.547036074614	338
@@ -5927,6 +5927,7 @@ Finland	2015	University of Turku	Tilastokeskus	alueonline; astika; kunnittainen 
 Finland	2015	University of Vaasa	Tilastokeskus	tilastokatsaus	reference resource	277.266682859041	250	208.984494138028	250
 Finland	2015	Åbo Akademi University	Tilastokeskus	astika	reference resource	5456.60831866593	4920	4112.81484463639	4920
 Finland	2015	Saimaa University of Applied Sciences	Tutkimus- ja Analysointikeskus TAK	rusgate	other electronic service	2661.76015544679	2400	2006.25114372507	2400
+Finland	2015	Aalto University	UN Publ.	comtrade	other electronic service	3749.75461898567	3381	2826.30629872269	3381
 Finland	2015	University of Turku	University of Chicago Press	chicago manual of style online	reference resource	1170.06540166515	1055	881.914565262477	1055
 Finland	2015	Geological Survey of Finland (GTK)	University of Colorado	antarctic & alpine research; arctic	full text materials	279.484816321913	252	210.656370091132	252
 Finland	2015	Arcada University of Applied Sciences	University of Helsinki	medic www	reference resource	1719.05343372605	1550	1295.70386365577	1550
@@ -5958,7 +5959,6 @@ Finland	2015	VAMK University of Applied Sciences	University of Helsinki	medic	re
 Finland	2015	Novia University of Applied Sciences	University of Helsinki	medic	reference database	2059.53692027696	1857	1552.33682245727	1857
 Finland	2015	Åbo Akademi University	University of Helsinki	medic	reference database	2515.36334689722	2268	1895.90733082019	2268
 Finland	2015	National Library	University of Oxford Oriental Studies Faculty	online egyptological bibliography (oeb) aiemmin: annual egyptological bibliography (aeb)	reference resource	863.962983788772	779	651.195683734095	779
-Finland	2015	Aalto University	UN Publ.	comtrade	other electronic service	3749.75461898567	3381	2826.30629872269	3381
 Finland	2015	Laurea University of Applied Sciences	Verlag fur chemische industrie	kosmet	other electronic service	831.800048577123	750	626.953482414083	750
 Finland	2015	University of Helsinki	Viite & Hakuteos & kokotekstietokannat:  tilattu useilta kotimaiselta ja kansainväliseltä kustantajalta tai välittäjältä	viite & hakuteos & kokotekstietokannat:  tilattu useilta kotimaiselta ja kansainväliseltä kustantajalta tai välittäjältä	full text materials; other; reference database; reference resource	169571.866969664	152896	127811.572862912	152896
 Finland	2015	University of Turku	Vittorio Klostermann	bdsl online	reference resource	861.744850325899	777	649.52380778099	777
@@ -6851,15 +6851,6 @@ Finland	2016	Turku University of Applied Sciences	LM Tietopalvelut	lm tietopalve
 Finland	2016	University of Turku	LM Tietopalvelut	highwire; karger journals & annee philologique & 360 core	full text materials; other electronic service	50726.4941624273	45738	38234.1311715405	45738
 Finland	2016	VAMK University of Applied Sciences	LM Tietopalvelut	epress	full text materials	3635.52074564775	3278	2740.20468713782	3278
 Finland	2016	University of Vaasa	LM Tietopalvelut	epress (4 yhtäaikaista käyttäjää)	full text materials	5434.4269840372	4900	4096.09608510535	4900
-Finland	2016	Tampere University of Applied Sciences (TAMK)	MacLaser/Docutech.fi	neuwonen	other	1552.69342401063	1400	1170.31316717296	1400
-Finland	2016	Tampere University of Technology	Maney Publishing	international materials reviews	full text materials	1501.67635436457	1354	1131.86002025156	1354
-Finland	2016	Turku University of Applied Sciences	Marilyn Conibear	otdbase	reference database	324.956552310796	293	244.929827129769	293
-Finland	2016	HAAGA-HELIA University of Applied Sciences	Marston Book Services Ltd	leisure and tourism	full text materials; reference database	3726.46421762551	3360	2808.75160121509	3360
-Finland	2016	Aalto University	Mary Ann Liebert Inc	mary ann liebert journal collection	full text materials	7665.86924768676	6912	5778.00329392819	6912
-Finland	2016	University of Helsinki	Mary Ann Liebert Inc	kausijulkaisuja	full text materials	30306.3575032246	27326	22842.841147263	27326
-Finland	2016	University of Eastern Finland	Mary Ann Liebert Inc	liebert online journal collection	full text materials	17589.7983605776	15860	13257.9763081165	15860
-Finland	2016	University of Oulu	Masterworkshop Ltd	books24x7 it pro	ebook package	8018.55246828346	7230	6043.83157047176	7230
-Finland	2016	Tampere University of Technology	Masterworkshop Ltd	books24x7 itpro	full text materials	7996.37113365474	7210	6027.11281094072	7210
 Finland	2016	Aalto University	M-Brain Insight	hs digi	full text materials	1889.84971036722	1704	1424.4383120448	1704
 Finland	2016	Karelia University of Applied Sciences	M-Brain Insight	hs päivän lehden arkisto	full text materials	2941.24497176871	2652	2216.9075138162	2652
 Finland	2016	University of Lapland	M-Brain Insight	sanoma arkisto	full text materials	3180.80338575892	2868	2397.47011675145	2868
@@ -6869,6 +6860,15 @@ Finland	2016	Police College of Finland (Polamk)	M-Brain Insight	hs päivän leht
 Finland	2016	Statistics Finland	M-Brain Insight	arkisto; helsingins sanomat -verkkolehti	full text materials	7612.63404457783	6864	5737.87827105369	6864
 Finland	2016	Turku University of Applied Sciences	M-Brain Insight	helsingin sanomien arkisto	full text materials	3779.69942073445	3408	2848.87662408959	3408
 Finland	2016	University of Turku	M-Brain Insight	arkisto	full text materials	4364.1775882013	3935	3289.41593773256	3935
+Finland	2016	Tampere University of Applied Sciences (TAMK)	MacLaser/Docutech.fi	neuwonen	other	1552.69342401063	1400	1170.31316717296	1400
+Finland	2016	Tampere University of Technology	Maney Publishing	international materials reviews	full text materials	1501.67635436457	1354	1131.86002025156	1354
+Finland	2016	Turku University of Applied Sciences	Marilyn Conibear	otdbase	reference database	324.956552310796	293	244.929827129769	293
+Finland	2016	HAAGA-HELIA University of Applied Sciences	Marston Book Services Ltd	leisure and tourism	full text materials; reference database	3726.46421762551	3360	2808.75160121509	3360
+Finland	2016	Aalto University	Mary Ann Liebert Inc	mary ann liebert journal collection	full text materials	7665.86924768676	6912	5778.00329392819	6912
+Finland	2016	University of Helsinki	Mary Ann Liebert Inc	kausijulkaisuja	full text materials	30306.3575032246	27326	22842.841147263	27326
+Finland	2016	University of Eastern Finland	Mary Ann Liebert Inc	liebert online journal collection	full text materials	17589.7983605776	15860	13257.9763081165	15860
+Finland	2016	University of Oulu	Masterworkshop Ltd	books24x7 it pro	ebook package	8018.55246828346	7230	6043.83157047176	7230
+Finland	2016	Tampere University of Technology	Masterworkshop Ltd	books24x7 itpro	full text materials	7996.37113365474	7210	6027.11281094072	7210
 Finland	2016	Tampere University of Technology	McGraw-Hill	accessengineering; accessscience	full text materials	17672.9783654353	15935	13320.6716563579	15935
 Finland	2016	Aalto University	MCX	materialconnection	other electronic service	4183.39971097721	3772	3153.15804755456	3772
 Finland	2016	Tampere University of Applied Sciences (TAMK)	Metsätalouden kehittämiskeskus Tapio	metsänhoitokortisto	other	1774.50677029786	1600	1337.50076248338	1600
@@ -7025,8 +7025,8 @@ Finland	2016	Finnish Government	PressReader	pressreader	full text materials	8040
 Finland	2016	Finnish Broadcasting Company	PressReader	pressreader	full text materials	3227.38418847924	2910	2432.57951176664	2910
 Finland	2016	Novia University of Applied Sciences	PressReader	pressreader	full text materials	1946.41211367047	1755	1467.07114884896	1755
 Finland	2016	Åbo Akademi University	PressReader	pressreader	full text materials	4082.47463841652	3681	3077.08769168832	3681
-Finland	2016	Tampere University of Applied Sciences (TAMK)	PrioInfo	urkund	other electronic service	6432.58704232975	5800	4848.44026400224	5800
 Finland	2016	HAAGA-HELIA University of Applied Sciences	Prio Infocenter AB	urkund	other electronic service	6700.9811913373	6042	5050.73725432786	6042
+Finland	2016	Tampere University of Applied Sciences (TAMK)	PrioInfo	urkund	other electronic service	6432.58704232975	5800	4848.44026400224	5800
 Finland	2016	University of Helsinki	Project Muse	project muse	full text materials	28648.3027397275	25831	21593.1138723176	25831
 Finland	2016	Government Institute for Economic Research (VATT)	Project Muse	brookings papers on economic activity	full text materials	127.542674115159	115	96.1328673034928	115
 Finland	2016	Aalto University	ProQuest	arts & humanities database; ebrary; econlit; education database; fiaf; pqdt global; proquest central; proquest complete collection; psycarticles; refworks; safari; ulrichsweb; vogue archive	full text materials; other electronic service; reference database; ebook package	100003.438106867	90169	75375.6914077273	90169
@@ -7371,6 +7371,7 @@ Finland	2016	Government Institute for Economic Research (VATT)	University of Wis
 Finland	2016	Finnish Food Safety Authority	Veterinary Science Database	veterinary science database	other	7131.29908313453	6430	5375.08118923007	6430
 Finland	2016	University of Helsinki	Viite & Hakuteos & kokotekstietokannat:  tilattu useilta kotimaiselta ja kansainväliseltä kustantajalta tai välittäjältä	viite & hakuteos & kokotekstietokannat:  tilattu useilta kotimaiselta ja kansainväliseltä kustantajalta tai välittäjältä	other	145410.848225327	131111	109600.664043724	131111
 Finland	2016	University of Turku	Vittorio Klostermann	bdsl online	reference resource	882.817118223186	796	665.40662933548	796
+Finland	2016	University of Vaasa	W.S. Hein	heinonline	full text materials; reference database	1987.44758273361	1792	1498.00085398138	1792
 Finland	2016	University of Helsinki	Walter de Gruyter GMBH	e-kirjoja kertaostona	ebook package	11533.1849402047	10399	8692.9190181654	10399
 Finland	2016	Finnish National Gallery Library	Walter de Gruyter GMBH	allgemeines künstlerlexikon	reference resource	1277.64487461446	1152	963.000548988032	1152
 Finland	2016	Tampere University of Technology	Walter de Gruyter GMBH	selected journals	full text materials	1400.75128180387	1263	1055.78966438532	1263
@@ -7415,7 +7416,6 @@ Finland	2016	Lahti University of Applied Sciences (LAMK)	World Global Style Netw
 Finland	2016	Helsinki Metropolia University of Applied Sciences	World Global Style Network (WGSN)	wgsn	full text materials	5649.58592993582	5094	4258.26805255645	5094
 Finland	2016	Savonia University of Applied Sciences	World Global Style Network (WGSN)	wgsn fashion	reference resource	6812.99693121235	6143	5135.16698995962	6143
 Finland	2016	Tampere University of Technology	World Scientific Publishing	selected journals	full text materials	1560.45689113068	1407	1176.16473300882	1407
-Finland	2016	University of Vaasa	W.S. Hein	heinonline	full text materials; reference database	1987.44758273361	1792	1498.00085398138	1792
 Finland	2016	Häme University of Applied Sciences (HAMK)	Zentralverband Gartenbau e.V.	gartenbau-infosystem hortigate	full text materials	55.4533365718082	50	41.7968988276056	50
 France	2009	NA	AIP/APS	aip journals	bouquet de revues	25776.9289720393	23242	19428.8704510242	23242
 France	2009	NA	AIP/APS	aps journals	bouquet de revues	NA	NA	NA	NA
@@ -7455,8 +7455,8 @@ France	2009	NA	John Libbey Eurotext	revues john libbey	bouquet de revues	NA	NA	N
 France	2009	NA	JSTOR	jstor	bouquet de revues	15962.7974655607	14393	12031.6552965145	14393
 France	2009	NA	Klapp	klapp online	base de données	NA	NA	NA	NA
 France	2009	NA	Kompass	kompass	base de données	7878.81006012251	7104	5938.5033854262	7104
-France	2009	NA	Lextenso	lextenso	base de données	3749.75461898567	3381	2826.30629872269	3381
 France	2009	NA	L'Harmattan	l'harmathèque	livres électroniques	NA	NA	NA	NA
+France	2009	NA	Lextenso	lextenso	base de données	3749.75461898567	3381	2826.30629872269	3381
 France	2009	NA	Maitron	maitron, dictionnaire biographique	base de données	NA	NA	NA	NA
 France	2009	NA	Mathematical Science Publisher	msp math package 	base de données	10899.9078365546	9828	8215.59843355415	9828
 France	2009	NA	New England Journal of Medicine	nejm new england journal of medicine	bouquet de revues	5610.76859433555	5059	4229.01022337713	5059
@@ -7515,8 +7515,8 @@ France	2010	NA	John Libbey Eurotext	revues john libbey	bouquet de revues	NA	NA	N
 France	2010	NA	JSTOR	jstor	bouquet de revues	13640.2453699237	12298.85	10281.0757829179	12298.85
 France	2010	NA	Klapp	klapp online	base de données	NA	NA	NA	NA
 France	2010	NA	Kompass	kompass	base de données	8019.68371634953	7231.02	6044.68422720785	7231.02
-France	2010	NA	Lextenso	lextenso	base de données	3912.92051651456	3528.12	2949.28949383303	3528.12
 France	2010	NA	L'Harmattan	l'harmathèque	livres électroniques	NA	NA	NA	NA
+France	2010	NA	Lextenso	lextenso	base de données	3912.92051651456	3528.12	2949.28949383303	3528.12
 France	2010	NA	Maitron	maitron, dictionnaire biographique	base de données	NA	NA	NA	NA
 France	2010	NA	Mathematical Science Publisher	msp math package 	base de données	4823.86356704696	4349.48	3635.89551025388	4349.48
 France	2010	NA	New England Journal of Medicine	nejm new england journal of medicine	bouquet de revues	6114.28489040757	5513	4608.52606473179	5513
@@ -7575,8 +7575,8 @@ France	2011	NA	John Libbey Eurotext	revues john libbey	bouquet de revues	NA	NA	N
 France	2011	NA	JSTOR	jstor	bouquet de revues	10921.0466484558	9847.06	8231.53141138723	9847.06
 France	2011	NA	Klapp	klapp online	base de données	NA	NA	NA	NA
 France	2011	NA	Kompass	kompass	base de données	8019.68371634953	7231.02	6044.68422720785	7231.02
-France	2011	NA	Lextenso	lextenso	base de données	3574.31135273978	3222.81	2694.06927021191	3222.81
 France	2011	NA	L'Harmattan	l'harmathèque	livres électroniques	NA	NA	NA	NA
+France	2011	NA	Lextenso	lextenso	base de données	3574.31135273978	3222.81	2694.06927021191	3222.81
 France	2011	NA	Maitron	maitron, dictionnaire biographique	base de données	NA	NA	NA	NA
 France	2011	NA	Mathematical Science Publisher	msp math package 	base de données	7986.99951977411	7201.55	6020.04913503886	7201.55
 France	2011	NA	New England Journal of Medicine	nejm new england journal of medicine	bouquet de revues	6052.17715344715	5457	4561.71353804487	5457
@@ -7635,8 +7635,8 @@ France	2012	NA	John Libbey Eurotext	revues john libbey	bouquet de revues	NA	NA	N
 France	2012	NA	JSTOR	jstor	bouquet de revues	14824.9504524438	13367.05	11174.0247294709	13367.05
 France	2012	NA	Klapp	klapp online	base de données	NA	NA	NA	NA
 France	2012	NA	Kompass	kompass	base de données	10213.6173431419	9209.2	7698.3200136637	9209.2
-France	2012	NA	Lextenso	lextenso	base de données	2584.23639091941	2330.1	1947.81907916407	2330.1
 France	2012	NA	L'Harmattan	l'harmathèque	livres électroniques	NA	NA	NA	NA
+France	2012	NA	Lextenso	lextenso	base de données	2584.23639091941	2330.1	1947.81907916407	2330.1
 France	2012	NA	Maitron	maitron, dictionnaire biographique	base de données	NA	NA	NA	NA
 France	2012	NA	Mathematical Science Publisher	msp math package 	base de données	1337.39029943693	1205.87	1008.03252778489	1205.87
 France	2012	NA	New England Journal of Medicine	nejm new england journal of medicine	bouquet de revues	7976.57429249861	7192.15	6012.19131805927	7192.15
@@ -7695,8 +7695,8 @@ France	2013	NA	John Libbey Eurotext	revues john libbey	bouquet de revues	2644.90
 France	2013	NA	JSTOR	jstor	bouquet de revues	14321.5339723776	12913.14	10794.5841225341	12913.14
 France	2013	NA	Klapp	klapp online	base de données	NA	NA	NA	NA
 France	2013	NA	Kompass	kompass	base de données	NA	NA	NA	NA
-France	2013	NA	Lextenso	lextenso	base de données	2584.23639091941	2330.1	1947.81907916407	2330.1
 France	2013	NA	L'Harmattan	l'harmathèque	livres électroniques	5637.38619589002	5083	4249.07273481438	5083
+France	2013	NA	Lextenso	lextenso	base de données	2584.23639091941	2330.1	1947.81907916407	2330.1
 France	2013	NA	Maitron	maitron, dictionnaire biographique	base de données	NA	NA	NA	NA
 France	2013	NA	Mathematical Science Publisher	msp math package 	base de données	1097.36607741951	989.45	827.118830899486	989.45
 France	2013	NA	New England Journal of Medicine	nejm new england journal of medicine	bouquet de revues	7501.72737143421	6764	5654.28447339848	6764
@@ -7755,8 +7755,8 @@ France	2014	NA	John Libbey Eurotext	revues john libbey	bouquet de revues	2737.62
 France	2014	NA	JSTOR	jstor	bouquet de revues	13554.1707008969	12221.24	10216.1986365577	12221.24
 France	2014	NA	Klapp	klapp online	base de données	1015.90512599553	916	765.719186521734	916
 France	2014	NA	Kompass	kompass	base de données	NA	NA	NA	NA
-France	2014	NA	Lextenso	lextenso	base de données	2827.01109843078	2549	2130.80590223133	2549
 France	2014	NA	L'Harmattan	l'harmathèque	livres électroniques	NA	NA	NA	NA
+France	2014	NA	Lextenso	lextenso	base de données	2827.01109843078	2549	2130.80590223133	2549
 France	2014	NA	Maitron	maitron, dictionnaire biographique	base de données	665.440038861698	600	501.562785931267	600
 France	2014	NA	Mathematical Science Publisher	msp math package 	base de données	1131.52533274775	1020.25	852.865720577291	1020.25
 France	2014	NA	New England Journal of Medicine	nejm new england journal of medicine	bouquet de revues	7453.66041929377	6720.66	5618.05492149471	6720.66
@@ -7815,8 +7815,8 @@ France	2015	NA	John Libbey Eurotext	revues john libbey	bouquet de revues	1919.76
 France	2015	NA	JSTOR	jstor	bouquet de revues	13456.306652515	12133	10142.4354695068	12133
 France	2015	NA	Klapp	klapp online	base de données	998.392962306149	900.21	752.519725871976	900.21
 France	2015	NA	Kompass	kompass	base de données	NA	NA	NA	NA
-France	2015	NA	Lextenso	lextenso	base de données	2913.99520217732	2627.43	2196.36851773231	2627.43
 France	2015	NA	L'Harmattan	l'harmathèque	livres électroniques	5323.52031089359	4800	4012.50228745013	4800
+France	2015	NA	Lextenso	lextenso	base de données	2913.99520217732	2627.43	2196.36851773231	2627.43
 France	2015	NA	Maitron	maitron, dictionnaire biographique	base de données	2519.79961382296	2272	1899.2510827264	2272
 France	2015	NA	Mathematical Science Publisher	msp math package 	base de données	1480.10500643813	1334.55	1115.60102660762	1334.55
 France	2015	NA	New England Journal of Medicine	nejm new england journal of medicine	bouquet de revues	9655.87877456999	8706.31	7277.93516463541	8706.31
