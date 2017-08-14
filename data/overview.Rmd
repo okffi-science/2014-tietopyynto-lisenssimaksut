@@ -168,7 +168,7 @@ for (varname in vars) {
 
 
 
-```{r rankingeter, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=14, fig.height=6, fig.show = "hold", out.width = "430px"}
+```{r rankingeter, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=14, fig.height=7, fig.show = "hold", out.width = "430px"}
 
 # Ranking variables
 
