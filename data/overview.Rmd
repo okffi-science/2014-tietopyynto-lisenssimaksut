@@ -139,6 +139,8 @@ grid.arrange(pics[[1]], pics[[2]], pics[[3]], pics[[4]], pics[[5]], nrow = 2)
 # d %>% group_by(Publisher) %>% summarize(total = sum(Cost, na.rm = TRUE), ncountries = length(unique(Country))) %>% arrange(desc(total)) %>% filter(ncountries == 5)
 ```
 
+`r figs("costs3", "Annual cost increase for Elsevier, Wiley/Blackwell and Springer. The cost information for these 3 publishers is available for all 5 countries with longitudinal data. In some data sets, the number of included institutions varies notably by year; to reduce bias associated with differences in data completeness across years we included only those institutions have been included that have data for all years within a given country. (for instance in Finland 2016 there is notable increase of listed publishers and organizations in the data set 57 vs. 71 organizations 2015-2016; and 200 vs. 258 publishers)")`.
+
 
 
 ```{r costs3b, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=20, fig.height=10}
