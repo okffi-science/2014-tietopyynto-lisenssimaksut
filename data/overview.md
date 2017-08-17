@@ -1,7 +1,7 @@
 ---
 title: "Supplementary Material"
 author: ""
-date: "2017-08-14"
+date: "2017-08-17"
 output:
   pdf_document:
     fig_caption: yes
@@ -32,8 +32,22 @@ Figure  2: University ranking (Times ranking) variables versus subscription cost
 
 
 
+|                       | world_rank| research| citations| num_students|
+|:----------------------|----------:|--------:|---------:|------------:|
+|spearman/Finland       |      -0.45|     0.36|      0.41|         0.53|
+|spearman.p/Finland     |       0.00|     0.00|      0.00|         0.00|
+|lm.slope/Finland       |       0.00|     0.01|      0.01|         0.04|
+|lm.p/Finland           |       0.00|     0.00|      0.00|         0.00|
+|spearman/Netherlands   |      -0.59|     0.46|      0.62|         0.60|
+|spearman.p/Netherlands |       0.00|     0.00|      0.00|         0.00|
+|lm.slope/Netherlands   |       0.00|     0.03|      0.01|         0.04|
+|lm.p/Netherlands       |       0.00|     0.00|      0.00|         0.00|
+|spearman/UK            |      -0.51|     0.54|      0.37|         0.43|
+|spearman.p/UK          |       0.00|     0.00|      0.00|         0.00|
+|lm.slope/UK            |       0.00|     0.01|      0.01|         0.03|
+|lm.p/UK                |       0.00|     0.00|      0.00|         0.00|
 
-
+Table  1: University ranking (Times ranking) variables versus subscription costs with selected publishers. Spearman correlation (rho and p) and linear model (slope and p). The p-values are adjusted for multiple testing with Bonferroni correction.
 
 <img src="figure_manuscript/rankingeter-1.png" title="plot of chunk rankingeter" alt="plot of chunk rankingeter" width="290px" /><img src="figure_manuscript/rankingeter-2.png" title="plot of chunk rankingeter" alt="plot of chunk rankingeter" width="290px" /><img src="figure_manuscript/rankingeter-3.png" title="plot of chunk rankingeter" alt="plot of chunk rankingeter" width="290px" />
 
