@@ -134,31 +134,33 @@ for (varname in vars) {
   r <- cor.test(log10(df$Cost), df$ranking, method = "spearman", use = "pairwise.complete.obs")
   lmres <- lm(log10(1 + Cost) ~ ranking, data = df)
 
-  vec <- c()
   # Constant for Bonferroni correction
-  bonferroni <- length(unique(df$Country)) * length(vars)
-  
-  #vec <- c(spearman = unname(r$estimate), spearman.p = r$p.value,
-  #    lm.slope = coef(lmres)[["ranking"]], lm.p = anova(lmres)["ranking", "Pr(>F)"])
-      
+  bonferroni <- length(unique(df$Country)) * length(vars) * length(unique(df$Publisher))
+
+
   for (country in unique(df$Country)) {
+    for (publisher in unique(df$Publisher)) {  
   
-    dfsub <- subset(df, Country == country)
-    r <- cor.test(log10(dfsub$Cost), dfsub$ranking, method = "spearman", use = "pairwise.complete.obs")
-    lmres <- lm(log10(1 + Cost) ~ ranking, data = dfsub)
-    vec[[paste("spearman", country, sep = "/")]] = unname(r$estimate)
-    vec[[paste("spearman.p", country, sep = "/")]] = unname(r$p.value)/bonferroni
-    vec[[paste("lm.slope", country, sep = "/")]] = coef(lmres)[["ranking"]]
-    vec[[paste("lm.p", country, sep = "/")]] = anova(lmres)["ranking", "Pr(>F)"]/bonferroni
-
+      dfsub <- subset(df, Country == country & Publisher == publisher)
+      lmres <- lm(log10(1 + Cost) ~ ranking, data = dfsub)
+      vec <- c()
+      vec[["Variable"]] <- varname
+      vec[["Country"]] <- country
+      vec[["Publisher"]] <- publisher
+      vec[["slope"]] <- coef(lmres)[["ranking"]]
+      vec[["padj"]] <- anova(lmres)["ranking", "Pr(>F)"]/bonferroni
+      res <- rbind(res, vec)
+    }
   }
-
-  res <- rbind(res, vec)
 
   p <- ggplot(df, aes(x = ranking, y = Cost, color = Country)) + geom_point() + labs(y = "Cost (EUR)", x = varname, title = varname) + scale_y_log10() + facet_grid(. ~ Publisher) + geom_smooth(method = "lm")
   print(p)
 }
-rownames(res) <- vars
+colnames(res) <- names(vec)
+rownames(res) <- NULL
+res <- as.data.frame(res)
+res$slope <- as.numeric(as.character(res$slope))
+res$padj <- as.numeric(as.character(res$padj))
 ```
 
 `r figs("ranking1", "University ranking (Times ranking) variables versus subscription costs with selected publishers.")`
