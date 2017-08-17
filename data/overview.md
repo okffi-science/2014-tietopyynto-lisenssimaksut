@@ -32,15 +32,46 @@ Figure  2: University ranking (Times ranking) variables versus subscription cost
 
 
 
-|          |             |             |                  |             |             |                  |             |             |                  |             |             |                  |             |             |                  |             |             |                  |             |             |                  |             |             |                  |             |             |                  |             |             |                  |             |             |                  |             |             |                  |
-|:---------|:------------|:------------|:-----------------|:------------|:------------|:-----------------|:------------|:------------|:-----------------|:------------|:------------|:-----------------|:------------|:------------|:-----------------|:------------|:------------|:-----------------|:------------|:------------|:-----------------|:------------|:------------|:-----------------|:------------|:------------|:-----------------|:------------|:------------|:-----------------|:------------|:------------|:-----------------|:------------|:------------|:-----------------|
-|Variable  |world_rank   |world_rank   |world_rank        |world_rank   |world_rank   |world_rank        |world_rank   |world_rank   |world_rank        |research     |research     |research          |research     |research     |research          |research     |research     |research          |citations    |citations    |citations         |citations    |citations    |citations         |citations    |citations    |citations         |num_students |num_students |num_students      |num_students |num_students |num_students      |num_students |num_students |num_students      |
-|Country   |Finland      |Finland      |Finland           |Netherlands  |Netherlands  |Netherlands       |UK           |UK           |UK                |Finland      |Finland      |Finland           |Netherlands  |Netherlands  |Netherlands       |UK           |UK           |UK                |Finland      |Finland      |Finland           |Netherlands  |Netherlands  |Netherlands       |UK           |UK           |UK                |Finland      |Finland      |Finland           |Netherlands  |Netherlands  |Netherlands       |UK           |UK           |UK                |
-|Publisher |Elsevier     |Springer     |Wiley / Blackwell |Elsevier     |Springer     |Wiley / Blackwell |Elsevier     |Springer     |Wiley / Blackwell |Elsevier     |Springer     |Wiley / Blackwell |Elsevier     |Springer     |Wiley / Blackwell |Elsevier     |Springer     |Wiley / Blackwell |Elsevier     |Springer     |Wiley / Blackwell |Elsevier     |Springer     |Wiley / Blackwell |Elsevier     |Springer     |Wiley / Blackwell |Elsevier     |Springer     |Wiley / Blackwell |Elsevier     |Springer     |Wiley / Blackwell |Elsevier     |Springer     |Wiley / Blackwell |
-|slope     |-0.001608946 |-0.002136420 |-0.002167069      |-0.002737309 |-0.002969980 |-0.002774657      |-0.001262988 |-0.002402669 |-0.001735575      |0.012097764  |0.015341365  |0.014348467       |0.025945883  |0.028827630  |0.026795041       |0.009695397  |0.018261012  |0.012474431       |0.009939371  |0.013799579  |0.014041836       |0.010344106  |0.010932991  |0.010203356       |0.005704251  |0.016845500  |0.015539265       |0.035867841  |0.041661983  |0.041006834       |0.034705772  |0.037510488  |0.034774061       |0.026419527  |0.043785432  |0.035133044       |
-|padj      |7.333735e-08 |3.074151e-12 |1.621433e-13      |2.045848e-06 |1.359876e-06 |4.361733e-07      |1.050839e-28 |2.093958e-11 |1.316706e-07      |3.262444e-07 |2.230838e-09 |2.553405e-08      |1.104003e-03 |8.885554e-04 |8.394594e-04      |1.310032e-34 |1.555431e-11 |1.159133e-07      |4.486561e-06 |6.370993e-09 |1.425587e-09      |2.643351e-07 |1.859783e-06 |7.434841e-07      |2.089055e-13 |2.773049e-12 |1.684795e-11      |7.353514e-15 |1.034788e-14 |1.678576e-14      |1.840223e-08 |1.105643e-08 |1.594192e-09      |9.995098e-22 |4.635677e-08 |2.332987e-06      |
+|Variable     |Country     |Publisher         |     slope|     padj|
+|:------------|:-----------|:-----------------|---------:|--------:|
+|world_rank   |Finland     |Elsevier          | -0.001609| 0.000095|
+|world_rank   |Finland     |Springer          | -0.002136| 0.000000|
+|world_rank   |Finland     |Wiley / Blackwell | -0.002167| 0.000000|
+|world_rank   |Netherlands |Elsevier          | -0.002737| 0.002651|
+|world_rank   |Netherlands |Springer          | -0.002970| 0.001762|
+|world_rank   |Netherlands |Wiley / Blackwell | -0.002775| 0.000565|
+|world_rank   |UK          |Elsevier          | -0.001263| 0.000000|
+|world_rank   |UK          |Springer          | -0.002403| 0.000000|
+|world_rank   |UK          |Wiley / Blackwell | -0.001736| 0.000171|
+|research     |Finland     |Elsevier          |  0.012098| 0.000423|
+|research     |Finland     |Springer          |  0.015341| 0.000003|
+|research     |Finland     |Wiley / Blackwell |  0.014348| 0.000033|
+|research     |Netherlands |Elsevier          |  0.025946| 1.430788|
+|research     |Netherlands |Springer          |  0.028828| 1.151568|
+|research     |Netherlands |Wiley / Blackwell |  0.026795| 1.087939|
+|research     |UK          |Elsevier          |  0.009695| 0.000000|
+|research     |UK          |Springer          |  0.018261| 0.000000|
+|research     |UK          |Wiley / Blackwell |  0.012474| 0.000150|
+|citations    |Finland     |Elsevier          |  0.009939| 0.005815|
+|citations    |Finland     |Springer          |  0.013800| 0.000008|
+|citations    |Finland     |Wiley / Blackwell |  0.014042| 0.000002|
+|citations    |Netherlands |Elsevier          |  0.010344| 0.000343|
+|citations    |Netherlands |Springer          |  0.010933| 0.002410|
+|citations    |Netherlands |Wiley / Blackwell |  0.010203| 0.000964|
+|citations    |UK          |Elsevier          |  0.005704| 0.000000|
+|citations    |UK          |Springer          |  0.016845| 0.000000|
+|citations    |UK          |Wiley / Blackwell |  0.015539| 0.000000|
+|num_students |Finland     |Elsevier          |  0.035868| 0.000000|
+|num_students |Finland     |Springer          |  0.041662| 0.000000|
+|num_students |Finland     |Wiley / Blackwell |  0.041007| 0.000000|
+|num_students |Netherlands |Elsevier          |  0.034706| 0.000024|
+|num_students |Netherlands |Springer          |  0.037510| 0.000014|
+|num_students |Netherlands |Wiley / Blackwell |  0.034774| 0.000002|
+|num_students |UK          |Elsevier          |  0.026420| 0.000000|
+|num_students |UK          |Springer          |  0.043785| 0.000060|
+|num_students |UK          |Wiley / Blackwell |  0.035133| 0.003024|
 
-Table  1: University ranking (Times ranking) variables versus subscription costs with selected publishers. Spearman correlation (rho and p) and linear model (slope and p). The p-values are adjusted for multiple testing with Bonferroni correction.
+Table  1: University ranking (Times ranking) variables versus subscription costs with selected publishers. Linear model slope and Bonferroni-adjusted p-value.
 
 <img src="figure_manuscript/rankingeter-1.png" title="plot of chunk rankingeter" alt="plot of chunk rankingeter" width="290px" /><img src="figure_manuscript/rankingeter-2.png" title="plot of chunk rankingeter" alt="plot of chunk rankingeter" width="290px" /><img src="figure_manuscript/rankingeter-3.png" title="plot of chunk rankingeter" alt="plot of chunk rankingeter" width="290px" />
 
