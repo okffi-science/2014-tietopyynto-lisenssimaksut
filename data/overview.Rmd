@@ -230,10 +230,10 @@ res$padj <- as.numeric(as.character(res$padj))
 `r figs("rankingeter", "University scoring (ETER) variables versus subscription costs with selected publishers.")`
 
 ```{r rankingetertab, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE}
-#kable(res, digits = 2)
-library(DT)
-res$correlation <- round(res$correlation, 2)
-datatable(res, options = list(pageLength = nrow(res)))
+kable(res, digits = 2)
+#library(DT)
+#res$correlation <- round(res$correlation, 2)
+#datatable(res, options = list(pageLength = nrow(res)))
 ```
 
 

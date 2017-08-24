@@ -78,7 +78,36 @@ Table  1: University ranking (Times ranking) variables versus subscription costs
 
 Figure  3: University scoring (ETER) variables versus subscription costs with selected publishers.
 
-![plot of chunk rankingetertab](figure_manuscript/rankingetertab-1.png)
+
+|Variable           |Country     |Publisher         | correlation| slope| padj|
+|:------------------|:-----------|:-----------------|-----------:|-----:|----:|
+|EXP.CURRTOTAL.EURO |Finland     |Elsevier          |        0.94|     0| 0.00|
+|EXP.CURRTOTAL.EURO |Finland     |Springer          |        0.96|     0| 0.00|
+|EXP.CURRTOTAL.EURO |Finland     |Wiley / Blackwell |        0.96|     0| 0.00|
+|EXP.CURRTOTAL.EURO |Netherlands |Elsevier          |        0.79|     0| 0.00|
+|EXP.CURRTOTAL.EURO |Netherlands |Springer          |        0.79|     0| 0.00|
+|EXP.CURRTOTAL.EURO |Netherlands |Wiley / Blackwell |        0.79|     0| 0.00|
+|EXP.CURRTOTAL.EURO |UK          |Elsevier          |        0.87|     0| 0.00|
+|EXP.CURRTOTAL.EURO |UK          |Springer          |        0.62|     0| 0.00|
+|EXP.CURRTOTAL.EURO |UK          |Wiley / Blackwell |        0.66|     0| 0.00|
+|STA.ACAFTETOTAL    |Finland     |Elsevier          |        0.94|     0| 0.00|
+|STA.ACAFTETOTAL    |Finland     |Springer          |        0.96|     0| 0.00|
+|STA.ACAFTETOTAL    |Finland     |Wiley / Blackwell |        0.91|     0| 0.00|
+|STA.ACAFTETOTAL    |Netherlands |Elsevier          |        0.76|     0| 0.00|
+|STA.ACAFTETOTAL    |Netherlands |Springer          |        0.76|     0| 0.00|
+|STA.ACAFTETOTAL    |Netherlands |Wiley / Blackwell |        0.76|     0| 0.00|
+|STA.ACAFTETOTAL    |UK          |Elsevier          |        0.84|     0| 0.00|
+|STA.ACAFTETOTAL    |UK          |Springer          |        0.62|     0| 0.00|
+|STA.ACAFTETOTAL    |UK          |Wiley / Blackwell |        0.66|     0| 0.00|
+|STUD.TOTALISCED5.7 |Finland     |Elsevier          |        0.87|     0| 0.00|
+|STUD.TOTALISCED5.7 |Finland     |Springer          |        0.89|     0| 0.00|
+|STUD.TOTALISCED5.7 |Finland     |Wiley / Blackwell |        0.91|     0| 0.00|
+|STUD.TOTALISCED5.7 |Netherlands |Elsevier          |        0.79|     0| 0.01|
+|STUD.TOTALISCED5.7 |Netherlands |Springer          |        0.79|     0| 0.00|
+|STUD.TOTALISCED5.7 |Netherlands |Wiley / Blackwell |        0.79|     0| 0.00|
+|STUD.TOTALISCED5.7 |UK          |Elsevier          |        0.71|     0| 0.00|
+|STUD.TOTALISCED5.7 |UK          |Springer          |        0.49|     0| 0.00|
+|STUD.TOTALISCED5.7 |UK          |Wiley / Blackwell |        0.58|     0| 0.00|
 
 
 
