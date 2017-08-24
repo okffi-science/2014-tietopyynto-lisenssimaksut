@@ -146,6 +146,7 @@ for (varname in vars) {
       vec[["Variable"]] <- varname
       vec[["Country"]] <- country
       vec[["Publisher"]] <- publisher
+      vec[["correlation"]] <- cor.test(dfsub$Cost, dfsub$ranking, method = "spearman", use = "pairwise.complete.obs")$estimate      
       vec[["slope"]] <- coef(lmres)[["ranking"]]
       vec[["padj"]] <- anova(lmres)["ranking", "Pr(>F)"] * bonferroni
       res <- rbind(res, vec)
@@ -212,9 +213,9 @@ for (varname in vars) {
     }
   }
 
-
   p <- ggplot(df, aes(x = ranking, y = Cost, color = Country)) + geom_point() + labs(y = "Cost (EUR)", x = varname, title = name, subtitle = code) + scale_y_log10() + facet_grid(. ~ Publisher)
   print(p)
+
 }
 
 
@@ -231,7 +232,7 @@ res$padj <- as.numeric(as.character(res$padj))
 kable(res, digits = 6)
 ```
 
-`r tbls("rankingetertab", "ETER variables versus subscription costs with selected publishers. Linear model slope and Bonferroni-adjusted p-value.")`
+`r tbls("rankingetertab", "ETER variables versus subscription costs with selected publishers. Spearman correlation, linear model slope and Bonferroni-adjusted p-value.")`
 
 
 
