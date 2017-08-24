@@ -32,82 +32,56 @@ Figure  2: University ranking (Times ranking) variables versus subscription cost
 
 
 
-|Variable     |Country     |Publisher         |correlation        |     slope|     padj|
-|:------------|:-----------|:-----------------|:------------------|---------:|--------:|
-|world_rank   |Finland     |Elsevier          |-0.57738167673964  | -0.001609| 0.000095|
-|world_rank   |Finland     |Springer          |-0.676083594544069 | -0.002136| 0.000000|
-|world_rank   |Finland     |Wiley / Blackwell |-0.732960138880905 | -0.002167| 0.000000|
-|world_rank   |Netherlands |Elsevier          |-0.853563956930838 | -0.002737| 0.002651|
-|world_rank   |Netherlands |Springer          |-0.93724669780641  | -0.002970| 0.001762|
-|world_rank   |Netherlands |Wiley / Blackwell |-0.953983245981524 | -0.002775| 0.000565|
-|world_rank   |UK          |Elsevier          |-0.649698649094827 | -0.001263| 0.000000|
-|world_rank   |UK          |Springer          |-0.694414181556696 | -0.002403| 0.000000|
-|world_rank   |UK          |Wiley / Blackwell |-0.681633965832394 | -0.001736| 0.000171|
-|research     |Finland     |Elsevier          |0.499129052170934  |  0.012098| 0.000423|
-|research     |Finland     |Springer          |0.507059339358995  |  0.015341| 0.000003|
-|research     |Finland     |Wiley / Blackwell |0.541347361511353  |  0.014348| 0.000033|
-|research     |Netherlands |Elsevier          |0.616666666666667  |  0.025946| 1.430788|
-|research     |Netherlands |Springer          |0.7                |  0.028828| 1.151568|
-|research     |Netherlands |Wiley / Blackwell |0.733333333333333  |  0.026795| 1.087939|
-|research     |UK          |Elsevier          |0.713702645074882  |  0.009695| 0.000000|
-|research     |UK          |Springer          |0.745387165396528  |  0.018261| 0.000000|
-|research     |UK          |Wiley / Blackwell |0.719647412299567  |  0.012474| 0.000150|
-|citations    |Finland     |Elsevier          |0.55338649302164   |  0.009939| 0.005815|
-|citations    |Finland     |Springer          |0.640588772284605  |  0.013800| 0.000008|
-|citations    |Finland     |Wiley / Blackwell |0.614779718821454  |  0.014042| 0.000002|
-|citations    |Netherlands |Elsevier          |0.966666666666667  |  0.010344| 0.000343|
-|citations    |Netherlands |Springer          |0.966666666666667  |  0.010933| 0.002410|
-|citations    |Netherlands |Wiley / Blackwell |0.933333333333333  |  0.010203| 0.000964|
-|citations    |UK          |Elsevier          |0.445538903109112  |  0.005704| 0.000000|
-|citations    |UK          |Springer          |0.46928077452499   |  0.016845| 0.000000|
-|citations    |UK          |Wiley / Blackwell |0.557883905867982  |  0.015539| 0.000000|
-|num_students |Finland     |Elsevier          |0.852293775812234  |  0.035868| 0.000000|
-|num_students |Finland     |Springer          |0.909443551060583  |  0.041662| 0.000000|
-|num_students |Finland     |Wiley / Blackwell |0.914540186069889  |  0.041007| 0.000000|
-|num_students |Netherlands |Elsevier          |0.866025403784439  |  0.034706| 0.000024|
-|num_students |Netherlands |Springer          |0.866025403784439  |  0.037510| 0.000014|
-|num_students |Netherlands |Wiley / Blackwell |0.866025403784439  |  0.034774| 0.000002|
-|num_students |UK          |Elsevier          |0.575650490865022  |  0.026420| 0.000000|
-|num_students |UK          |Springer          |0.559381945742138  |  0.043785| 0.000060|
-|num_students |UK          |Wiley / Blackwell |0.613790580087192  |  0.035133| 0.003024|
+|Variable     |Country     |Publisher         |correlation        | slope| padj|
+|:------------|:-----------|:-----------------|:------------------|-----:|----:|
+|world_rank   |Finland     |Elsevier          |-0.57738167673964  |  0.00| 0.00|
+|world_rank   |Finland     |Springer          |-0.676083594544069 |  0.00| 0.00|
+|world_rank   |Finland     |Wiley / Blackwell |-0.732960138880905 |  0.00| 0.00|
+|world_rank   |Netherlands |Elsevier          |-0.853563956930838 |  0.00| 0.00|
+|world_rank   |Netherlands |Springer          |-0.93724669780641  |  0.00| 0.00|
+|world_rank   |Netherlands |Wiley / Blackwell |-0.953983245981524 |  0.00| 0.00|
+|world_rank   |UK          |Elsevier          |-0.649698649094827 |  0.00| 0.00|
+|world_rank   |UK          |Springer          |-0.694414181556696 |  0.00| 0.00|
+|world_rank   |UK          |Wiley / Blackwell |-0.681633965832394 |  0.00| 0.00|
+|research     |Finland     |Elsevier          |0.499129052170934  |  0.01| 0.00|
+|research     |Finland     |Springer          |0.507059339358995  |  0.02| 0.00|
+|research     |Finland     |Wiley / Blackwell |0.541347361511353  |  0.01| 0.00|
+|research     |Netherlands |Elsevier          |0.616666666666667  |  0.03| 1.43|
+|research     |Netherlands |Springer          |0.7                |  0.03| 1.15|
+|research     |Netherlands |Wiley / Blackwell |0.733333333333333  |  0.03| 1.09|
+|research     |UK          |Elsevier          |0.713702645074882  |  0.01| 0.00|
+|research     |UK          |Springer          |0.745387165396528  |  0.02| 0.00|
+|research     |UK          |Wiley / Blackwell |0.719647412299567  |  0.01| 0.00|
+|citations    |Finland     |Elsevier          |0.55338649302164   |  0.01| 0.01|
+|citations    |Finland     |Springer          |0.640588772284605  |  0.01| 0.00|
+|citations    |Finland     |Wiley / Blackwell |0.614779718821454  |  0.01| 0.00|
+|citations    |Netherlands |Elsevier          |0.966666666666667  |  0.01| 0.00|
+|citations    |Netherlands |Springer          |0.966666666666667  |  0.01| 0.00|
+|citations    |Netherlands |Wiley / Blackwell |0.933333333333333  |  0.01| 0.00|
+|citations    |UK          |Elsevier          |0.445538903109112  |  0.01| 0.00|
+|citations    |UK          |Springer          |0.46928077452499   |  0.02| 0.00|
+|citations    |UK          |Wiley / Blackwell |0.557883905867982  |  0.02| 0.00|
+|num_students |Finland     |Elsevier          |0.852293775812234  |  0.04| 0.00|
+|num_students |Finland     |Springer          |0.909443551060583  |  0.04| 0.00|
+|num_students |Finland     |Wiley / Blackwell |0.914540186069889  |  0.04| 0.00|
+|num_students |Netherlands |Elsevier          |0.866025403784439  |  0.03| 0.00|
+|num_students |Netherlands |Springer          |0.866025403784439  |  0.04| 0.00|
+|num_students |Netherlands |Wiley / Blackwell |0.866025403784439  |  0.03| 0.00|
+|num_students |UK          |Elsevier          |0.575650490865022  |  0.03| 0.00|
+|num_students |UK          |Springer          |0.559381945742138  |  0.04| 0.00|
+|num_students |UK          |Wiley / Blackwell |0.613790580087192  |  0.04| 0.00|
 
-Table  1: University ranking (Times ranking) variables versus subscription costs with selected publishers. Linear model slope and Bonferroni-adjusted p-value.
+Table  1: University ranking (Times ranking) variables versus subscription costs with selected publishers. Spearman correlation, linear model slope and Bonferroni-adjusted p-value.
 
 
 <img src="figure_manuscript/rankingeter-1.png" title="plot of chunk rankingeter" alt="plot of chunk rankingeter" width="290px" /><img src="figure_manuscript/rankingeter-2.png" title="plot of chunk rankingeter" alt="plot of chunk rankingeter" width="290px" /><img src="figure_manuscript/rankingeter-3.png" title="plot of chunk rankingeter" alt="plot of chunk rankingeter" width="290px" />
 
 Figure  3: University scoring (ETER) variables versus subscription costs with selected publishers.
 
+![plot of chunk rankingetertab](figure_manuscript/rankingetertab-1.png)
 
-|Variable           |Country     |Publisher         |correlation       |    slope|     padj|
-|:------------------|:-----------|:-----------------|:-----------------|--------:|--------:|
-|EXP.CURRTOTAL.EURO |Finland     |Elsevier          |0.940562613430127 | 0.000000| 0.000000|
-|EXP.CURRTOTAL.EURO |Finland     |Springer          |0.959185520361991 | 0.000000| 0.000000|
-|EXP.CURRTOTAL.EURO |Finland     |Wiley / Blackwell |0.955461592670895 | 0.000000| 0.000000|
-|EXP.CURRTOTAL.EURO |Netherlands |Elsevier          |0.785714285714286 | 0.000000| 0.000228|
-|EXP.CURRTOTAL.EURO |Netherlands |Springer          |0.785714285714286 | 0.000000| 0.000004|
-|EXP.CURRTOTAL.EURO |Netherlands |Wiley / Blackwell |0.785714285714286 | 0.000000| 0.000006|
-|EXP.CURRTOTAL.EURO |UK          |Elsevier          |0.871831225946571 | 0.000000| 0.000000|
-|EXP.CURRTOTAL.EURO |UK          |Springer          |0.619782971827035 | 0.000000| 0.000000|
-|EXP.CURRTOTAL.EURO |UK          |Wiley / Blackwell |0.65773442079522  | 0.000000| 0.000000|
-|STA.ACAFTETOTAL    |Finland     |Elsevier          |0.941145968369199 | 0.000426| 0.000000|
-|STA.ACAFTETOTAL    |Finland     |Springer          |0.955384615384615 | 0.000442| 0.000000|
-|STA.ACAFTETOTAL    |Finland     |Wiley / Blackwell |0.912473572938689 | 0.000319| 0.000000|
-|STA.ACAFTETOTAL    |Netherlands |Elsevier          |0.761904761904762 | 0.000496| 0.001123|
-|STA.ACAFTETOTAL    |Netherlands |Springer          |0.761904761904762 | 0.000482| 0.000285|
-|STA.ACAFTETOTAL    |Netherlands |Wiley / Blackwell |0.761904761904762 | 0.000465| 0.000149|
-|STA.ACAFTETOTAL    |UK          |Elsevier          |0.839241977703113 | 0.001826| 0.000000|
-|STA.ACAFTETOTAL    |UK          |Springer          |0.619281405529376 | 0.001601| 0.000000|
-|STA.ACAFTETOTAL    |UK          |Wiley / Blackwell |0.66029297353798  | 0.001393| 0.000000|
-|STUD.TOTALISCED5.7 |Finland     |Elsevier          |0.866995073891626 | 0.000062| 0.000000|
-|STUD.TOTALISCED5.7 |Finland     |Springer          |0.88868778280543  | 0.000066| 0.000000|
-|STUD.TOTALISCED5.7 |Finland     |Wiley / Blackwell |0.90754052149401  | 0.000050| 0.000000|
-|STUD.TOTALISCED5.7 |Netherlands |Elsevier          |0.785714285714286 | 0.000050| 0.007715|
-|STUD.TOTALISCED5.7 |Netherlands |Springer          |0.785714285714286 | 0.000049| 0.003476|
-|STUD.TOTALISCED5.7 |Netherlands |Wiley / Blackwell |0.785714285714286 | 0.000047| 0.002050|
-|STUD.TOTALISCED5.7 |UK          |Elsevier          |0.713491810667543 | 0.000149| 0.000000|
-|STUD.TOTALISCED5.7 |UK          |Springer          |0.485279415488167 | 0.000101| 0.000000|
-|STUD.TOTALISCED5.7 |UK          |Wiley / Blackwell |0.583995155715809 | 0.000100| 0.000000|
+
+
 
 Table  2: ETER variables versus subscription costs with selected publishers. Spearman correlation, linear model slope and Bonferroni-adjusted p-value.
 
