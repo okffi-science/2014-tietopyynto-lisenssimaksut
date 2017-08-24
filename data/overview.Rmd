@@ -127,20 +127,50 @@ drank <- inner_join(d, unirank, by = c("Year", "Country", "Organization"))
 #p <- ggplot(subset(drank, Publisher %in% my.pubs), aes(x = world_rank, y = Cost, color = Country)) + geom_point() + labs(y = "Cost (EUR)") + scale_y_log10() + facet_grid(. ~ Publisher)
 
 df <- subset(drank, Publisher %in% my.pubs);
+res <- NULL
 for (varname in vars) {
-  df$ranking <- df[[varname]];
-  p <- ggplot(df, aes(x = ranking, y = Cost, color = Country)) + geom_point() + labs(y = "Cost (EUR)", x = varname, title = varname) + scale_y_log10() + facet_grid(. ~ Publisher)
+
+  df$ranking <- as.numeric(gsub(",", ".", as.character(df[[varname]])))
+  r <- cor.test(log10(df$Cost), df$ranking, method = "spearman", use = "pairwise.complete.obs")
+  lmres <- lm(log10(1 + Cost) ~ ranking, data = df)
+
+  # Constant for Bonferroni correction
+  bonferroni <- length(unique(df$Country)) * length(vars) * length(unique(df$Publisher))
+
+
+  for (country in unique(df$Country)) {
+    for (publisher in unique(df$Publisher)) {  
+  
+      dfsub <- subset(df, Country == country & Publisher == publisher)
+      lmres <- lm(log10(1 + Cost) ~ ranking, data = dfsub)
+      vec <- c()
+      vec[["Variable"]] <- varname
+      vec[["Country"]] <- country
+      vec[["Publisher"]] <- publisher
+      vec[["slope"]] <- coef(lmres)[["ranking"]]
+      vec[["padj"]] <- anova(lmres)["ranking", "Pr(>F)"] * bonferroni
+      res <- rbind(res, vec)
+    }
+  }
+
+  p <- ggplot(df, aes(x = ranking, y = Cost, color = Country)) + geom_point() + labs(y = "Cost (EUR)", x = varname, title = varname) + scale_y_log10() + facet_grid(. ~ Publisher) + geom_smooth(method = "lm")
   print(p)
 }
-
+colnames(res) <- names(vec)
+rownames(res) <- NULL
+res <- as.data.frame(res)
+res$slope <- as.numeric(as.character(res$slope))
+res$padj <- as.numeric(as.character(res$padj))
 ```
 
 `r figs("ranking1", "University ranking (Times ranking) variables versus subscription costs with selected publishers.")`
 
 
+```{r ranking1tab, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE}
+kable(res, digits = 6)
+```
 
-
-
+`r tbls("ranking1tab", "University ranking (Times ranking) variables versus subscription costs with selected publishers. Linear model slope and Bonferroni-adjusted p-value.")`
 
 ```{r rankingeter, cache=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=15, fig.height=6, fig.show = "hold", out.width = "290px"}
 # Ranking variables

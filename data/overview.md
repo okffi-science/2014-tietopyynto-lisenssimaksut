@@ -1,7 +1,13 @@
 ---
 title: "Supplementary Material"
 author: ""
+<<<<<<< HEAD
 date: "2017-08-24"
+||||||| merged common ancestors
+date: "2017-08-14"
+=======
+date: "2017-08-17"
+>>>>>>> 90fc9036ac90beea5bb8ced99979222e2585cf7a
 output:
   pdf_document:
     fig_caption: yes
@@ -32,8 +38,46 @@ Figure  2: University ranking (Times ranking) variables versus subscription cost
 
 
 
+|Variable     |Country     |Publisher         |     slope|     padj|
+|:------------|:-----------|:-----------------|---------:|--------:|
+|world_rank   |Finland     |Elsevier          | -0.001609| 0.000095|
+|world_rank   |Finland     |Springer          | -0.002136| 0.000000|
+|world_rank   |Finland     |Wiley / Blackwell | -0.002167| 0.000000|
+|world_rank   |Netherlands |Elsevier          | -0.002737| 0.002651|
+|world_rank   |Netherlands |Springer          | -0.002970| 0.001762|
+|world_rank   |Netherlands |Wiley / Blackwell | -0.002775| 0.000565|
+|world_rank   |UK          |Elsevier          | -0.001263| 0.000000|
+|world_rank   |UK          |Springer          | -0.002403| 0.000000|
+|world_rank   |UK          |Wiley / Blackwell | -0.001736| 0.000171|
+|research     |Finland     |Elsevier          |  0.012098| 0.000423|
+|research     |Finland     |Springer          |  0.015341| 0.000003|
+|research     |Finland     |Wiley / Blackwell |  0.014348| 0.000033|
+|research     |Netherlands |Elsevier          |  0.025946| 1.430788|
+|research     |Netherlands |Springer          |  0.028828| 1.151568|
+|research     |Netherlands |Wiley / Blackwell |  0.026795| 1.087939|
+|research     |UK          |Elsevier          |  0.009695| 0.000000|
+|research     |UK          |Springer          |  0.018261| 0.000000|
+|research     |UK          |Wiley / Blackwell |  0.012474| 0.000150|
+|citations    |Finland     |Elsevier          |  0.009939| 0.005815|
+|citations    |Finland     |Springer          |  0.013800| 0.000008|
+|citations    |Finland     |Wiley / Blackwell |  0.014042| 0.000002|
+|citations    |Netherlands |Elsevier          |  0.010344| 0.000343|
+|citations    |Netherlands |Springer          |  0.010933| 0.002410|
+|citations    |Netherlands |Wiley / Blackwell |  0.010203| 0.000964|
+|citations    |UK          |Elsevier          |  0.005704| 0.000000|
+|citations    |UK          |Springer          |  0.016845| 0.000000|
+|citations    |UK          |Wiley / Blackwell |  0.015539| 0.000000|
+|num_students |Finland     |Elsevier          |  0.035868| 0.000000|
+|num_students |Finland     |Springer          |  0.041662| 0.000000|
+|num_students |Finland     |Wiley / Blackwell |  0.041007| 0.000000|
+|num_students |Netherlands |Elsevier          |  0.034706| 0.000024|
+|num_students |Netherlands |Springer          |  0.037510| 0.000014|
+|num_students |Netherlands |Wiley / Blackwell |  0.034774| 0.000002|
+|num_students |UK          |Elsevier          |  0.026420| 0.000000|
+|num_students |UK          |Springer          |  0.043785| 0.000060|
+|num_students |UK          |Wiley / Blackwell |  0.035133| 0.003024|
 
-
+Table  1: University ranking (Times ranking) variables versus subscription costs with selected publishers. Linear model slope and Bonferroni-adjusted p-value.
 
 <img src="figure_manuscript/rankingeter-1.png" title="plot of chunk rankingeter" alt="plot of chunk rankingeter" width="290px" /><img src="figure_manuscript/rankingeter-2.png" title="plot of chunk rankingeter" alt="plot of chunk rankingeter" width="290px" /><img src="figure_manuscript/rankingeter-3.png" title="plot of chunk rankingeter" alt="plot of chunk rankingeter" width="290px" />
 

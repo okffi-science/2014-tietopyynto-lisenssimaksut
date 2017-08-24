@@ -1,0 +1,9 @@
+Data at http://www.lib.sfu.ca/about/overview/collections/serials-costs.
+
+The API endpoint: http://api.lib.sfu.ca/serialcosts
+
+To retrieve all of the data, issue a call to the 'list' endpoint for
+every year you are interested in, then, for each of the titles in the
+yearly result set, issue a 'search' query by ISSN to get the title's
+cost data, broken down by year.
+
