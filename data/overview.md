@@ -1,13 +1,7 @@
 ---
 title: "Supplementary Material"
 author: ""
-<<<<<<< HEAD
 date: "2017-08-24"
-||||||| merged common ancestors
-date: "2017-08-14"
-=======
-date: "2017-08-17"
->>>>>>> 90fc9036ac90beea5bb8ced99979222e2585cf7a
 output:
   pdf_document:
     fig_caption: yes
@@ -79,12 +73,43 @@ Figure  2: University ranking (Times ranking) variables versus subscription cost
 
 Table  1: University ranking (Times ranking) variables versus subscription costs with selected publishers. Linear model slope and Bonferroni-adjusted p-value.
 
+
 <img src="figure_manuscript/rankingeter-1.png" title="plot of chunk rankingeter" alt="plot of chunk rankingeter" width="290px" /><img src="figure_manuscript/rankingeter-2.png" title="plot of chunk rankingeter" alt="plot of chunk rankingeter" width="290px" /><img src="figure_manuscript/rankingeter-3.png" title="plot of chunk rankingeter" alt="plot of chunk rankingeter" width="290px" />
 
 Figure  3: University scoring (ETER) variables versus subscription costs with selected publishers.
 
 
+|Variable           |Country     |Publisher         |correlation       |    slope|     padj|
+|:------------------|:-----------|:-----------------|:-----------------|--------:|--------:|
+|EXP.CURRTOTAL.EURO |Finland     |Elsevier          |0.940562613430127 | 0.000000| 0.000000|
+|EXP.CURRTOTAL.EURO |Finland     |Springer          |0.959185520361991 | 0.000000| 0.000000|
+|EXP.CURRTOTAL.EURO |Finland     |Wiley / Blackwell |0.955461592670895 | 0.000000| 0.000000|
+|EXP.CURRTOTAL.EURO |Netherlands |Elsevier          |0.785714285714286 | 0.000000| 0.000228|
+|EXP.CURRTOTAL.EURO |Netherlands |Springer          |0.785714285714286 | 0.000000| 0.000004|
+|EXP.CURRTOTAL.EURO |Netherlands |Wiley / Blackwell |0.785714285714286 | 0.000000| 0.000006|
+|EXP.CURRTOTAL.EURO |UK          |Elsevier          |0.871831225946571 | 0.000000| 0.000000|
+|EXP.CURRTOTAL.EURO |UK          |Springer          |0.619782971827035 | 0.000000| 0.000000|
+|EXP.CURRTOTAL.EURO |UK          |Wiley / Blackwell |0.65773442079522  | 0.000000| 0.000000|
+|STA.ACAFTETOTAL    |Finland     |Elsevier          |0.941145968369199 | 0.000426| 0.000000|
+|STA.ACAFTETOTAL    |Finland     |Springer          |0.955384615384615 | 0.000442| 0.000000|
+|STA.ACAFTETOTAL    |Finland     |Wiley / Blackwell |0.912473572938689 | 0.000319| 0.000000|
+|STA.ACAFTETOTAL    |Netherlands |Elsevier          |0.761904761904762 | 0.000496| 0.001123|
+|STA.ACAFTETOTAL    |Netherlands |Springer          |0.761904761904762 | 0.000482| 0.000285|
+|STA.ACAFTETOTAL    |Netherlands |Wiley / Blackwell |0.761904761904762 | 0.000465| 0.000149|
+|STA.ACAFTETOTAL    |UK          |Elsevier          |0.839241977703113 | 0.001826| 0.000000|
+|STA.ACAFTETOTAL    |UK          |Springer          |0.619281405529376 | 0.001601| 0.000000|
+|STA.ACAFTETOTAL    |UK          |Wiley / Blackwell |0.66029297353798  | 0.001393| 0.000000|
+|STUD.TOTALISCED5.7 |Finland     |Elsevier          |0.866995073891626 | 0.000062| 0.000000|
+|STUD.TOTALISCED5.7 |Finland     |Springer          |0.88868778280543  | 0.000066| 0.000000|
+|STUD.TOTALISCED5.7 |Finland     |Wiley / Blackwell |0.90754052149401  | 0.000050| 0.000000|
+|STUD.TOTALISCED5.7 |Netherlands |Elsevier          |0.785714285714286 | 0.000050| 0.007715|
+|STUD.TOTALISCED5.7 |Netherlands |Springer          |0.785714285714286 | 0.000049| 0.003476|
+|STUD.TOTALISCED5.7 |Netherlands |Wiley / Blackwell |0.785714285714286 | 0.000047| 0.002050|
+|STUD.TOTALISCED5.7 |UK          |Elsevier          |0.713491810667543 | 0.000149| 0.000000|
+|STUD.TOTALISCED5.7 |UK          |Springer          |0.485279415488167 | 0.000101| 0.000000|
+|STUD.TOTALISCED5.7 |UK          |Wiley / Blackwell |0.583995155715809 | 0.000100| 0.000000|
 
+Table  2: ETER variables versus subscription costs with selected publishers. Linear model slope and Bonferroni-adjusted p-value.
 
 
 

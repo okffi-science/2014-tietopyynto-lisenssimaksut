@@ -13,16 +13,15 @@ dictionary; full text materials; reference database; reference resource; ebook p
 dictionary; full text materials; reference resource
 dictionary; full text materials; reference resource; ebook package
 dictionary; other
-dictionary; other; ebook package
 dictionary; other electronic service
 dictionary; other electronic service; ebook package
 dictionary; other electronic service; reference resource
+dictionary; other; ebook package
 dictionary; reference resource
 ebook package
 full text materials
 full text materials; ebook package
 full text materials; other
-full text materials; other; ebook package
 full text materials; other electronic service
 full text materials; other electronic service; ebook package
 full text materials; other electronic service; reference database
@@ -31,6 +30,7 @@ full text materials; other electronic service; reference database; reference res
 full text materials; other electronic service; reference database; reference resource; ebook package
 full text materials; other electronic service; reference resource
 full text materials; other electronic service; reference resource; ebook package
+full text materials; other; ebook package
 full text materials; other; other electronic service; ebook package
 full text materials; other; other electronic service; reference database; ebook package
 full text materials; other; reference database
@@ -47,13 +47,13 @@ full text materials; reference resource
 full text materials; reference resource; ebook package
 livres électroniques
 other
-other; ebook package
 other electronic service
 other electronic service; ebook package
 other electronic service; reference database
 other electronic service; reference database; ebook package
 other electronic service; reference resource
 other electronic service; reference resource; ebook package
+other; ebook package
 other; reference database; ebook package
 other; reference database; reference resource
 other; reference resource

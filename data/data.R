@@ -72,7 +72,8 @@ d$Resource.type <- tolower(d$Resource.type)
 # Let us leave Canada out as there was no Publisher information
 d <- filter(d, !Country == "Canada")
 d$Country <- droplevels(d$Country)
-
+# d$ranking <- as.numeric(gsub(",", ".", as.character(d$ranking)))
+  
 # --------------------------
 
 write.csv(sort(names(table(d$Publisher))), file = "pubs.csv", row.names = F, quote = F)
