@@ -6,5 +6,7 @@ names(fra) <- c("Publisher", "Resource", "Resource.type", 2009:2015)
 fra <- melt(fra, id = c("Publisher", "Resource", "Resource.type")) %>% rename(Year = variable, Cost = value)
 fra$Country <- "France"
 fra$Currency <- "EUR"
+fra$Organization <- "Clermont"
 fra <- fra %>% rename(Material = Resource)
 fra <- fra[1:412,] # Drop the total sum row
+
